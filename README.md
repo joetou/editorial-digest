@@ -27,7 +27,7 @@ GitHub Actions 每日收錄社評，透過 DeepSeek 生成3至4點繁體中文�
 | 可選 Variable | `PAGES_CUSTOM_DOMAIN` | 只有已在 Pages 設定自訂網域時才填寫該域名 |
 
 3. Settings → Pages → Build and deployment → Source 選 `GitHub Actions`。
-4. Settings → Actions → General → Workflow permissions 允許 Read and write permissions，讓工作能保存歷史 JSON。如果儲存庫有分支保護，須讓 Actions 有合適的提交安排；不要為此無條件關閉整個分支保護。
+4. 工作檔已為歸檔工作設定 `contents: write`，其餘工作只使用所需權限；一般不需改動全域權限。如果機構政策或分支保護阻止機器人保存資料，須由管理員安排合適的提交權限，不應直接關閉分支保護。
 5. 初次 push 會只建置及發布，不會呼叫收費 API。到 Actions → Daily editorials and GitHub Pages → Run workflow，勾選收錄選項，執行第一次收錄。
 6. 完成後開啟部署結果中的 Pages 網址。以建議名稱建立時通常是 `https://joetou.github.io/editorial-digest/`；實際以 GitHub 顯示的網址為準。
 
