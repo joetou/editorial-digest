@@ -1,0 +1,30 @@
+{
+  "name": "hk-mo-editorial-pages-deepseek",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "node --import tsx scripts/build-data.ts && next build",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "sources:check": "node --import tsx scripts/check-sources.ts",
+    "collect": "node --import tsx scripts/collect.ts",
+    "demo": "DEMO_MODE=true npm run build",
+    "serve": "python3 -m http.server 3100 --directory out"
+  },
+  "dependencies": {
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "cheerio": "1.0.0",
+    "robots-parser": "^3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@types/node": "^22.13.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "tsx": "^4.19.2"
+  },
+  "type": "module"
+}
