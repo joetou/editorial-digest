@@ -1,0 +1,2 @@
+export function sourceState(errors:string[],saved=0){if(!errors.length)return 'ok';if(saved)return 'partial';const message=errors.join('；');if(/robots\.txt.*禁止|拒絕自動存取|HTTP (403|401)|需要訂閱|需要登入|授權正文/.test(message))return 'restricted';if(/HTTP 404|未找到近期|尚未提供/.test(message))return 'waiting';return 'attention';}
+export function statusLabel(state?:string,message=''){const actual=state==='attention'?sourceState([message]):state;return ({ok:'已檢查',partial:'部分完成',restricted:'需授權',waiting:'待更新',attention:'待修復',pending:'未執行'} as Record<string,string>)[actual||'pending']||'待處理';}

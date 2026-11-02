@@ -1,10 +1,10 @@
 import type {Region} from './types';
-export type Source={id:string;name:string;region:Region;index:string;link:string;editorial:string;body:string;note?:string};
+export type Source={id:string;name:string;region:Region;index:string;link:string;editorial:string;body:string;hosts?:string[];note?:string};
 export const sources:Source[]=[
  {id:'mingpao',name:'明報',region:'香港',index:'https://news.mingpao.com/pns/社評',link:'/pns/社評/|/pns/editorial/',editorial:'社評',body:'.article_content, #blockcontent, [itemprop="articleBody"]'},
- {id:'hkej',name:'信報',region:'香港',index:'https://www1.hkej.com/dailynews/commentary',link:'/dailynews/article/|/dailyNews/article/',editorial:'社評',body:'.article-content, #article-content, .article_content',note:'可能需要訂閱；不繞過付費限制'},
- {id:'oriental',name:'東方日報',region:'香港',index:'https://orientaldaily.on.cc/',link:'00186_001|00190_001',editorial:'正論',body:'.breakingNewsContent, .article-content, .content, [itemprop="articleBody"]'},
- {id:'singtao',name:'星島日報',region:'香港',index:'https://std.stheadline.com/daily/editorial/日報-社論',link:'/daily/article/|/editorial/article/|/realtime/article/',editorial:'社論',body:'.std-article-body, .article-content, .content-body, [itemprop="articleBody"]'},
+ {id:'hkej',name:'信報',region:'香港',index:'https://www.hkej.com/dailynews/toc',hosts:['www.hkej.com','www1.hkej.com'],link:'/dailynews/article/|/dailyNews/article/',editorial:'社評',body:'.article-content, #article-content, .article_content',note:'官方 robots.txt 禁止一般機器人，需取得授權 feed'},
+ {id:'oriental',name:'東方日報',region:'香港',index:'https://orientaldaily.on.cc/',link:'00186_001|00190_001',editorial:'正論',body:'.articleContent .paragraph .content, [itemprop="articleBody"]'},
+ {id:'singtao',name:'星島日報',region:'香港',index:'https://www.stheadline.com/daily-editorial/社論',hosts:['www.stheadline.com','std.stheadline.com'],link:'/daily-editorial/[0-9]+/',editorial:'社論',body:'.std-article-body, .article-content, .content-body, [itemprop="articleBody"]'},
  {id:'scmp',name:'SCMP',region:'香港',index:'https://www.scmp.com/author/scmp-editorial',link:'/comment/.*article/|/opinion/.*article/',editorial:'SCMP Editorial',body:'[itemprop="articleBody"], .article-body, [data-qa="article-body"]',note:'可能需要訂閱；只接受 SCMP Editorial 署名'},
  {id:'takung',name:'大公報',region:'香港',index:'https://www.tkww.hk/opinion/editorial',link:'/a/\\d',editorial:'大公社評',body:'.content-body-inner, .tkp_content, [itemprop="articleBody"]'},
  {id:'wenwei',name:'文匯報',region:'香港',index:'https://www.tkww.hk/opinion/editorial',link:'/a/\\d',editorial:'文匯社評',body:'.content-body-inner, .tkp_content, [itemprop="articleBody"]'},

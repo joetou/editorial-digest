@@ -13,7 +13,7 @@ export function extract(html:string,url:string,s:Source){
  const author=typeof node.author==='object'?JSON.stringify(node.author):String(node.author||'');
  // Classification uses article heading/author, never site navigation.
  const evidence=title+' '+author+' '+$('.article-category, .breadcrumb, [rel="author"]').text();
- if(!new RegExp(s.editorial,'i').test(evidence) && !(s.id==='oriental' && /00186_001|00190_001/.test(url)) && !(s.id==='mingpao'&&/社評|editorial/.test(decodeURI(url))) && !(s.id==='singtao'&&/editorial/.test(url)))throw new Error('無法確認為該報社評');
+ if(!new RegExp(s.editorial,'i').test(evidence) && !(s.id==='oriental' && ($('meta[name="psCodeMid"]').attr('content')==='185'||/00190_001/.test(url))) && !(s.id==='mingpao'&&/社評|editorial/.test(decodeURI(url))) && !(s.id==='singtao'&&/editorial/.test(url)))throw new Error('無法確認為該報社評');
  const paid=nodes.some(n=>n.isAccessibleForFree===false||n.isAccessibleForFree==='False')||$('[class*="paywall"], [id*="paywall"]').filter((_,el)=>$(el).text().trim().length>20).length>0;
  if(paid)throw new Error('需要訂閱或授權正文');
  let raw=String(node.datePublished||$('meta[property="article:published_time"]').attr('content')||$('meta[name="pubdate"]').attr('content')||$('time[datetime]').first().attr('datetime')||'');
@@ -25,7 +25,7 @@ export function extract(html:string,url:string,s:Source){
  if(!day)throw new Error('找不到可信刊登日期');
  $('script,style,nav,footer,aside,form,.related,.advertisement').remove();
  let body=typeof node.articleBody==='string'?node.articleBody:'';
- if(!body)for(const selector of s.body.split(',')){const el=$(selector.trim()).first();const paragraphs=el.find('p').map((_,e)=>$(e).text().trim()).get().filter(Boolean);const text=paragraphs.length?paragraphs.join('\n'):el.text().trim();if(text.length>body.length)body=text;}
+ for(const selector of s.body.split(',')){const all=$(selector.trim());const el=all.first();const paragraphs=el.find('p').map((_,e)=>$(e).text().trim()).get().filter(Boolean);const text=s.id==='oriental'?all.map((_,e)=>$(e).text().trim()).get().join('\n'):(paragraphs.length?paragraphs.join('\n'):el.text().trim());if(text.length>body.length)body=text;}
  body=body.replace(/\s+/g,' ').trim();
  if(!title||body.length<350||/enable javascript|verify you are human|subscribe to (read|continue)|訂閱後.*閱讀|登入後.*閱讀/i.test(body))throw new Error('正文不足或受到存取限制');
  return {title,body:body.slice(0,24000),published_date:day};

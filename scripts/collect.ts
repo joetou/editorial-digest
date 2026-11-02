@@ -5,6 +5,7 @@ import {sources} from '../lib/sources';
 import {hktDate,shiftDay,validDay} from '../lib/dates';
 import {readArchive,saveArchive,atomicJson,validateEditorial} from '../lib/archive';
 import {canonical} from '../lib/extract';
+import {sourceState} from '../lib/status';
 import type {SourceStatus} from '../lib/types';
 if(!process.env.DEEPSEEK_API_KEY){console.error('請先設定 GitHub Secret：DEEPSEEK_API_KEY；未呼叫API及更改歷史。');process.exit(1);}
 const today=hktDate();const lower=shiftDay(today,-Math.max(1,Math.min(7,Number(process.env.LOOKBACK_DAYS)||3)));
@@ -24,7 +25,7 @@ for(let i=0;i<sources.length;i+=3){await Promise.all(sources.slice(i,i+3).map(as
  });errors.push(...result.errors);if(!result.found)errors.push('未找到社評連結，需檢查來源或設定授權 feed');if(!recent&&!errors.length)errors.push('未找到近期可用社評');
  }catch(e){errors.push(e instanceof Error?e.message:'來源處理失敗');}
  const message=errors.length?[...new Set(errors)].slice(0,4).join('；').replace(/https?:\/\/\S+/g,'[來源網址]'):`新增 ${added} 篇，檢查 ${recent} 篇`;
- status.push({source_id:s.id,state:errors.length?(added?'partial':'attention'):'ok',message,updated_at:new Date().toISOString()});console.log(`${s.name}：新增 ${added}；${errors.length?'有待處理項目':'完成'}`);
+ status.push({source_id:s.id,state:sourceState(errors,added),message,updated_at:new Date().toISOString()});console.log(`${s.name}：新增 ${added}；${errors.length?'有待處理項目':'完成'}`);
  }));await saveArchive(archive);}
 let previous:{last_success_at?:string|null}={};try{previous=JSON.parse(await readFile('data/status.json','utf8'));}catch(e){if((e as NodeJS.ErrnoException).code!=='ENOENT')throw e;}
 const now=new Date().toISOString();const record={schema_version:1,last_run_at:now,last_success_at:saved?now:previous.last_success_at||null,model:process.env.DEEPSEEK_MODEL||'deepseek-flash',requests,saved,status};
