@@ -20,10 +20,10 @@ const order=new Map<string,number>();const ranked=gathered.items.map(a=>{const k
 const candidates=ranked.sort((x,y)=>y.a.published_date.localeCompare(x.a.published_date)||x.rank-y.rank).map(v=>v.a);
 for(const a of candidates){
  if(news.has(a.url)||duplicates[a.url]||requests>=max-12)continue;
- if([...news.values()].filter(v=>v.published_date===a.published_date&&v.category===a.category).length>=4)continue;
+ if([...news.values()].filter(v=>v.published_date===a.published_date&&v.category===a.category).length>=8)continue;
  try{const known=[...news.values()].filter(v=>v.published_date>=shiftDay(a.published_date,-1)&&v.published_date<=shiftDay(a.published_date,1));
  const result=await summarizeNews(a,known,{beforeRequest});if(result.duplicate_id){duplicates[a.url]={keep_id:result.duplicate_id,date:a.published_date};continue;}
- if([...news.values()].filter(v=>v.published_date===a.published_date&&v.category===result.category).length>=4)continue;
+ if([...news.values()].filter(v=>v.published_date===a.published_date&&v.category===result.category).length>=8)continue;
  const row=validateEditorial({source_id:a.source.id,newspaper:a.source.name,region:a.source.region,title:a.title,url:a.url,published_date:a.published_date,summary:result.summary,summary_version:2,category:result.category});news.set(row.url,row);newsSaved++;await saveArchive(news,'data/news/archive');
  }catch(e){console.log('新聞摘要待重試：'+(e instanceof Error?e.message:'處理失敗'));}
 }
