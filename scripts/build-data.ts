@@ -14,3 +14,11 @@ for(const [m,a] of groups)await atomicJson(`public/data/archive/${m}.json`,a);
 const status=sources.map(s=>{const v=raw.status?.find(v=>v.source_id===s.id);return {source_id:s.id,state:v?.state||'pending',message:v?.message||s.note||'尚未執行收錄',updated_at:v?.updated_at||''};});
 await atomicJson('public/data/index.json',{schema_version:1,demo,generated_at:new Date().toISOString(),last_run_at:demo?null:raw.last_run_at||null,last_success_at:demo?null:raw.last_success_at||null,model:raw.model||'deepseek-flash',months:[...groups.keys()].sort(),counts:[...daily.values()],status});
 console.log(`已建立公開資料：${rows.length}篇，${groups.size}個月份，示範模式=${demo}`);
+
+const newsRows=[...(await readArchive('data/news/archive')).values()].filter(a=>a.category);
+const newsMonths=new Map<string,Editorial[]>(),newsCounts=new Map<string,{day:string;source_id:string;category:string;count:number}>();
+for(const a of newsRows){const month=a.published_date.slice(0,7);newsMonths.set(month,[...(newsMonths.get(month)||[]),a]);const key=a.published_date+'|'+a.source_id+'|'+a.category;newsCounts.set(key,{day:a.published_date,source_id:a.source_id,category:a.category!,count:(newsCounts.get(key)?.count||0)+1});}
+let newsStatus:{last_run_at?:string;status?:SourceStatus[]}={};try{newsStatus=JSON.parse(await readFile('data/news/status.json','utf8'));}catch(e){if((e as NodeJS.ErrnoException).code!=='ENOENT')throw e;}
+for(const [month,rows] of newsMonths)await atomicJson(`public/data/news/archive/${month}.json`,rows);
+await atomicJson('public/data/news/index.json',{schema_version:1,demo:false,months:[...newsMonths.keys()].sort(),counts:[...newsCounts.values()],status:newsStatus.status||[],last_run_at:newsStatus.last_run_at||null});
+console.log(`新聞資料：${newsRows.length} 則`);

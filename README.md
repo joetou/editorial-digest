@@ -121,3 +121,14 @@ python3 -m http.server 3100 --directory out
 - DeepSeek思考模式：https://api-docs.deepseek.com/guides/thinking_mode/
 - GitHub Pages工作：https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
 - GitHub排程限制：https://docs.github.com/en/actions/how-tos/troubleshoot-workflows
+
+
+## 新聞速覽及短摘要
+
+首頁加入「新聞速覽」，支援國際新聞、內地新聞、港聞及澳聞，沿用日期、來源地區、報章、歷史日曆及字體滑桿。新聞首先接入星島及澳門日報可公開讀取的版面；其餘報章社評來源維持原設定。授權或 robots 限制不會被繞過。
+
+每天 06:00 HKT 同一個 GitHub Actions 排程收錄新聞及社評。新聞每類每天最多 4 則，候選依刊登日期排序並交替港澳來源；DeepSeek 會比對相鄰日期已收錄事件，只保留一個報章來源。同一人物但不同事件不應合併；自動語意判斷仍可能有誤。社評不進行跨報事件合併，以保留不同立場。
+
+新摘要統一為 3 點，目標每點 18–35 字，上限 48 字。歷史社評以既有摘要忠實改寫，成功才標記 `summary_version: 2`，不截斷句子或覆蓋失敗項目。每輪最多 96 次 API 請求，含重試、去重及歷史改寫；達上限留待下輪，不刪除歷史。
+
+新聞歷史位於 `data/news/archive/YYYY-MM.json`，來源狀態位於 `data/news/status.json`。公開檔案只含標題、來源、日期、短摘要及原文連結；不發布全文、密鑰或授權設定。

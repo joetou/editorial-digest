@@ -3,7 +3,7 @@ import type {Source} from './sources';
 import {publicationDay} from './dates';
 export function canonical(raw:string,base:string){const u=new URL(raw,base);u.hash='';for(const key of [...u.searchParams.keys()])if(/^(utm_|fbclid|gclid)/.test(key))u.searchParams.delete(key);return u.href;}
 export function discover(html:string,s:Source,base:string){const $=load(html);const urls=new Set<string>();$('a[href]').each((_,a)=>{try{const href=canonical($(a).attr('href')!,base);if(['takung','wenwei'].includes(s.id)&&!new RegExp(s.editorial).test($(a).text()))return;if(s.id==='macaodaily'&&!/社論|新聞小語/.test($(a).text()))return;if(s.id==='oriental'&&!$(a).closest('.sectionList').find('.subHeader').text().includes('正論'))return;if(new RegExp(s.link,'i').test(decodeURI(href)))urls.add(href);}catch{}});return [...urls].slice(0,24);}
-export function extract(html:string,url:string,s:Source){
+export function extract(html:string,url:string,s:Source,news=false){
  const $=load(html);const nodes:Record<string,unknown>[]=[];
  function visit(v:unknown){if(Array.isArray(v))v.forEach(visit);else if(v&&typeof v==='object'){const o=v as Record<string,unknown>;if(/Article|NewsArticle|ReportageNewsArticle/.test(String(o['@type'])))nodes.push(o);if(o['@graph'])visit(o['@graph']);}}
  $('script[type="application/ld+json"]').each((_,el)=>{try{visit(JSON.parse($(el).text()));}catch{}});
@@ -13,7 +13,7 @@ export function extract(html:string,url:string,s:Source){
  const author=typeof node.author==='object'?JSON.stringify(node.author):String(node.author||'');
  // Classification uses article heading/author, never site navigation.
  const evidence=title+' '+author+' '+$('.article-category, .breadcrumb, [rel="author"]').text();
- if(!new RegExp(s.editorial,'i').test(evidence) && !(s.id==='oriental' && ($('meta[name="psCodeMid"]').attr('content')==='185'||/00190_001/.test(url))) && !(s.id==='mingpao'&&/社評|editorial/.test(decodeURI(url))) && !(s.id==='singtao'&&/editorial/.test(url)))throw new Error('無法確認為該報社評');
+ if(!news&&!new RegExp(s.editorial,'i').test(evidence) && !(s.id==='oriental' && ($('meta[name="psCodeMid"]').attr('content')==='185'||/00190_001/.test(url))) && !(s.id==='mingpao'&&/社評|editorial/.test(decodeURI(url))) && !(s.id==='singtao'&&/editorial/.test(url)))throw new Error('無法確認為該報社評');
  const paid=nodes.some(n=>n.isAccessibleForFree===false||n.isAccessibleForFree==='False')||$('[class*="paywall"], [id*="paywall"]').filter((_,el)=>$(el).text().trim().length>20).length>0;
  if(paid)throw new Error('需要訂閱或授權正文');
  let raw=String(node.datePublished||$('meta[property="article:published_time"]').attr('content')||$('meta[name="pubdate"]').attr('content')||$('time[datetime]').first().attr('datetime')||'');
