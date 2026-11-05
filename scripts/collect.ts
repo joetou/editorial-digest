@@ -1,4 +1,4 @@
-import {gatherNews,summarizeNews} from '../lib/news';
+import {gatherNews,summarizeNews,groupNews} from '../lib/news';
 import {readFile} from 'node:fs/promises';
 import {collect} from '../lib/fetch-source';
 import {summarize} from '../lib/deepseek';
@@ -14,19 +14,23 @@ const max=Math.max(1,Math.min(200,Number(process.env.MAX_API_REQUESTS)||96));let
 const archive=await readArchive();const status:SourceStatus[]=[];const running=new Set<string>();
 const beforeRequest=()=>{if(requests>=max)throw new Error('已達本輪 API 請求上限');requests++;};
 // 新聞獨立儲存；只把成功生成及完成事件比對的摘要加入歷史。
+let duplicates:Record<string,{keep_id:string;date:string}>={};try{duplicates=JSON.parse(await readFile('data/news/duplicates.json','utf8'));}catch(e){if((e as NodeJS.ErrnoException).code!=='ENOENT')throw e;}
 const news=await readArchive('data/news/archive');const gathered=await gatherNews(today);let newsSaved=0;
 const order=new Map<string,number>();const ranked=gathered.items.map(a=>{const key=a.source.id+'|'+a.category+'|'+a.published_date;const rank=order.get(key)||0;order.set(key,rank+1);return {a,rank};});
 const candidates=ranked.sort((x,y)=>y.a.published_date.localeCompare(x.a.published_date)||x.rank-y.rank).map(v=>v.a);
 for(const a of candidates){
- if(news.has(a.url)||requests>=max-12)continue;
+ if(news.has(a.url)||duplicates[a.url]||requests>=max-12)continue;
  if([...news.values()].filter(v=>v.published_date===a.published_date&&v.category===a.category).length>=4)continue;
  try{const known=[...news.values()].filter(v=>v.published_date>=shiftDay(a.published_date,-1)&&v.published_date<=shiftDay(a.published_date,1));
- const result=await summarizeNews(a,known,{beforeRequest});if(result.duplicate_id)continue;
+ const result=await summarizeNews(a,known,{beforeRequest});if(result.duplicate_id){duplicates[a.url]={keep_id:result.duplicate_id,date:a.published_date};continue;}
  if([...news.values()].filter(v=>v.published_date===a.published_date&&v.category===result.category).length>=4)continue;
  const row=validateEditorial({source_id:a.source.id,newspaper:a.source.name,region:a.source.region,title:a.title,url:a.url,published_date:a.published_date,summary:result.summary,summary_version:2,category:result.category});news.set(row.url,row);newsSaved++;await saveArchive(news,'data/news/archive');
  }catch(e){console.log('新聞摘要待重試：'+(e instanceof Error?e.message:'處理失敗'));}
 }
-await atomicJson('data/news/status.json',{last_run_at:new Date().toISOString(),status:gathered.status,saved:newsSaved});
+let newsMerged=0;
+try{const groups=await groupNews([...news.values()].filter(a=>a.published_date>=lower),{beforeRequest});const affected=new Set<string>();for(const g of groups)for(const id of g.duplicate_ids){const duplicate=[...news.values()].find(a=>a.id===id);if(duplicate){duplicates[duplicate.url]={keep_id:g.keep_id,date:duplicate.published_date};affected.add(duplicate.published_date.slice(0,7));news.delete(duplicate.url);newsMerged++;}}for(const month of affected)await atomicJson('data/news/archive/'+month+'.json',[...news.values()].filter(a=>a.published_date.startsWith(month)));}catch{console.log('整體新聞事件比對留待下輪重試');}
+await atomicJson('data/news/duplicates.json',duplicates);
+await atomicJson('data/news/status.json',{last_run_at:new Date().toISOString(),status:gathered.status,saved:newsSaved,merged:newsMerged});
 // 舊摘要由既有內容重新精簡，保留原意，不用字數截斷代替改寫。
 for(const [url,a] of archive){if(a.summary_version===2||requests>=max-12)continue;try{const summary=await summarize(a.title,'以下是同一篇社評的已存摘要，請忠實精簡，不補充原文未有資訊：'+a.summary.join('\n'),{beforeRequest});archive.set(url,{...a,summary,summary_version:2});}catch{console.log('一篇歷史摘要留待下輪精簡');}}
 await saveArchive(archive);
