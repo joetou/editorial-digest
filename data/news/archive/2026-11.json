@@ -1,5 +1,277 @@
 [
   {
+    "id": "d8bc0f7e7b22207077622c10",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "丁薛祥四主張促貿易平衡",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944585.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "丁薛祥在上海進博會開幕式發表主旨講話，提出四點主張促進貿易平衡。",
+      "四點主張包括共享市場、深化投資合作、加強創新賦能及增進理解互信。",
+      "丁薛祥在滬期間分別會見多國政要及聯合國開發計劃署署長德克羅。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "aedc82ae2949b041f17c1de1",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "世界媒體峰會京舉行",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944586.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "第七屆世界媒體峰會在北京舉行，主題為智能變革中的媒體使命與合作行動。",
+      "全球一百一十二個國家和地區近三百三十家機構、近五百名代表出席。",
+      "峰會聚焦人工智能普惠發展與全球媒體轉型，並舉行多場對話及分論壇。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "f0148d27d68035357e800709",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "蔣萬安轟不負責任",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944587.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "沈伯洋受訪稱台北兒虐數據為六都之首，被追問時承認手上無數據只能猜測。",
+      "蔣萬安批評用猜測數據會加深家長不安，指對方指控不負責任且不符事實。",
+      "蔣辦引官方數據指高雄兒虐致死個案為六都最多，台北則為零或僅兩人。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "3d71d61d7c4f61cb58eb5e3e",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "我公民入境檀香山遭盤查",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944588.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "多名中國公民從檀香山機場入境時遭美方無端盤查滋擾，並被註銷簽證遣返。",
+      "中國駐洛杉磯總領館已多次向美方提出嚴正交涉，並提醒公民謹慎選擇入境路線。",
+      "總領館呼籲提前了解美入境規定，遇盤查沉着應對，可要求翻譯並聯繫領館求助。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "c8bbc02069a8356de8073ff4",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "我續徵美正丙醇反補貼稅",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944590.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "中國商務部宣布自十一月六日起，對原產於美國的進口正丙醇繼續徵收反補貼稅五年。",
+      "商務部期終複審裁定，若終止措施，美國正丙醇的補貼及對華產業損害可能再度發生。",
+      "商務部發言人黃玲表示，中方對擴大採購美國農產品持開放態度，前提是對等降稅安排落地。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "0a1ddadb68e7ea3b5810c798",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "巨貪馬興瑞被訴",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944591.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "最高檢通報馬興瑞涉受賄案已由國家監察委員會調查終結並移送審查起訴。",
+      "最高檢以受賄罪逮捕馬興瑞，指定湖北宜昌市人民檢察院審查起訴。",
+      "宜昌市檢察院已向市中級法院公訴，指控其受賄數額特別巨大。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "926d8e067333ee4fd42ad14f",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "《世界開放報告二○二六》發佈",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944596.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "《世界開放報告二○二六》在第九屆虹橋國際經濟論壇發佈，以共同開放為主線。",
+      "二○二五年世界開放指數為零點七四五三，同比下降百分之一，為二○一六年以來最大降幅。",
+      "中國開放指數由一九九○年零點五八九一升至二○二五年零點七五五一，升幅居全球前列。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "50228f4bfe7b0edb2cfadf5d",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "新一股冷空氣周日入粵",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944600.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "廣東省氣象部門預計新一股中等強度冷空氣十一月八日下午起影響全省。",
+      "屆時全省日平均氣溫將下降五至七攝氏度，近期炎熱天氣可望緩解。",
+      "深圳五日多地氣溫約三十攝氏度，料七日立冬仍未能入秋。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "8fabbb70eb458189e4d61a72",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "港澳台參展規模均擴大",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944602.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "第九屆進博會在上海開幕，港澳台參展規模均擴大。",
+      "香港參展企業近四百家創新高，澳門近八十家增五成二。",
+      "台灣地區參展面積約四千二百平方米，同比增長一成。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "61b29f280cd5db0ccfd0ffd8",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "政府收四地擬建臨時停車場",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944665.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "政府跨部門行動收回澳門鴨涌馬路四幅國有土地，合共約三千七百平方米。",
+      "其中三幅為批給失效土地，一幅為被非法佔用土地，原有多間鐵皮屋及雜物。",
+      "土地屬三十九幅計劃臨時利用土地之一，將交由建設部門設置臨時停車場。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "7b4f824f4f75b5603e374592",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "三常會關注登記程序期限",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944666.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "立法會三常會首次討論《特定業務及活動的規管制度》法案，關注適用範圍及定義。",
+      "法案擬將低風險業務由准照制簡化為登記制，三常會關注登記期限及默示同意機制。",
+      "法案建議放寬桌球室入場年齡、美容院豁免按摩准照及新增旅拍登記制度。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "edcb150bb91b1890e7968f29",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "特首向丁薛祥介紹澳發展",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944667.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "岑浩輝在上海出席第九屆進博會開幕式，聽取丁薛祥發表主旨講話。",
+      "開幕式後岑浩輝陪同丁薛祥巡視中國館，在澳門展區介紹特區最新發展。",
+      "澳門展區以「多元‧發展」為主題，另設食品飲品館及專業服務館。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "82ea008dd9c18cdaac5434a8",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "貨車司機涉港購毒回澳被截",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944668.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "司警在港珠澳大橋口岸截獲三十六歲何姓貨車司機，搜出一點七九克冰毒。",
+      "疑人涉兩個月前起從香港購毒來澳吸食及販賣，尿檢對冰毒呈陽性。",
+      "警方以販毒、吸毒及毒駕罪落案，移交檢察院跟進。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "d36b6b9dc47cb155c545a367",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "國安首案今早宣判",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944669.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "澳門首宗國安法案件今早十時於初級法院公開宣判，被告區錦新被控三項罪名。",
+      "區錦新被指自二○二二年起勾結境外反華組織，提供煽動性資料並破壞行政長官選舉。",
+      "案件九月以不公開方式完成庭審，公眾可憑身份證取籌旁聽，傳媒經新聞局報名。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "3935896316eac6667e3ccebd",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "警查車揭兩漢禁駕期開車",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944671.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "治安警前日凌晨在路氹查車，揭發兩名本地男子在禁止駕駛期間開車。",
+      "兩人分別因醉駕被判停牌，禁駕期至明年八月及九月，當場被截查。",
+      "警方以禁止駕駛期間駕駛及加重違令罪將兩人拘捕，移交檢察院跟進。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "ef715a15a2fac01ec8f5ef0b",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "警拘兩內地男女換錢黨",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944672.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "司警在皇朝區賭場查獲兩名內地男女換錢黨，檢獲逾十七萬港元現金及角子機券。",
+      "兩人分別自今年八月及一月起從事不法匯兌，男獲利約五千元，女獲利約五萬元。",
+      "證人用一萬七千二百六十元人民幣兌換兩萬港元，司警控以經營為賭博的不法匯兌罪。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "6bd4f78bfbcaa11590d97ad8",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "民防宣教增外地新生應變",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944673.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "警察總局八月至十月舉辦八十場民防講座，約三千一百○一人次參與。",
+      "講座重點介紹風暴潮警告分級、疏散路線及避險中心位置等應變資訊。",
+      "局方同時推廣平安澳門等官方平台，助學生即時掌握天氣預警。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
     "id": "0c06f4f657a739c17b344a44",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -11,6 +283,22 @@
       "警方本月內將AI人臉識別引入銳眼閉路電視系統，以更精準快速偵測罪案及尋找失蹤者。",
       "銳眼現有逾1萬支鏡頭，警方計劃每年增2萬支，目標2028年全港約6萬支。",
       "警方正與大型商場洽談接入系統，首批最快今年年底對接，至少4個商場參與。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "10c42241f5d2d2695b7b6874",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "連鎖雲餃店旺角驚見3鼠櫥窗走動  炮台山分店餐牌燈箱群蟲亂爬",
+    "url": "https://www.stheadline.com/breaking-news/3634056/%E9%80%A3%E9%8E%96%E9%9B%B2%E9%A4%83%E5%BA%97%E6%97%BA%E8%A7%92%E9%A9%9A%E8%A6%8B3%E9%BC%A0%E6%AB%A5%E7%AA%97%E8%B5%B0%E5%8B%95-%E7%82%AE%E5%8F%B0%E5%B1%B1%E5%88%86%E5%BA%97%E9%A4%90%E7%89%8C%E7%87%88%E7%AE%B1%E7%BE%A4%E8%9F%B2%E4%BA%82%E7%88%AC",
+    "published_date": "2026-11-06",
+    "summary": [
+      "炮台山分店餐牌燈箱內有大量昆蟲爬行，影片在網上流傳。",
+      "旺角分店打烊後樓面出現至少3隻老鼠，一隻爬上碗口。",
+      "網民直呼恐怖並呼籲食環署介入，跟進環境衞生及滅鼠。"
     ],
     "summary_version": 2,
     "category": "港聞"
@@ -48,6 +336,70 @@
     "category": "國際新聞"
   },
   {
+    "id": "54e75a91ae1e37287af404f9",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美中期選舉｜共和黨慘敗 英媒：魯比奧或請辭 白宮國務院齊否認",
+    "url": "https://www.stheadline.com/realtime-world/3634058/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%85%B1%E5%92%8C%E9%BB%A8%E6%85%98%E6%95%97-%E8%8B%B1%E5%AA%92%E9%AD%AF%E6%AF%94%E5%A5%A7%E6%88%96%E8%AB%8B%E8%BE%AD-%E7%99%BD%E5%AE%AE%E5%9C%8B%E5%8B%99%E9%99%A2%E9%BD%8A%E5%90%A6%E8%AA%8D",
+    "published_date": "2026-11-06",
+    "summary": [
+      "英媒報道魯比奧或請辭國務卿，為角逐2028年總統選舉鋪路。",
+      "白宮與國務院均否認報道，稱匿名消息毫無根據，團隊仍團結。",
+      "魯比奧至今未公開回應，萬斯亦被視為2028年熱門人選。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "75834c6bf8f1355a58c57938",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美國中期選舉｜民主黨大勝或左右2028年總統大選戰果？美媒：有望改規則防「特朗普式」當選",
+    "url": "https://www.stheadline.com/realtime-world/3634059/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A4%A7%E5%8B%9D%E6%88%96%E5%B7%A6%E5%8F%B32028%E5%B9%B4%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8%E6%88%B0%E6%9E%9C%E7%BE%8E%E5%AA%92%E6%9C%89%E6%9C%9B%E6%94%B9%E8%A6%8F%E5%89%87%E9%98%B2%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%8F%E7%95%B6%E9%81%B8",
+    "published_date": "2026-11-06",
+    "summary": [
+      "民主黨在賓夕法尼亞、密歇根等五州同時贏得州長及州議會兩院控制權。",
+      "五州共掌握61張選舉人票，若加入協定，總數將增至283票，跨越270票門檻。",
+      "協定保留選舉人團，但參與州份把選舉人票投給全國普選得票最多的候選人。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "e7801df1a5d06b65108b0c8f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美中期選舉｜民主黨重奪兩院擬推「禁超級AI」法案 刑罰等同非法研製核武最高囚20年",
+    "url": "https://www.stheadline.com/realtime-world/3634060/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%87%8D%E5%A5%AA%E5%85%A9%E9%99%A2%E6%93%AC%E6%8E%A8%E7%A6%81%E8%B6%85%E7%B4%9AAI%E6%B3%95%E6%A1%88-%E5%88%91%E7%BD%B0%E7%AD%89%E5%90%8C%E9%9D%9E%E6%B3%95%E7%A0%94%E8%A3%BD%E6%A0%B8%E6%AD%A6%E6%9C%80%E9%AB%98%E5%9B%9A20%E5%B9%B4",
+    "published_date": "2026-11-06",
+    "summary": [
+      "美國民主黨中期選舉奪得參眾兩院控制權後，擬禁超級AI法案再受關注。",
+      "民主黨眾議員安薩里發文，促新一屆國會開議首日列暫停先進AI研發為首要議程。",
+      "草案規定違規者最高判監20年，刑罰與非法研製核武相若，並擬設人工智能部。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "690829a078c608d4691cf327",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美中期選舉｜特朗普大廈現「TRUMP OUT」字樣 網民瘋傳喊話「彈劾」",
+    "url": "https://www.stheadline.com/realtime-world/3634061/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E5%BB%88%E7%8F%BETRUMP-OUT%E5%AD%97%E6%A8%A3-%E7%B6%B2%E6%B0%91%E7%98%8B%E5%82%B3%E5%96%8A%E8%A9%B1%E5%BD%88%E5%8A%BE",
+    "published_date": "2026-11-06",
+    "summary": [
+      "美國中期選舉民主黨大勝，橫掃國會參眾兩院控制權，多個共和黨保守州份亦翻盤。",
+      "法國藝術家勒梅爾西耶在拉斯維加斯特朗普大廈外牆投射「OUT」字樣，畫面在社交平台瘋傳。",
+      "團隊租用大廈對面約200米房間，以強力投影機投射訊息，網民建議下次投射「彈劾」字眼。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "e6015dca4578ce7276535199",
     "source_id": "macaodaily",
     "newspaper": "澳門日報",
@@ -75,6 +427,38 @@
       "特朗普稱若民主黨重奪眾議院，將運用否決權否決其法案迫使其妥協。",
       "特朗普承認伊朗戰事影響共和黨中期選舉表現及支持率，但不後悔。",
       "特朗普表示不會改組內閣，將在許多方面與民主黨人合作。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "baa5ecc8e96835aea8b1d7ad",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "兩州首迎少數族裔州長",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944422.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "美國中期選舉民主黨貝塞拉當選加州州長，成該州首位民選拉丁裔州長。",
+      "貝塞拉以六成五得票擊敗共和黨希爾頓，將接替紐森並延續與特朗普競爭。",
+      "民主黨克勞利以五成三得票當選威斯康星州長，成該州首位非裔州長。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "69ce16265cb5f3568a969cc3",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "默茨：德續全力支持烏",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944425.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "德國總理默茨與澤連斯基會談後稱，將繼續全力支持烏克蘭，指俄烏戰事結果長期影響歐洲安全。",
+      "德國已啟動進一步對烏防空和能源援助計劃，並將於十九日在柏林與法英合辦志願聯盟峰會。",
+      "默茨稱北約已同意二○二六年向烏提供七百億歐元軍援，澤連斯基盼三方會談討論停火換俘。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
@@ -128,6 +512,38 @@
     "category": "澳聞"
   },
   {
+    "id": "4b4f27a267da3330f20d559f",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "團體促完善內港無障礙設施",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944460.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "王國英關注內港巴士撞傷九旬輪椅婦意外，呼籲輪椅使用者嚴遵交通規則與燈號過路。",
+      "他建議復康團體及社服機構加強宣教，家屬亦需關懷並評估長者出行能力。",
+      "他促請當局優先檢視內港一帶無障礙通道，增設警示標誌及優化過路燈秒數。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "e2bc790a1b2ed49fda79a5d3",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "警揭三不法匯兌拘三男女",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944462.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "司警近日偵破三宗經營為賭博的不法匯兌案，拘捕三名內地居民。",
+      "三名涉案者為一男兩女，年齡三十四至三十八歲，均報稱無業。",
+      "警方合共搜獲四萬一千四百港元現金及四萬九千港元籌碼，案件已移送檢察院偵辦。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
     "id": "3ed0fe6f15de6f4b94142f70",
     "source_id": "macaodaily",
     "newspaper": "澳門日報",
@@ -139,6 +555,54 @@
       "第廿九屆京港洽談會在北京開幕，共八百餘人參會，主題為「揚帆十五五、京港共未來」。",
       "本屆洽談會簽約項目四十七個，金額約五百零八點六億元人民幣，覆蓋科技、金融、人工智能等領域。",
       "港澳辦副主任徐啟方稱全力支持京港深化合作，推動兩地五年規劃雙向賦能。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "fa8534874fa7e8fbf14af892",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "皇崗日出入境逾8.6萬人次",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944535.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "新皇崗口岸開通近一個月，平日日均出入境逾8.6萬人次，較舊落馬洲管制站增逾一倍。",
+      "周末及假期出入境接近14萬人次，自助通道輪候多不超過5分鐘，繁忙時段少於15分鐘。",
+      "口岸設4條專營巴士及4條專線小巴接駁，各設通宵線，不設私家車及網約車上落客區。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "f99ad91c49c5b368e695bcb7",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "警搗洗黑錢集團拘11人",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944536.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "香港警方展開代號「猛刺」行動，瓦解一個本地洗黑錢集團，拘捕主腦及骨幹共十一人。",
+      "集團涉處理七千萬元懷疑犯罪得益，牽涉全港八十五宗騙案，涉款逾二千四百萬元。",
+      "集團以「免審查貸款」誘騙財困人士交出戶口，操控逾三百張實名電話卡洗錢。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "15583985aa9d0d7d13bf0498",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "重錘治圍標堵漏洞",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944537.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "宏福苑火災揭樓宇維修圍標積弊，當局連開記者會交代整頓方向。",
+      "政府研立法將維修圍標納入刑事條例，並設跨部門特遣隊主動嚴打。",
+      "當局擬設樓宇維修支援及服務局，以中央數據系統提升市場透明度。"
     ],
     "summary_version": 2,
     "category": "港聞"
@@ -160,6 +624,22 @@
     "category": "港聞"
   },
   {
+    "id": "ee20c001dd4c0eb9c2b0d9ec",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "有片｜粉嶺公路貨車無綁穩貨物 紙箱墮路面險象橫生 疑引發3車串燒釀1傷",
+    "url": "https://www.stheadline.com/breaking-news/3633954/%E6%9C%89%E7%89%87%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E7%84%A1%E7%B6%81%E7%A9%A9%E8%B2%A8%E7%89%A9-%E7%B4%99%E7%AE%B1%E5%A2%AE%E8%B7%AF%E9%9D%A2%E9%9A%AA%E8%B1%A1%E6%A9%AB%E7%94%9F-%E7%96%91%E5%BC%95%E7%99%BC3%E8%BB%8A%E4%B8%B2%E7%87%92%E9%87%801%E5%82%B7",
+    "published_date": "2026-11-05",
+    "summary": [
+      "一輛貨車沿粉嶺公路往元朗方向行駛時，疑未綁穩貨物，一個大型紙箱跌落快線。",
+      "車cam主收掣不及直撞紙箱，其後紙箱疑再引發三車相撞，一名30歲男司機報稱耳痛送院。",
+      "警方於下午5時14分接報，涉事私家車因路面紙箱減速，後方車輛收掣不及釀成意外。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
     "id": "a688334149e0998e06e2c9c3",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -174,6 +654,70 @@
     ],
     "summary_version": 2,
     "category": "港聞"
+  },
+  {
+    "id": "537658251253daf72e8e4817",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "電子監工？｜廣州清潔工戴GPS工作證引爭議  官方辯僅定位",
+    "url": "https://www.stheadline.com/realtime-china/3633814/%E9%9B%BB%E5%AD%90%E7%9B%A3%E5%B7%A5%E5%BB%A3%E5%B7%9E%E6%B8%85%E6%BD%94%E5%B7%A5%E6%88%B4GPS%E5%B7%A5%E4%BD%9C%E8%AD%89%E5%BC%95%E7%88%AD%E8%AD%B0-%E5%AE%98%E6%96%B9%E8%BE%AF%E5%83%85%E5%AE%9A%E4%BD%8D",
+    "published_date": "2026-11-05",
+    "summary": [
+      "廣州花都環衛工人被要求佩戴GPS電子工牌，引發侵犯私隱爭議。",
+      "管理所稱工牌僅具定位功能，無錄音錄影，長時間離崗由班組長提醒。",
+      "內地多地清潔工亦被配電子工牌，靜止逾30分鐘會生成通告，或面臨罰款。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "f7fc432d00108c9cf510967d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "四川峨眉山︱博主用辣條餵野生馬騮  遭舉報即下架影片",
+    "url": "https://www.stheadline.com/realtime-china/3633826/%E5%9B%9B%E5%B7%9D%E5%B3%A8%E7%9C%89%E5%B1%B1%E5%8D%9A%E4%B8%BB%E7%94%A8%E8%BE%A3%E6%A2%9D%E9%A4%B5%E9%87%8E%E7%94%9F%E9%A6%AC%E9%A8%AE-%E9%81%AD%E8%88%89%E5%A0%B1%E5%8D%B3%E4%B8%8B%E6%9E%B6%E5%BD%B1%E7%89%87",
+    "published_date": "2026-11-05",
+    "summary": [
+      "四川峨眉山有博主向野生藏酋猴投餵辣條，遭網民舉報後引發關注。",
+      "景區林業部門證實投餵者為博主本人，管委會已對其嚴肅批評教育。",
+      "涉事博主已公開道歉並下架影片，景區呼籲遊客文明觀光、拒絕不良投餵。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "20d3065774221a13e43d85ec",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "浙江院校保安當眾鐮刀劏狗 學生睹血腥現場受創 校方正跟進",
+    "url": "https://www.stheadline.com/realtime-china/3633833/%E6%B5%99%E6%B1%9F%E9%99%A2%E6%A0%A1%E4%BF%9D%E5%AE%89%E7%95%B6%E7%9C%BE%E9%90%AE%E5%88%80%E5%8A%8F%E7%8B%97-%E5%AD%B8%E7%94%9F%E7%9D%B9%E8%A1%80%E8%85%A5%E7%8F%BE%E5%A0%B4%E5%8F%97%E5%89%B5-%E6%A0%A1%E6%96%B9%E6%AD%A3%E8%B7%9F%E9%80%B2",
+    "published_date": "2026-11-05",
+    "summary": [
+      "浙江長征職業技術學院一名保安在校園內當眾用鐮刀殺死流浪狗，涉事保安已被停職調查。",
+      "殺狗現場血腥，對目擊學生造成嚴重心理衝擊，引發社會對校園流浪動物管理的討論。",
+      "輿論批評保安無執法權，校方只下達清理指令卻未提供專業工具及聯動管道。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "85421c9e49b17e20728505ad",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "安徽殯儀館派錯兩先人遺骨  家屬擺骨見鋼釘始揭烏龍",
+    "url": "https://www.stheadline.com/realtime-china/3633852/%E5%AE%89%E5%BE%BD%E6%AE%AF%E5%84%80%E9%A4%A8%E6%B4%BE%E9%8C%AF%E5%85%A9%E5%85%88%E4%BA%BA%E9%81%BA%E9%AA%A8-%E5%AE%B6%E5%B1%AC%E6%93%BA%E9%AA%A8%E8%A6%8B%E9%8B%BC%E9%87%98%E5%A7%8B%E6%8F%AD%E7%83%8F%E9%BE%8D",
+    "published_date": "2026-11-05",
+    "summary": [
+      "安徽明光市殯儀館弄混兩名先人骨灰，家屬擺骨時發現鋼釘孔洞始揭發。",
+      "彭家祖母火化後，家屬發現遺骨有未曾做過手術的鋼釘孔洞，向館方查詢揭發。",
+      "相關部門已向兩家屬致歉並成立工作組，補償協議仍在商討中。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
   },
   {
     "id": "e1444c209e759d90016e9520",
@@ -238,6 +782,38 @@
     ],
     "summary_version": 2,
     "category": "內地新聞"
+  },
+  {
+    "id": "49730b87fab192b0f280e23a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "變態虐狗｜南韓7幼犬遭橡筋綁嘴塞入袋棄山等死  動保團體轟殘忍",
+    "url": "https://www.stheadline.com/realtime-world/3633902/%E8%AE%8A%E6%85%8B%E8%99%90%E7%8B%97%E5%8D%97%E9%9F%937%E5%B9%BC%E7%8A%AC%E9%81%AD%E6%A9%A1%E7%AD%8B%E7%B6%81%E5%98%B4%E5%A1%9E%E5%85%A5%E8%A2%8B%E6%A3%84%E5%B1%B1%E7%AD%89%E6%AD%BB-%E5%8B%95%E4%BF%9D%E5%9C%98%E9%AB%94%E8%BD%9F%E6%AE%98%E5%BF%8D",
+    "published_date": "2026-11-05",
+    "summary": [
+      "南韓首爾本周發現7隻幼犬遭橡筋或膠帶綁嘴，裝袋棄置山區等死。",
+      "幼犬有皮膚病及韌帶撕裂等傷，部分因長期困窄空間行走困難。",
+      "動物保護團體「動物自由連帶」介入調查，譴責行為等同活活等死。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "ef00a0a0da38384135ab79c1",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美中期選舉｜民主黨人因病退選卻在紅州「躺贏」  稱會盡力服務大眾",
+    "url": "https://www.stheadline.com/realtime-world/3633926/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E4%BA%BA%E5%9B%A0%E7%97%85%E9%80%80%E9%81%B8%E5%8D%BB%E5%9C%A8%E7%B4%85%E5%B7%9E%E8%BA%BA%E8%B4%8F-%E7%A8%B1%E6%9C%83%E7%9B%A1%E5%8A%9B%E6%9C%8D%E5%8B%99%E5%A4%A7%E7%9C%BE",
+    "published_date": "2026-11-05",
+    "summary": [
+      "美國中期選舉艾奧瓦州第20選區民主黨候選人阿姆斯特朗因健康問題退選。",
+      "選票未及移除其名字，他以領先約9個百分點、865票勝出州眾議員選舉。",
+      "阿姆斯特朗稱仍受健康問題困擾，承諾盡力代表選區服務民眾。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
   },
   {
     "id": "3372767773bcbc87b43fe08b",

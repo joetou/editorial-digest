@@ -1,5 +1,50 @@
 [
   {
+    "id": "412b0510350e43d05c1c95c2",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "（社論）特朗普期中考栽了大跟斗",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944607.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "民主黨在中期選舉大勝，重奪參眾兩院控制權，並在多州翻轉共和黨參議院席位。",
+      "七成八選民視生活成本上漲為最重要問題，關稅政策反噬農業大州基本盤。",
+      "七成四選民認為對伊戰爭是錯誤，油價飆升直接影響中西部選民投票取向。"
+    ],
+    "summary_version": 2
+  },
+  {
+    "id": "5e1dafbaf397dc68f656ded9",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "(新聞小語)精準支援青年人育兒需要",
+    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944723.htm",
+    "published_date": "2026-11-06",
+    "summary": [
+      "澳門去年新生嬰兒二千八百七十人，生育率〇點六四一，遠低於更替水平。",
+      "調查顯示居民對經濟保障、孕產服務及育兒時間自主性需求迫切。",
+      "建議公屋計分傾斜育兒家庭、產後護理納入公共醫療，精準回應焦慮。"
+    ],
+    "summary_version": 2
+  },
+  {
+    "id": "4e09b655db83c3862f9caf5b",
+    "source_id": "oriental",
+    "newspaper": "東方日報",
+    "region": "香港",
+    "title": "瀝青污染食水  香港活不安心",
+    "url": "https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261106-1106_00186_001/%E7%80%9D%E9%9D%92%E6%B1%A1%E6%9F%93%E9%A3%9F%E6%B0%B4--%E9%A6%99%E6%B8%AF%E6%B4%BB%E4%B8%8D%E5%AE%89%E5%BF%83",
+    "published_date": "2026-11-06",
+    "summary": [
+      "港島東因掘爆水管停水12小時，恢復供水後食水現瀝青黑點，居民皮膚敏感、喉嚨痛。",
+      "水務署稱瀝青源自舊鋼管內壁保護層，沖洗時被揚起帶到下游，去年皇后山邨亦曾發生同類事件。",
+      "社評批評政府換管工程延誤需時10年，署長回應欠同理心，官僚漠視市民健康與民意。"
+    ],
+    "summary_version": 2
+  },
+  {
     "id": "c990bc6900fe15ab0ac55798",
     "source_id": "hk01",
     "newspaper": "HK01",
