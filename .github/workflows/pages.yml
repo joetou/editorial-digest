@@ -5,6 +5,9 @@ on:
   schedule:
     # UTC 22:00 = 翌日香港／澳門 06:00；GitHub排程可能延遲。
     - cron: '0 22 * * *'
+    # 避開整點，於 HKT 06:17 及 07:17 補查未收錄文章。
+    - cron: '17 22 * * *'
+    - cron: '17 23 * * *'
   workflow_dispatch:
     inputs:
       collect:
