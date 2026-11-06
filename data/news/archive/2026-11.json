@@ -128,22 +128,6 @@
     "category": "內地新聞"
   },
   {
-    "id": "8fabbb70eb458189e4d61a72",
-    "source_id": "macaodaily",
-    "newspaper": "澳門日報",
-    "region": "澳門",
-    "title": "港澳台參展規模均擴大",
-    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944602.htm",
-    "published_date": "2026-11-06",
-    "summary": [
-      "第九屆進博會在上海開幕，港澳台參展規模均擴大。",
-      "香港參展企業近四百家創新高，澳門近八十家增五成二。",
-      "台灣地區參展面積約四千二百平方米，同比增長一成。"
-    ],
-    "summary_version": 2,
-    "category": "內地新聞"
-  },
-  {
     "id": "61b29f280cd5db0ccfd0ffd8",
     "source_id": "macaodaily",
     "newspaper": "澳門日報",
@@ -171,22 +155,6 @@
       "立法會三常會首次討論《特定業務及活動的規管制度》法案，關注適用範圍及定義。",
       "法案擬將低風險業務由准照制簡化為登記制，三常會關注登記期限及默示同意機制。",
       "法案建議放寬桌球室入場年齡、美容院豁免按摩准照及新增旅拍登記制度。"
-    ],
-    "summary_version": 2,
-    "category": "澳聞"
-  },
-  {
-    "id": "edcb150bb91b1890e7968f29",
-    "source_id": "macaodaily",
-    "newspaper": "澳門日報",
-    "region": "澳門",
-    "title": "特首向丁薛祥介紹澳發展",
-    "url": "https://www.macaodaily.com/html/2026-11/06/content_1944667.htm",
-    "published_date": "2026-11-06",
-    "summary": [
-      "岑浩輝在上海出席第九屆進博會開幕式，聽取丁薛祥發表主旨講話。",
-      "開幕式後岑浩輝陪同丁薛祥巡視中國館，在澳門展區介紹特區最新發展。",
-      "澳門展區以「多元‧發展」為主題，另設食品飲品館及專業服務館。"
     ],
     "summary_version": 2,
     "category": "澳聞"
@@ -347,54 +315,6 @@
       "英媒報道魯比奧或請辭國務卿，為角逐2028年總統選舉鋪路。",
       "白宮與國務院均否認報道，稱匿名消息毫無根據，團隊仍團結。",
       "魯比奧至今未公開回應，萬斯亦被視為2028年熱門人選。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "75834c6bf8f1355a58c57938",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "美國中期選舉｜民主黨大勝或左右2028年總統大選戰果？美媒：有望改規則防「特朗普式」當選",
-    "url": "https://www.stheadline.com/realtime-world/3634059/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A4%A7%E5%8B%9D%E6%88%96%E5%B7%A6%E5%8F%B32028%E5%B9%B4%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8%E6%88%B0%E6%9E%9C%E7%BE%8E%E5%AA%92%E6%9C%89%E6%9C%9B%E6%94%B9%E8%A6%8F%E5%89%87%E9%98%B2%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%8F%E7%95%B6%E9%81%B8",
-    "published_date": "2026-11-06",
-    "summary": [
-      "民主黨在賓夕法尼亞、密歇根等五州同時贏得州長及州議會兩院控制權。",
-      "五州共掌握61張選舉人票，若加入協定，總數將增至283票，跨越270票門檻。",
-      "協定保留選舉人團，但參與州份把選舉人票投給全國普選得票最多的候選人。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "e7801df1a5d06b65108b0c8f",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "美中期選舉｜民主黨重奪兩院擬推「禁超級AI」法案 刑罰等同非法研製核武最高囚20年",
-    "url": "https://www.stheadline.com/realtime-world/3634060/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%87%8D%E5%A5%AA%E5%85%A9%E9%99%A2%E6%93%AC%E6%8E%A8%E7%A6%81%E8%B6%85%E7%B4%9AAI%E6%B3%95%E6%A1%88-%E5%88%91%E7%BD%B0%E7%AD%89%E5%90%8C%E9%9D%9E%E6%B3%95%E7%A0%94%E8%A3%BD%E6%A0%B8%E6%AD%A6%E6%9C%80%E9%AB%98%E5%9B%9A20%E5%B9%B4",
-    "published_date": "2026-11-06",
-    "summary": [
-      "美國民主黨中期選舉奪得參眾兩院控制權後，擬禁超級AI法案再受關注。",
-      "民主黨眾議員安薩里發文，促新一屆國會開議首日列暫停先進AI研發為首要議程。",
-      "草案規定違規者最高判監20年，刑罰與非法研製核武相若，並擬設人工智能部。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "690829a078c608d4691cf327",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "美中期選舉｜特朗普大廈現「TRUMP OUT」字樣 網民瘋傳喊話「彈劾」",
-    "url": "https://www.stheadline.com/realtime-world/3634061/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E5%BB%88%E7%8F%BETRUMP-OUT%E5%AD%97%E6%A8%A3-%E7%B6%B2%E6%B0%91%E7%98%8B%E5%82%B3%E5%96%8A%E8%A9%B1%E5%BD%88%E5%8A%BE",
-    "published_date": "2026-11-06",
-    "summary": [
-      "美國中期選舉民主黨大勝，橫掃國會參眾兩院控制權，多個共和黨保守州份亦翻盤。",
-      "法國藝術家勒梅爾西耶在拉斯維加斯特朗普大廈外牆投射「OUT」字樣，畫面在社交平台瘋傳。",
-      "團隊租用大廈對面約200米房間，以強力投影機投射訊息，網民建議下次投射「彈劾」字眼。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
@@ -846,5 +766,69 @@
     ],
     "summary_version": 2,
     "category": "國際新聞"
+  },
+  {
+    "id": "5dfccc2aa409d9fe0e618b08",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "歐洲罕見 | 法銀行遭網攻失竊1億歐羅 黑客利用欺詐交易盜巨款",
+    "url": "https://www.stheadline.com/realtime-world/3634093/%E6%AD%90%E6%B4%B2%E7%BD%95%E8%A6%8B-%E6%B3%95%E9%8A%80%E8%A1%8C%E9%81%AD%E7%B6%B2%E6%94%BB%E5%A4%B1%E7%AB%8A1%E5%84%84%E6%AD%90%E7%BE%85-%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8%E6%AC%BA%E8%A9%90%E4%BA%A4%E6%98%93%E7%9B%9C%E5%B7%A8%E6%AC%BE",
+    "published_date": "2026-11-06",
+    "summary": [
+      "法國阿爾凱亞互助信貸銀行遭黑客入侵，被盜約一億歐羅，正追查資金去向。",
+      "黑客利用銀行帳戶進行欺詐交易，資金可能已被轉換為虛擬資產。",
+      "銀行一度暫停部分交易，強調客戶資產未受影響，檢方已展開調查。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "91e5d34b732a74e98249a8f1",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "拐杖婆婆廣田邨街市熟手偷枱布 網民斥行為缺德：臨老偷竊怎對閻王",
+    "url": "https://www.stheadline.com/breaking-news/3634095/%E6%8B%90%E6%9D%96%E5%A9%86%E5%A9%86%E5%BB%A3%E7%94%B0%E9%82%A8%E8%A1%97%E5%B8%82%E7%86%9F%E6%89%8B%E5%81%B7%E6%9E%B1%E5%B8%83-%E7%B6%B2%E6%B0%91%E6%96%A5%E8%A1%8C%E7%82%BA%E7%BC%BA%E5%BE%B7%E8%87%A8%E8%80%81%E5%81%B7%E7%AB%8A%E6%80%8E%E5%B0%8D%E9%96%BB%E7%8E%8B",
+    "published_date": "2026-11-06",
+    "summary": [
+      "藍田廣田邨街市一名撐枴杖老婦涉偷走店舖一張紅白格仔枱布。",
+      "事主翻查閉路電視揭發，將片段上載社交平台並要求老婦交還。",
+      "網民斥老婦行為缺德，認為年紀大並非犯法擋箭牌，促事主報警。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "f694ab7257055162fb9053ea",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "救生艇計劃︱加拿大加快處理積壓個案 可望2027年內獲處理",
+    "url": "https://www.stheadline.com/realtime-world/3634090/%E6%95%91%E7%94%9F%E8%89%87%E8%A8%88%E5%8A%83%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8A%A0%E5%BF%AB%E8%99%95%E7%90%86%E7%A9%8D%E5%A3%93%E5%80%8B%E6%A1%88-%E5%8F%AF%E6%9C%9B2027%E5%B9%B4%E5%85%A7%E7%8D%B2%E8%99%95%E7%90%86",
+    "published_date": "2026-11-06",
+    "summary": [
+      "加拿大公布2027至2029年移民水平計劃，每年維持約38萬名永久居民配額。",
+      "當局設為期一年限時措施，額外提供最多20萬個名額，人道組別佔10萬個。",
+      "人道組別涵蓋香港救生艇計劃，積壓永居申請可望2027年內獲處理。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "517e3c42100df9b00571271a",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "七人墮假客服騙局失二百四萬",
+    "url": "https://www.macaodaily.com/html/2026-11/05/content_1944461.htm",
+    "published_date": "2026-11-05",
+    "summary": [
+      "司警近日接獲七宗假冒抖音客服詐騙案，七名本澳居民合共損失二百四十三萬六千三百二十九澳門元。",
+      "騙徒訛稱免費直播賬號到期將每月扣費，誘導事主下載軟件並開啟屏幕共享，遠端操控手機套取銀行資料。",
+      "損失最嚴重個案為一名中年女子，被騙逾二百萬元，至上月三十一日才察覺受騙報案。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
   }
 ]
