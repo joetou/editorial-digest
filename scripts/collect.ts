@@ -1,3 +1,4 @@
+import {refreshEditorials} from '../lib/refresh-editorials';
 import {gatherNews,summarizeNews,groupNews} from '../lib/news';
 import {readFile} from 'node:fs/promises';
 import {collect} from '../lib/fetch-source';
@@ -31,9 +32,8 @@ let newsMerged=0;
 try{const groups=await groupNews([...news.values()].filter(a=>a.published_date>=lower),{beforeRequest});const affected=new Set<string>();for(const g of groups)for(const id of g.duplicate_ids){const duplicate=[...news.values()].find(a=>a.id===id);if(duplicate){duplicates[duplicate.url]={keep_id:g.keep_id,date:duplicate.published_date};affected.add(duplicate.published_date.slice(0,7));news.delete(duplicate.url);newsMerged++;}}for(const month of affected)await atomicJson('data/news/archive/'+month+'.json',[...news.values()].filter(a=>a.published_date.startsWith(month)));}catch{console.log('整體新聞事件比對留待下輪重試');}
 await atomicJson('data/news/duplicates.json',duplicates);
 await atomicJson('data/news/status.json',{last_run_at:new Date().toISOString(),status:gathered.status,saved:newsSaved,merged:newsMerged});
-// 舊摘要由既有內容重新精簡，保留原意，不用字數截斷代替改寫。
-for(const [url,a] of archive){if(a.summary_version===2||requests>=max-12)continue;try{const summary=await summarize(a.title,'以下是同一篇社評的已存摘要，請忠實精簡，不補充原文未有資訊：'+a.summary.join('\n'),{beforeRequest});archive.set(url,{...a,summary,summary_version:2});}catch{console.log('一篇歷史摘要留待下輪精簡');}}
-await saveArchive(archive);
+// 社評使用較詳細格式；新聞維持短摘要。
+await refreshEditorials(archive,{beforeRequest});
 // 三個來源並行，各來源內逐篇執行。先保留舊資料，只新增成功摘要。
 for(let i=0;i<sources.length;i+=3){await Promise.all(sources.slice(i,i+3).map(async s=>{
  let added=0,recent=0;const errors:string[]=[];
@@ -43,7 +43,7 @@ for(let i=0;i<sources.length;i+=3){await Promise.all(sources.slice(i,i+3).map(as
  if(requests>=max)throw new Error('已達本輪 API 請求上限，留待下次重試');
  running.add(url);try{
  const summary=await summarize(a.title,a.body,{beforeRequest(){if(requests>=max)throw new Error('已達本輪 API 請求上限');requests++;}});
- const row=validateEditorial({source_id:s.id,newspaper:s.name,region:s.region,title:a.title,url,published_date:a.published_date,summary,summary_version:2});archive.set(url,row);added++;saved++;
+ const row=validateEditorial({source_id:s.id,newspaper:s.name,region:s.region,title:a.title,url,published_date:a.published_date,summary,summary_version:3});archive.set(url,row);added++;saved++;
  }finally{running.delete(url);}
  });errors.push(...result.errors);if(!result.found)errors.push('未找到社評連結，需檢查來源或設定授權 feed');if(!recent&&!errors.length)errors.push('未找到近期可用社評');
  }catch(e){errors.push(e instanceof Error?e.message:'來源處理失敗');}
