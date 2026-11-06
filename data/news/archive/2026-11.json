@@ -1,5 +1,373 @@
 [
   {
+    "id": "991f6f4736705d7af165b5d0",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "習：中歐要聚焦合作面",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944759.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "習近平在北京會見奧地利總理施托克爾，指今年是中奧建交五十五周年。",
+      "習近平稱中國機遇2.0帶來市場及創新紅利，願與奧方拓展新興領域合作。",
+      "習近平強調中歐要聚焦合作面，通過對話協商解決經貿摩擦，實現互利共贏。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "d17572aa1ee8dd2f1cc2f90d",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "習近平同加蓬總統會談",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944760.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "習近平在北京與加蓬總統恩圭馬會談，雙方宣佈將雙邊關係提升為新時代中加命運共同體。",
+      "習近平表示中方願做加方獨立自主發展的可靠朋友，並支持加蓬政治、經濟和外交自主。",
+      "恩圭馬表示加方堅定奉行一個中國原則，歡迎更多中方企業赴加蓬投資興業。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "653f283643888cfa183286ac",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "習：確保選出人民滿意代表",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944761.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "習近平在西城區中南海選區懷仁堂投票站參加區人大代表選舉投票。",
+      "習近平強調要踐行全過程人民民主，加強選舉全過程監督，確保選出人民滿意的代表。",
+      "李強、趙樂際、王滬寧、蔡奇、丁薛祥、李希等分別在各自選區投票，韓正及胡錦濤委託工作人員投票。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "2a8165d0d6c20c2ddfe7c9c9",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "美防長：政治鬧劇",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944762.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "美國會兩黨多名議員要求國防部長赫格塞思辭職，共和黨議員稱下周提彈劾條款。",
+      "赫格塞思發視頻回應稱一切都是政治，指彈劾是政治鬧劇，並為伊朗戰事辯護。",
+      "特朗普表示仍打算讓赫格塞思留任，並讚揚其工作表現。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "c8db1749509ad672669b673e",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "八一飛行表演隊飛越長城",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944763.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "解放軍空軍八一飛行表演隊六架殲10表演機飛越天津黃崖關長城。",
+      "編隊沿山脊低空通場四次，拉出紅黃藍三色彩煙，全程約三十分鐘。",
+      "此次飛行慶祝空軍成立七十七周年，並被稱為實戰化練兵體現。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "5d8ab1c8d73c1900c41312f5",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "國常會：完善資本市場穩市機制",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944767.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "李強主持國務院常務會議，要求完善資本市場穩市機制，增強股市內在穩定性。",
+      "會議要求加快重大項目和「六張網」建設，支持企業擴大設備更新等投資。",
+      "會議提出健全社會救助體系，完善低保邊緣家庭等幫扶舉措，做到應保盡保。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "0a135ebac6ff30424a735ea5",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "區錦新罪成獲刑12年半",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944852.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "澳門首宗國安法案件宣判，區錦新被裁定多項罪名成立，判囚十二年六個月。",
+      "合議庭認定其勾結境外組織散佈虛假資訊煽動仇恨，部分顛覆罪因疑罪從無不成立。",
+      "其任議員時洩露賭牌續期閉門會議秘密，違反保密罪成，數罪並罰定出刑期。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "de0c83e973bcb65d225866d1",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "澳輕軌項目迎兩“貫通”",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944859.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "澳門輕軌東線跨海盾構隧道全長3012米，較原計劃提前37天貫通。",
+      "隧道連接ES5與ES6車站，為實現2029年通車目標奠定基礎。",
+      "經改造的貫通式車廂列車於今日起正式運行，持續收集數據及意見。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "e12633976017fe8f1a4ea652",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "印度女內地婦商舖盜竊法辦",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944861.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "治安警先後破獲路氹酒店商舖兩宗盜竊案，拘捕印度女子及內地女子。",
+      "印度女子涉偷一對值一千五百元鍍金耳環，警員在客房起回贓物。",
+      "內地女子涉盜六件衣物及太陽眼鏡共值一千一百四十元，已供認犯案。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "1cbed244c59c29ab1b5817e3",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "海關系列活動慶廿五周年",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944862.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "澳門海關舉行成立二十五周年紀念活動，包括首次中式步操升旗儀式。",
+      "海關嘉獎一百五十四名傑出人員及七十名體育競賽得獎者，並辦圖片展及發行郵品。",
+      "海關同日開通官方抖音帳號，並舉辦貿易管制專題培訓講座。"
+    ],
+    "summary_version": 2,
+    "category": "澳聞"
+  },
+  {
+    "id": "975804acb8966427b96525bd",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "特遣隊瓦解圍標集團拘28人",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944919.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "香港打擊樓宇維修圍標聯合特遣隊瓦解一個圍標集團，共拘捕二十八人。",
+      "被捕者部分有黑社會背景，涉及十二份工程合約，涉款約一億港元。",
+      "集團涉操控顧問及承建商誘騙業主簽約，特遣隊設二十四小時舉報熱線。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "059c44b129e4a49aec61b93c",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "李家超：推滬港黃金市場互聯互通",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944921.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "李家超在上海與上海市長朱忠明會面，交流滬港合作意見。",
+      "滬港今年啟動黃金實物聯通，香港中央清算系統明年首季啟用。",
+      "李家超稱滬港合作契合五年規劃，香港續當超級聯繫人助企業出海。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "d41fc18e9d68808c325ec0c6",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "高教優勢夯實人才高地",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944923.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "香港大學於QS亞洲大學排名蟬聯亞洲榜首，城大、中大升至第四及第五。",
+      "理大與科大並列第九，五所院校打入亞洲十強，創下歷史佳績。",
+      "文章認為應把學術實力轉化為引才及創科動力，並配合北都大學城布局。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "1ee441a8f81dc594cfde7d28",
+    "source_id": "macaodaily",
+    "newspaper": "澳門日報",
+    "region": "澳門",
+    "title": "警隊致敬殉職警務人員",
+    "url": "https://www.macaodaily.com/html/2026-11/07/content_1944925.htm",
+    "published_date": "2026-11-07",
+    "summary": [
+      "香港警務處長周一鳴率警隊代表出席警隊紀念日儀式，向殉職正規及輔助警務人員致敬。",
+      "周一鳴緬懷二○○五年執勤受襲、今年九月離世的高級警員朱振國，指其事跡印證警隊堅持。",
+      "儀式上警察樂隊吹奏《最後崗位》，全場默哀兩分鐘，代表在紀念冊前獻花圈。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "9dda4ab180ffd6a9801ca512",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "有片｜西半山現孔明燈夜空飄浮 目擊者報案：險飄入民居釀成火災",
+    "url": "https://www.stheadline.com/breaking-news/3634446/%E6%9C%89%E7%89%87%E8%A5%BF%E5%8D%8A%E5%B1%B1%E7%8F%BE%E5%AD%94%E6%98%8E%E7%87%88%E5%A4%9C%E7%A9%BA%E9%A3%84%E6%B5%AE-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88%E9%9A%AA%E9%A3%84%E5%85%A5%E6%B0%91%E5%B1%85%E9%87%80%E6%88%90%E7%81%AB%E7%81%BD",
+    "published_date": "2026-11-07",
+    "summary": [
+      "西半山凌晨有人非法放飛孔明燈，在住宅大廈間飄浮，目擊者報案。",
+      "消防到場在行人路撿走已熄滅孔明燈，無人受傷，警方正調查放飛者。",
+      "目擊者批評行為離譜，憂風高物燥下燒着民居，網民亦怒斥無視安全。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "78e31d8ece9d9b4a715acbc8",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "油麻地商場男子偷卡 走位遮擋順手牽羊卻「露底」 店主：驚到褲都甩？",
+    "url": "https://www.stheadline.com/breaking-news/3634447/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%95%86%E5%A0%B4%E7%94%B7%E5%AD%90%E5%81%B7%E5%8D%A1%E8%B5%B0%E4%BD%8D%E9%81%AE%E6%93%8B%E9%A0%86%E6%89%8B%E7%89%BD%E7%BE%8A%E5%8D%BB%E9%9C%B2%E5%BA%95-%E5%BA%97%E4%B8%BB%E9%A9%9A%E5%88%B0%E8%A4%B2%E9%83%BD%E7%94%A9",
+    "published_date": "2026-11-07",
+    "summary": [
+      "油麻地「現時點」商場一名黑衣男賊偷走約值1,650元玩具卡。",
+      "男賊得手後短褲滑落當眾露出內褲，過程被閉路電視拍下。",
+      "店主公開影片並質疑其為慣犯，呼籲其他店主提高警惕。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "b56072661373b442669bea0b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "慈雲山六旬翁不滿未能下車 狠踢爆九巴車門撞跌車長涉兩罪被捕",
+    "url": "https://www.stheadline.com/breaking-news/3634448/%E6%85%88%E9%9B%B2%E5%B1%B1%E5%85%AD%E6%97%AC%E7%BF%81%E4%B8%8D%E6%BB%BF%E6%9C%AA%E8%83%BD%E4%B8%8B%E8%BB%8A-%E7%8B%A0%E8%B8%A2%E7%88%86%E4%B9%9D%E5%B7%B4%E8%BB%8A%E9%96%80%E6%92%9E%E8%B7%8C%E8%BB%8A%E9%95%B7%E6%B6%89%E5%85%A9%E7%BD%AA%E8%A2%AB%E6%8D%95",
+    "published_date": "2026-11-07",
+    "summary": [
+      "慈雲山一輛2P線九巴車長關門準備起步時，69歲男乘客突要求下車，雙方爭執。",
+      "謝翁涉踢爛巴士車門玻璃並推跌32歲梁姓車長，車長手腳受傷及後腦疼痛送院。",
+      "警方以普通襲擊及刑事毀壞拘捕謝翁，黃大仙警區刑事調查隊跟進調查。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "5bcdb302269bf0c3841f2060",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "雙11促銷｜黑龍江鶴崗住宅¥11元賣出  買家僅須另付2千元稅",
+    "url": "https://www.stheadline.com/realtime-china/3634358/%E9%9B%9911%E4%BF%83%E9%8A%B7%E9%BB%91%E9%BE%8D%E6%B1%9F%E9%B6%B4%E5%B4%97%E4%BD%8F%E5%AE%8511%E5%85%83%E8%B3%A3%E5%87%BA-%E8%B2%B7%E5%AE%B6%E5%83%85%E9%A0%88%E5%8F%A6%E4%BB%982%E5%8D%83%E5%85%83%E7%A8%85",
+    "published_date": "2026-11-07",
+    "summary": [
+      "黑龍江鶴崗一套二手房在拍賣平台以11元人民幣成交，買家為浙江男士。",
+      "拍賣公司證實交易真實有效，低價源於平台雙11推廣補貼，買家另付約2000元契稅。",
+      "平台將於11月10日再拍賣鶴崗興山區67.52平方米房產，起拍價1元、封頂11元。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "4d962d547c9ddfbc50463e10",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "邦迪海灘槍擊案增至16死  90歲婦中槍近一年反覆感染中風亡",
+    "url": "https://www.stheadline.com/realtime-world/3634328/%E9%82%A6%E8%BF%AA%E6%B5%B7%E7%81%98%E6%A7%8D%E6%93%8A%E6%A1%88%E5%A2%9E%E8%87%B316%E6%AD%BB-90%E6%AD%B2%E5%A9%A6%E4%B8%AD%E6%A7%8D%E8%BF%91%E4%B8%80%E5%B9%B4%E5%8F%8D%E8%A6%86%E6%84%9F%E6%9F%93%E4%B8%AD%E9%A2%A8%E4%BA%A1",
+    "published_date": "2026-11-07",
+    "summary": [
+      "澳洲邦迪海灘槍擊案中，90歲猶太裔老婦蓋勒中槍後反覆感染，最終於本周四晚在悉尼醫院逝世。",
+      "官方認定蓋勒的死與槍擊有關，將死亡人數由15人上修至16人，死者包括一名10歲女童。",
+      "警方確認槍手父子受極端組織伊斯蘭國影響，父親被當場擊斃，兒子面臨15項謀殺等控罪。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "2d1fc9fcb879c48d0dec8d75",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "梅根父親在美被捕 涉藏兒童性虐待物件 FBI跨國追查",
+    "url": "https://www.stheadline.com/realtime-world/3634410/%E6%A2%85%E6%A0%B9%E7%88%B6%E8%A6%AA%E5%9C%A8%E7%BE%8E%E8%A2%AB%E6%8D%95-%E6%B6%89%E8%97%8F%E5%85%92%E7%AB%A5%E6%80%A7%E8%99%90%E5%BE%85%E7%89%A9%E4%BB%B6-FBI%E8%B7%A8%E5%9C%8B%E8%BF%BD%E6%9F%A5",
+    "published_date": "2026-11-07",
+    "summary": [
+      "梅根82歲父親湯瑪斯在美國佛州遭FBI拘捕，涉持有大量兒童性虐待物品。",
+      "案件由其同父異母兒子舉報，稱在菲律賓舊居電子設備中發現相關圖片及影片。",
+      "湯瑪斯否認指控並斥為病態謊言，梅根稱感深切痛苦，強調疏遠父親為保護孩子。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "d4037ee80398ed3298255c59",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中期選舉慘敗引發白宮人事地震 特朗普解僱幕僚長懷爾斯 強硬派Stephen Miller接棒",
+    "url": "https://www.stheadline.com/realtime-world/3634444/%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%85%98%E6%95%97%E5%BC%95%E7%99%BC%E7%99%BD%E5%AE%AE%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%A3%E5%83%B1%E5%B9%95%E5%83%9A%E9%95%B7%E6%87%B7%E7%88%BE%E6%96%AF-%E5%BC%B7%E7%A1%AC%E6%B4%BEStephen-Miller%E6%8E%A5%E6%A3%92",
+    "published_date": "2026-11-07",
+    "summary": [
+      "特朗普在中期選舉共和黨慘敗後，宣布解僱白宮幕僚長懷爾斯。",
+      "特朗普任命強硬派高級顧問史蒂芬米勒接任幕僚長，十一月九日生效。",
+      "懷爾斯將轉任特朗普政治營運團隊，分析料白宮作風轉趨強硬對立。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "1e96685e70520ea43ed05760",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "普京簽令接管日本煙草公司在俄資產 日外務省強烈抗議",
+    "url": "https://www.stheadline.com/realtime-world/3634450/%E6%99%AE%E4%BA%AC%E7%B0%BD%E4%BB%A4%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC%E7%85%99%E8%8D%89%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%BF%84%E8%B3%87%E7%94%A2-%E6%97%A5%E5%A4%96%E5%8B%99%E7%9C%81%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0",
+    "published_date": "2026-11-07",
+    "summary": [
+      "普京簽令將日本煙草國際在俄四家經營主體交俄方關聯企業臨時管理。",
+      "日本外務省召見俄駐日大使諾茲德廖夫提出嚴正抗議，要求撤回總統令。",
+      "JTI在俄有四座生產基地、約四千僱員，佔當地煙草市場四成份額。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "0ee91eb8fa1a3599ad609452",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "馬來西亞警方搗破電騙窩點 18名台灣男女涉假冒香港警察被捕 起出港警制服",
+    "url": "https://www.stheadline.com/realtime-world/3634451/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%AD%A6%E6%96%B9%E6%90%97%E7%A0%B4%E9%9B%BB%E9%A8%99%E7%AA%A9%E9%BB%9E-18%E5%90%8D%E5%8F%B0%E7%81%A3%E7%94%B7%E5%A5%B3%E6%B6%89%E5%81%87%E5%86%92%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%AF%9F%E8%A2%AB%E6%8D%95-%E8%B5%B7%E5%87%BA%E6%B8%AF%E8%AD%A6%E5%88%B6%E6%9C%8D",
+    "published_date": "2026-11-07",
+    "summary": [
+      "馬來西亞警方在吉隆坡突擊兩個豪宅單位，拘捕18名台灣男女。",
+      "行動檢獲69部手機、5部電腦及兩套香港警察制服，集團疑運作約五個月。",
+      "集團以香港市民為目標，穿港警制服視像詐騙，大馬警方追查組織及資金。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "d8bc0f7e7b22207077622c10",
     "source_id": "macaodaily",
     "newspaper": "澳門日報",
@@ -315,6 +683,54 @@
       "警方財富情報及調查科去年1月拘捕12人，涉利用22個銀行戶口洗黑錢約1050萬元。",
       "其中7名被捕男子為休班警務人員，2人另涉出租自住按揭樓宇詐騙被捕。",
       "34歲停職男警今日被正式起訴一項欺詐罪，案件在東區裁判法院提堂。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "a126e6892d485af0382843cf",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "網站「FundHK」涉冒名眾籌 多間機構強調無關聯 馬會：從未授權或認可",
+    "url": "https://www.stheadline.com/breaking-news/3634297/%E7%B6%B2%E7%AB%99FundHK%E6%B6%89%E5%86%92%E5%90%8D%E7%9C%BE%E7%B1%8C-%E5%A4%9A%E9%96%93%E6%A9%9F%E6%A7%8B%E5%BC%B7%E8%AA%BF%E7%84%A1%E9%97%9C%E8%81%AF-%E9%A6%AC%E6%9C%83%E5%BE%9E%E6%9C%AA%E6%8E%88%E6%AC%8A%E6%88%96%E8%AA%8D%E5%8F%AF",
+    "published_date": "2026-11-06",
+    "summary": [
+      "多間機構及傳媒發聲明，強調與眾籌網站FundHK並無合作關係。",
+      "馬會澄清從未授權或認可FundHK，指其使用HKJC字眼屬誤導。",
+      "警方防騙視伏器將該網站列為最高風險級別，呼籲市民小心。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "ab628bb7987fa8172396eea5",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "十年一度石澳太平清醮周六舉行 警方實施特別交通安排 城巴加開X9線來往中環",
+    "url": "https://www.stheadline.com/breaking-news/3634383/%E5%8D%81%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%9F%B3%E6%BE%B3%E5%A4%AA%E5%B9%B3%E6%B8%85%E9%86%AE%E5%91%A8%E5%85%AD%E8%88%89%E8%A1%8C-%E8%AD%A6%E6%96%B9%E5%AF%A6%E6%96%BD%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92-%E5%9F%8E%E5%B7%B4%E5%8A%A0%E9%96%8BX9%E7%B7%9A%E4%BE%86%E5%BE%80%E4%B8%AD%E7%92%B0",
+    "published_date": "2026-11-06",
+    "summary": [
+      "十年一度石澳三村太平清醮巡遊周六舉行，警方預計大批市民及遊客前往。",
+      "警方上午6時至晚上11時在石澳道及大浪灣道實施特別交通安排，違泊可被票控或拖走。",
+      "城巴加開X9線由中環開出，9號及9X號石澳總站臨時遷往石澳泳灘停車場。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "70f7d929a63f0d38eb30a751",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "車Cam直擊｜電單車天橋掟彎失事 短褲女鐵騎士甩飛翻滾 車身劃出火花",
+    "url": "https://www.stheadline.com/breaking-news/3634397/%E8%BB%8ACam%E7%9B%B4%E6%93%8A%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%A4%A9%E6%A9%8B%E6%8E%9F%E5%BD%8E%E5%A4%B1%E4%BA%8B-%E7%9F%AD%E8%A4%B2%E5%A5%B3%E9%90%B5%E9%A8%8E%E5%A3%AB%E7%94%A9%E9%A3%9B%E7%BF%BB%E6%BB%BE-%E8%BB%8A%E8%BA%AB%E5%8A%83%E5%87%BA%E7%81%AB%E8%8A%B1",
+    "published_date": "2026-11-06",
+    "summary": [
+      "網上流傳車Cam影片，一輛電單車晚間在行車天橋彎道失事撞向防撞欄。",
+      "身穿短褲的女鐵騎士被拋出車外翻滾數圈，電單車滑行擦出火花。",
+      "女鐵騎士自行爬起看似無大礙，後方車輛及時煞停未釀二次事故。"
     ],
     "summary_version": 2,
     "category": "港聞"
