@@ -1,19 +1,19 @@
 {
-  "last_run_at": "2026-11-06T22:55:40.305Z",
+  "last_run_at": "2026-11-08T00:36:37.000Z",
   "status": [
     {
       "source_id": "singtao",
       "state": "ok",
-      "message": "取得 25 篇候選報道；同事件只保留一個來源。",
-      "updated_at": "2026-11-06T22:54:23.898Z"
+      "message": "取得 22 篇候選報道；同事件只保留一個來源。",
+      "updated_at": "2026-11-08T00:35:22.366Z"
     },
     {
       "source_id": "macaodaily",
       "state": "ok",
-      "message": "取得 41 篇候選報道；同事件只保留一個來源。",
-      "updated_at": "2026-11-06T22:54:36.908Z"
+      "message": "取得 47 篇候選報道；同事件只保留一個來源。",
+      "updated_at": "2026-11-08T00:35:37.210Z"
     }
   ],
-  "saved": 26,
-  "merged": 0
+  "saved": 29,
+  "merged": 3
 }
