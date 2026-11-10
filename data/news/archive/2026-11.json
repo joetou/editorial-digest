@@ -1,5 +1,117 @@
 [
   {
+    "id": "86e92920b4805882676f11bb",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "有片｜大埔太和商場驚現老鼠 伏在地上一動不動 女學生舉機拍攝",
+    "url": "https://www.stheadline.com/breaking-news/3635800/%E6%9C%89%E7%89%87%E5%A4%A7%E5%9F%94%E5%A4%AA%E5%92%8C%E5%95%86%E5%A0%B4%E9%A9%9A%E7%8F%BE%E8%80%81%E9%BC%A0-%E4%BC%8F%E5%9C%A8%E5%9C%B0%E4%B8%8A%E4%B8%80%E5%8B%95%E4%B8%8D%E5%8B%95-%E5%A5%B3%E5%AD%B8%E7%94%9F%E8%88%89%E6%A9%9F%E6%8B%8D%E6%94%9D",
+    "published_date": "2026-11-11",
+    "summary": [
+      "大埔太和商場行人通道出現一隻灰色老鼠伏地不動，附近有女學生舉機拍攝。",
+      "老鼠即使有人經過仍未離開，網民猜測牠可能受傷或受驚，片段未交代去向。",
+      "近期元朗、屯門、青衣及觀塘等多區亦流傳老鼠出沒影片，引起市民關注鼠患。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "d77d1b594d9dab1f0b20e6ff",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "日媒報道港人沖繩潛水店任黑工被捕 入境處：未接獲港人求助",
+    "url": "https://www.stheadline.com/breaking-news/3635805/%E6%97%A5%E5%AA%92%E5%A0%B1%E9%81%93%E6%B8%AF%E4%BA%BA%E6%B2%96%E7%B9%A9%E6%BD%9B%E6%B0%B4%E5%BA%97%E4%BB%BB%E9%BB%91%E5%B7%A5%E8%A2%AB%E6%8D%95-%E5%85%A5%E5%A2%83%E8%99%95%E6%9C%AA%E6%8E%A5%E7%8D%B2%E6%B8%AF%E4%BA%BA%E6%B1%82%E5%8A%A9",
+    "published_date": "2026-11-11",
+    "summary": [
+      "日本沖繩一間潛水店涉聘用無合適簽證外國人任教練，店主及三名僱員被捕後遭起訴。",
+      "三名僱員分別來自香港及台灣，涉嫌無相關資格或工作簽證從事潛水教練及水中導覽。",
+      "入境處稱已透過外交公署及中國駐福岡總領事館了解情況，至今未接獲港人求助。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "fb7025d7b102280b6d396368",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "聽勸式文旅｜河南景區園丁「蜜蜂衫」藏摺櫈  獲讚可愛又人性化",
+    "url": "https://www.stheadline.com/realtime-china/3635603/%E8%81%BD%E5%8B%B8%E5%BC%8F%E6%96%87%E6%97%85%E6%B2%B3%E5%8D%97%E6%99%AF%E5%8D%80%E5%9C%92%E4%B8%81%E8%9C%9C%E8%9C%82%E8%A1%AB%E8%97%8F%E6%91%BA%E6%AB%88-%E7%8D%B2%E8%AE%9A%E5%8F%AF%E6%84%9B%E5%8F%88%E4%BA%BA%E6%80%A7%E5%8C%96",
+    "published_date": "2026-11-11",
+    "summary": [
+      "河南開封萬歲山武俠城園藝師穿特製蜜蜂服工作，尾部暗藏摺櫈方便隨時坐下休息。",
+      "景區初期服飾無圓帽及翅膀，經網民建議後迅速補上蜂翅與觸角帽，獲讚可愛人性化。",
+      "內地多地興起聽勸式文旅，廣西梧州、河南嵩山及江蘇宿遷均順應旅客建議獲好評。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "d9da2968165cfdd4bd03adbb",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美俄烏事隔9月阿布扎比重啟會談 庫什納：分歧收窄冀獲實質進展",
+    "url": "https://www.stheadline.com/realtime-world/3635764/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%BA%8B%E9%9A%949%E6%9C%88%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E9%87%8D%E5%95%9F%E6%9C%83%E8%AB%87-%E5%BA%AB%E4%BB%80%E7%B4%8D%E5%88%86%E6%AD%A7%E6%94%B6%E7%AA%84%E5%86%80%E7%8D%B2%E5%AF%A6%E8%B3%AA%E9%80%B2%E5%B1%95",
+    "published_date": "2026-11-11",
+    "summary": [
+      "美俄烏三方代表團在阿布扎比重啟面對面會談，首日持續近四小時。",
+      "庫什納稱美方幾乎每日與俄烏溝通，已收窄分歧並冀達成新安全架構。",
+      "烏方強調須獲堅實安全保障，領土問題僅能在元首層級討論。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "33166e43ec4fc8ed8b44fefc",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜傳黃樂曾被新加坡當局問話及限制離境 輝達晶片申報數據現「5萬粒落差」",
+    "url": "https://www.stheadline.com/realtime-world/3635799/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E5%82%B3%E9%BB%83%E6%A8%82%E6%9B%BE%E8%A2%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%95%B6%E5%B1%80%E5%95%8F%E8%A9%B1%E5%8F%8A%E9%99%90%E5%88%B6%E9%9B%A2%E5%A2%83-%E8%BC%9D%E9%81%94%E6%99%B6%E7%89%87%E7%94%B3%E5%A0%B1%E6%95%B8%E6%93%9A%E7%8F%BE5%E8%90%AC%E7%B2%92%E8%90%BD%E5%B7%AE",
+    "published_date": "2026-11-11",
+    "summary": [
+      "新加坡警方曾帶走黃樂問話並一度限制離境，其後行蹤不明，據傳已身處內地。",
+      "輝達向美方申報的晶片出口數據與實際出貨量出現約五萬粒、值數十億美元的落差。",
+      "黃樂曾任Megaspeed高層，該公司購入近二十億美元輝達先進晶片，正受新加坡審查。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "af2093ef95eafae8e547c79c",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜黃樂舊識談性格特質：笑容能勾魂 大學談戀愛就十分高調",
+    "url": "https://www.stheadline.com/realtime-world/3635806/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E9%BB%83%E6%A8%82%E8%88%8A%E8%AD%98%E8%AB%87%E6%80%A7%E6%A0%BC%E7%89%B9%E8%B3%AA%E7%AC%91%E5%AE%B9%E8%83%BD%E5%8B%BE%E9%AD%82-%E5%A4%A7%E5%AD%B8%E8%AB%87%E6%88%80%E6%84%9B%E5%B0%B1%E5%8D%81%E5%88%86%E9%AB%98%E8%AA%BF",
+    "published_date": "2026-11-11",
+    "summary": [
+      "黃仁勳婚外情風暴女主角黃樂的舊識受訪，形容她學生時期開朗外向、極具自信。",
+      "舊識稱黃樂公關能力出眾，笑容甜美能勾魂，大學談戀愛時十分高調。",
+      "舊識對黃樂捲入間諜指控感意外，直言不覺她智商高到可做間諜。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "46e666e83eb7a3dfaea831dc",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜被指兩次訪台期間 情婦黃樂與正宮Lori同隨行享齊人福",
+    "url": "https://www.stheadline.com/realtime-world/3635814/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E8%A2%AB%E6%8C%87%E5%85%A9%E6%AC%A1%E8%A8%AA%E5%8F%B0%E6%9C%9F%E9%96%93-%E6%83%85%E5%A9%A6%E9%BB%83%E6%A8%82%E8%88%87%E6%AD%A3%E5%AE%AELori%E5%90%8C%E9%9A%A8%E8%A1%8C%E4%BA%AB%E9%BD%8A%E4%BA%BA%E7%A6%8F",
+    "published_date": "2026-11-11",
+    "summary": [
+      "黃仁勳承認婚外情後，其與女商人黃樂的過往交集成為全球焦點。",
+      "外媒整理時間軸發現，黃仁勳至少兩次訪台期間，妻子Lori與黃樂同處台灣。",
+      "2025年5月餐敘中，黃樂親吻黃仁勳臉頰，其女兒黃敏珊亦在場互動融洽。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "748961fde7568654bf90d7ad",
     "source_id": "macaodaily",
     "newspaper": "澳門日報",
@@ -336,6 +448,38 @@
     "category": "港聞"
   },
   {
+    "id": "66371a91761fd938b8af7569",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "屯門血案｜不滿23歲女友一夜未歸 38歲躁漢由停車場打到入屋 揮刀傷人潛逃",
+    "url": "https://www.stheadline.com/breaking-news/3635567/%E5%B1%AF%E9%96%80%E8%A1%80%E6%A1%88%E4%B8%8D%E6%BB%BF23%E6%AD%B2%E5%A5%B3%E5%8F%8B%E4%B8%80%E5%A4%9C%E6%9C%AA%E6%AD%B8-38%E6%AD%B2%E8%BA%81%E6%BC%A2%E7%94%B1%E5%81%9C%E8%BB%8A%E5%A0%B4%E6%89%93%E5%88%B0%E5%85%A5%E5%B1%8B-%E6%8F%AE%E5%88%80%E5%82%B7%E4%BA%BA%E6%BD%9B%E9%80%83",
+    "published_date": "2026-11-10",
+    "summary": [
+      "屯門NOVO LAND單位內38歲莫姓男子與23歲女友爭執，持20厘米廚房刀施襲。",
+      "女事主額頭2厘米傷口及雙腳撞瘀，清醒送屯門醫院，涉案男子逞兇後逃去。",
+      "警方列襲擊致造成身體傷害，檢獲廚房刀並封鎖大廈搜捕，暫未有人被捕。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "bad1175e7f2d10f6c72ef72f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "猴子滋擾｜漁護加強監察城隧轉車站及郝德傑道 捕獲多隻滋事馬騮",
+    "url": "https://www.stheadline.com/breaking-news/3635726/%E7%8C%B4%E5%AD%90%E6%BB%8B%E6%93%BE%E6%BC%81%E8%AD%B7%E5%8A%A0%E5%BC%B7%E7%9B%A3%E5%AF%9F%E5%9F%8E%E9%9A%A7%E8%BD%89%E8%BB%8A%E7%AB%99%E5%8F%8A%E9%83%9D%E5%BE%B7%E5%82%91%E9%81%93-%E6%8D%95%E7%8D%B2%E5%A4%9A%E9%9A%BB%E6%BB%8B%E4%BA%8B%E9%A6%AC%E9%A8%AE",
+    "published_date": "2026-11-10",
+    "summary": [
+      "漁護署近月接獲多宗城門隧道轉車站及郝德傑道猴子滋擾報告，已加強巡查及驅趕。",
+      "署方捕獲多隻搶奪食物及具攻擊性的猴子，並增設大型捕捉籠。",
+      "署方派發宣傳小冊子提醒市民勿餵飼猴子，兩個地點滋擾情況已明顯改善。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
     "id": "f0155caf010abfa36e921f36",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -384,6 +528,22 @@
     "category": "內地新聞"
   },
   {
+    "id": "c75ddb13d74ffbf2bee37338",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜高市早苗下周赴東盟峰會  再飛深圳迎上台後首次訪華",
+    "url": "https://www.stheadline.com/realtime-world/3635250/%E6%B7%B1%E5%9C%B3APEC%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E5%91%A8%E8%B5%B4%E6%9D%B1%E7%9B%9F%E5%B3%B0%E6%9C%83-%E5%86%8D%E9%A3%9B%E6%B7%B1%E5%9C%B3%E8%BF%8E%E4%B8%8A%E5%8F%B0%E5%BE%8C%E9%A6%96%E6%AC%A1%E8%A8%AA%E8%8F%AF",
+    "published_date": "2026-11-10",
+    "summary": [
+      "日本眾議院批准首相高市早苗下周一起外訪四日，先赴菲律賓出席東盟峰會。",
+      "她其後轉往深圳出席十八至十九日舉行的APEC領導人會議，為上任一年首度訪華。",
+      "外相茂木敏充早前稱正協調出席事宜，未說明會否與習近平會面。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "26d113b757ce50f6efc269f1",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -427,6 +587,38 @@
       "特朗普承認大規模驅逐無證移民手段可能太過強硬，稱在移民議題上願與民主黨合作。",
       "他指移民掃蕩政策在選舉中有利有弊，封鎖邊境獲A+評價，但部分被捕移民僅非法入境。",
       "特朗普稱可能對內閣作些許調整，並對國防部長赫格塞思表示有信心。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "12e2dba33d565ed56c9727db",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "朝韓邊境｜南韓公園觀景台遠眺北韓自走炮爆紅  遊客激增設入園限額",
+    "url": "https://www.stheadline.com/realtime-world/3635676/%E6%9C%9D%E9%9F%93%E9%82%8A%E5%A2%83%E5%8D%97%E9%9F%93%E5%85%AC%E5%9C%92%E8%A7%80%E6%99%AF%E5%8F%B0%E9%81%A0%E7%9C%BA%E5%8C%97%E9%9F%93%E8%87%AA%E8%B5%B0%E7%82%AE%E7%88%86%E7%B4%85-%E9%81%8A%E5%AE%A2%E6%BF%80%E5%A2%9E%E8%A8%AD%E5%85%A5%E5%9C%92%E9%99%90%E9%A1%8D",
+    "published_date": "2026-11-10",
+    "summary": [
+      "南韓愛岐峰和平生態公園因可遠眺北韓邊境自走炮而在網上爆紅，吸引大批遊客湧入。",
+      "金浦市數據顯示，公園十月底至十一月初接待一萬三千多名遊客，部分日子按年增三成五。",
+      "北韓已為自走炮加裝偽裝設施，園方本月四日起將每小時預約入園上限由五百人減至二百人。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "60bb02e226e25f8295f90aca",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美伊戰爭︱美民調指逾7成民眾盼終戰  超6成支持廢除關稅",
+    "url": "https://www.stheadline.com/realtime-world/3635708/%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD%E7%BE%8E%E6%B0%91%E8%AA%BF%E6%8C%87%E9%80%BE7%E6%88%90%E6%B0%91%E7%9C%BE%E7%9B%BC%E7%B5%82%E6%88%B0-%E8%B6%856%E6%88%90%E6%94%AF%E6%8C%81%E5%BB%A2%E9%99%A4%E9%97%9C%E7%A8%85",
+    "published_date": "2026-11-10",
+    "summary": [
+      "路透社與益普索民調顯示，71%受訪美國民眾盼國會立法結束美伊戰爭。",
+      "62%受訪者支持廢除特朗普政府進口關稅，因戰爭推高油價令通脹惡化。",
+      "九成受訪者認為新一屆國會上任百日內應優先對抗通脹。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
