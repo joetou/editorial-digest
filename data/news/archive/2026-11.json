@@ -1,5 +1,165 @@
 [
   {
+    "id": "4aed6737a45e46bf2178f2a0",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "香港成人展MFE取消｜入境處澄清相關人士獲悉活動取消後選擇離港 非遭拒絕入境",
+    "url": "https://www.stheadline.com/breaking-news/3636155/%E9%A6%99%E6%B8%AF%E6%88%90%E4%BA%BA%E5%B1%95MFE%E5%8F%96%E6%B6%88%E5%85%A5%E5%A2%83%E8%99%95%E6%BE%84%E6%B8%85%E7%9B%B8%E9%97%9C%E4%BA%BA%E5%A3%AB%E7%8D%B2%E6%82%89%E6%B4%BB%E5%8B%95%E5%8F%96%E6%B6%88%E5%BE%8C%E9%81%B8%E6%93%87%E9%9B%A2%E6%B8%AF-%E9%9D%9E%E9%81%AD%E6%8B%92%E7%B5%95%E5%85%A5%E5%A2%83",
+    "published_date": "2026-11-12",
+    "summary": [
+      "香港成人展MFE主辦方宣布取消原定本周五至日的展覽及周四預覽活動。",
+      "入境處澄清相關人士並非遭拒絕入境，而是在獲悉活動取消後選擇離港。",
+      "多名原定出席的日本AV女優透露須返回日本，主辦方將安排退款。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "947efe1688f30996981c760a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "博主扮紙紥公仔嚇細路   景區「乜都唔知」圖卸責？︱有片",
+    "url": "https://www.stheadline.com/realtime-china/3635956/%E5%8D%9A%E4%B8%BB%E6%89%AE%E7%B4%99%E7%B4%A5%E5%85%AC%E4%BB%94%E5%9A%87%E7%B4%B0%E8%B7%AF-%E6%99%AF%E5%8D%80%E4%B9%9C%E9%83%BD%E5%94%94%E7%9F%A5%E5%9C%96%E5%8D%B8%E8%B2%AC%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-12",
+    "summary": [
+      "內地網紅在多個景區扮紙紮公仔，出奇不意嚇途經遊人，疑有小孩被惡意嚇倒。",
+      "涉事景區客服稱未清楚是否園方邀請，長沙湘江海洋王國指NPC由第三方外包。",
+      "律師指博主須負主要賠償責任，景區未盡安全保障義務須承擔補充責任。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "257342f5bde673fef6d51068",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中國觀察：台派施振榮赴APEC 各方都能接受",
+    "url": "https://www.stheadline.com/realtime-china/3636213/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E5%8F%B0%E6%B4%BE%E6%96%BD%E6%8C%AF%E6%A6%AE%E8%B5%B4APEC-%E5%90%84%E6%96%B9%E9%83%BD%E8%83%BD%E6%8E%A5%E5%8F%97",
+    "published_date": "2026-11-12",
+    "summary": [
+      "賴清德政府宣布由82歲宏碁集團創辦人施振榮擔任今年深圳APEC台灣代表。",
+      "施振榮相隔19年再任APEC代表，上次是2007年代表陳水扁政府出席悉尼會議。",
+      "施振榮政治立場務實中立，熟悉半導體及數字經濟議題，被視為各方可接受人選。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "083f1a0888f482544cee878c",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜工商領導人峰會 谷歌波音等申請參會",
+    "url": "https://www.stheadline.com/realtime-china/3636214/%E6%B7%B1%E5%9C%B3APEC%E5%B7%A5%E5%95%86%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%B3%B0%E6%9C%83-%E8%B0%B7%E6%AD%8C%E6%B3%A2%E9%9F%B3%E7%AD%89%E7%94%B3%E8%AB%8B%E5%8F%83%E6%9C%83",
+    "published_date": "2026-11-12",
+    "summary": [
+      "APEC工商領導人峰會下周二至周三在深圳舉行，預計逾2000人參與。",
+      "谷歌、波音、瑞銀等世界500強企業已提交參會申請，多個非APEC經濟體亦報名。",
+      "日媒指日中首腦會談協調不順，中方稱已多次闡明中日關係立場。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "4e427374ff1b603149296c62",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "雙十一｜AI工具導購熱 助抖音銷2成保健品",
+    "url": "https://www.stheadline.com/realtime-china/3636217/%E9%9B%99%E5%8D%81%E4%B8%80AI%E5%B7%A5%E5%85%B7%E5%B0%8E%E8%B3%BC%E7%86%B1-%E5%8A%A9%E6%8A%96%E9%9F%B3%E9%8A%B72%E6%88%90%E4%BF%9D%E5%81%A5%E5%93%81",
+    "published_date": "2026-11-12",
+    "summary": [
+      "內地電商平台10月中起啟動雙11，AI工具導購成新趨勢，但整體銷售額僅增2.4%。",
+      "京東AI購物助手「京東咚咚」吸引近8000萬用戶，是去年3倍多；淘寶天貓亦推AI功能。",
+      "抖音約5%交易由AI聊天機械人促成，保健品相關佔比逾20%；阿里AI玩具銷售額破億元。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "a04c78f0adc289d2b06d68d3",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "防長彈劾案｜共和黨槍口向外擋下 民主黨明年1月料捲土重來",
+    "url": "https://www.stheadline.com/realtime-world/3636221/%E9%98%B2%E9%95%B7%E5%BD%88%E5%8A%BE%E6%A1%88%E5%85%B1%E5%92%8C%E9%BB%A8%E6%A7%8D%E5%8F%A3%E5%90%91%E5%A4%96%E6%93%8B%E4%B8%8B-%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%98%8E%E5%B9%B41%E6%9C%88%E6%96%99%E6%8D%B2%E5%9C%9F%E9%87%8D%E4%BE%86",
+    "published_date": "2026-11-12",
+    "summary": [
+      "美國眾議院以211票贊成、204票反對，將針對防長赫格塞思的彈劾案轉交司法委員會，變相擱置。",
+      "彈劾案由共和黨議員梅西提出，共8項條款，涉及伊朗及也門軍事行動等指控。",
+      "民主黨明年1月重掌參眾兩院後，預期重啟彈劾程序，加強調查五角大樓決策。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "e1deee21daae546c8e890f06",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美國中期選舉︱馬世雲當選加州首位亞裔副州長",
+    "url": "https://www.stheadline.com/realtime-world/3636222/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E9%A6%AC%E4%B8%96%E9%9B%B2%E7%95%B6%E9%81%B8%E5%8A%A0%E5%B7%9E%E9%A6%96%E4%BD%8D%E4%BA%9E%E8%A3%94%E5%89%AF%E5%B7%9E%E9%95%B7",
+    "published_date": "2026-11-12",
+    "summary": [
+      "民主黨籍加州財務長馬世雲當選副州長，成為加州首位亞裔副州長。",
+      "她11月3日擊敗共和黨對手羅梅洛，預定明年1月就任。",
+      "60歲馬世雲在美出生，祖籍雲南，祖父馬鉁曾任昆明首任市長。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "7206560ced3f4ef2215ff442",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌2.0︱再遭揭婚外情首回應曝光  收電話查詢秒速掛線",
+    "url": "https://www.stheadline.com/realtime-world/3636225/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C20%E5%86%8D%E9%81%AD%E6%8F%AD%E5%A9%9A%E5%A4%96%E6%83%85%E9%A6%96%E5%9B%9E%E6%87%89%E6%9B%9D%E5%85%89-%E6%94%B6%E9%9B%BB%E8%A9%B1%E6%9F%A5%E8%A9%A2%E7%A7%92%E9%80%9F%E6%8E%9B%E7%B7%9A",
+    "published_date": "2026-11-12",
+    "summary": [
+      "《紐約時報》報道黃仁勳除黃樂外，亦與向他匯報的副總裁鮑威爾發展婚外情。",
+      "記者致電查詢時，黃仁勳稱不應直接與他談此事後掛斷電話，輝達及鮑威爾未回應。",
+      "輝達董事局定於周三開會商討是否罷免黃仁勳，鮑威爾已取消出席華盛頓圓桌會議。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "8223a50940ae86273316f9e9",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "大國領袖紛缺席氣候峰會 G7僅英揆與會",
+    "url": "https://www.stheadline.com/realtime-world/3636226/%E5%A4%A7%E5%9C%8B%E9%A0%98%E8%A2%96%E7%B4%9B%E7%BC%BA%E5%B8%AD%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83-G7%E5%83%85%E8%8B%B1%E6%8F%86%E8%88%87%E6%9C%83",
+    "published_date": "2026-11-12",
+    "summary": [
+      "聯合國氣候變化大會在土耳其安塔利亞揭幕，領袖峰會一連兩日舉行。",
+      "七大工業國集團中僅英國首相貝安德發言，特朗普與習近平均缺席。",
+      "習近平派國家副主席韓正代表出席，歐盟氣候專員稱外界期望不高。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "02e9aefaa28974bb331f82e1",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "西班牙14年首次全國罷工 抗議住房危機",
+    "url": "https://www.stheadline.com/realtime-world/3636230/%E8%A5%BF%E7%8F%AD%E7%89%9914%E5%B9%B4%E9%A6%96%E6%AC%A1%E5%85%A8%E5%9C%8B%E7%BD%B7%E5%B7%A5-%E6%8A%97%E8%AD%B0%E4%BD%8F%E6%88%BF%E5%8D%B1%E6%A9%9F",
+    "published_date": "2026-11-12",
+    "summary": [
+      "西班牙多個城市發起14年來首次全國罷工，抗議住房危機，獲兩大工會及租客協會支持。",
+      "全國平均月租達1176歐羅，幾乎佔青年平均月薪98.7%，房屋缺口約75萬套。",
+      "罷工距國會大選不足三周，各行業參與程度不一，商界指多數產業參與率偏低。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "86e92920b4805882676f11bb",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -32,6 +192,22 @@
     "category": "港聞"
   },
   {
+    "id": "44b37a5dfca38bca9067d227",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "珍惜生命｜大坑21歲內地男單位上吊亡 業主揭發報警 當場不治",
+    "url": "https://www.stheadline.com/breaking-news/3636135/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%A4%A7%E5%9D%9121%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E5%96%AE%E4%BD%8D%E4%B8%8A%E5%90%8A%E4%BA%A1-%E6%A5%AD%E4%B8%BB%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "published_date": "2026-11-11",
+    "summary": [
+      "21歲內地男交流生在大坑新村街單位以衣物上吊，業主上門揭發報警，當場證實死亡。",
+      "死者今年6月底與拍拖4年女友感情生變後抑鬱，曾透露自殺念頭但拒絕就醫。",
+      "母親周三晚無法聯絡兒子，通知業主協助尋人；警方檢獲遺書，死因待驗屍確定。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
     "id": "fb7025d7b102280b6d396368",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -43,6 +219,70 @@
       "河南開封萬歲山武俠城園藝師穿特製蜜蜂服工作，尾部暗藏摺櫈方便隨時坐下休息。",
       "景區初期服飾無圓帽及翅膀，經網民建議後迅速補上蜂翅與觸角帽，獲讚可愛人性化。",
       "內地多地興起聽勸式文旅，廣西梧州、河南嵩山及江蘇宿遷均順應旅客建議獲好評。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "d6bf8e451358ba0befc17f50",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "華網紅孟加拉貧民窟拍片冒充新德里  印外交部斥「扭曲國家形象」促採取行動",
+    "url": "https://www.stheadline.com/realtime-china/3635886/%E8%8F%AF%E7%B6%B2%E7%B4%85%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%B2%A7%E6%B0%91%E7%AA%9F%E6%8B%8D%E7%89%87%E5%86%92%E5%85%85%E6%96%B0%E5%BE%B7%E9%87%8C-%E5%8D%B0%E5%A4%96%E4%BA%A4%E9%83%A8%E6%96%A5%E6%89%AD%E6%9B%B2%E5%9C%8B%E5%AE%B6%E5%BD%A2%E8%B1%A1%E4%BF%83%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95",
+    "published_date": "2026-11-11",
+    "summary": [
+      "多名中國網紅在孟加拉達卡貧民窟拍片，謊稱身處印度新德里，貶低印度環境。",
+      "印度外交部指行為散播假資訊、扭曲國家形象，表示遺憾並促當局採取行動。",
+      "達卡居民估計過去數月約150名內地人拍攝，有人擅自闖入民居造成滋擾。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "a341ad17c3cfa7603429a3bd",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "貓貸騙局｜「免費領養」被迫借高息「生活費」 貓死仍須還款年利率逾130%",
+    "url": "https://www.stheadline.com/realtime-china/3635974/%E8%B2%93%E8%B2%B8%E9%A8%99%E5%B1%80%E5%85%8D%E8%B2%BB%E9%A0%98%E9%A4%8A%E8%A2%AB%E8%BF%AB%E5%80%9F%E9%AB%98%E6%81%AF%E7%94%9F%E6%B4%BB%E8%B2%BB-%E8%B2%93%E6%AD%BB%E4%BB%8D%E9%A0%88%E9%82%84%E6%AC%BE%E5%B9%B4%E5%88%A9%E7%8E%87%E9%80%BE130",
+    "published_date": "2026-11-11",
+    "summary": [
+      "廣州多名大學生及市民被「零元領養」吸引到店後，遭誘導簽署年化利率高達131.4%的分期貸款合約。",
+      "有領養貓隻數天後被診斷患病，商家隱瞞貓隻來自外省長途運輸，健康檢查表卻全勾「正常」。",
+      "協議訂明貓隻死亡仍須還款、禁止向媒體曝光等霸王條款，律師指高利及有關條文均屬無效。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "7df87613af04f76ea2995fe3",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "河南少年10分鐘3偷絲襪塞底褲  店主翻睇CCTV揭老手",
+    "url": "https://www.stheadline.com/realtime-china/3635991/%E6%B2%B3%E5%8D%97%E5%B0%91%E5%B9%B410%E5%88%86%E9%90%983%E5%81%B7%E7%B5%B2%E8%A5%AA%E5%A1%9E%E5%BA%95%E8%A4%B2-%E5%BA%97%E4%B8%BB%E7%BF%BB%E7%9D%87CCTV%E6%8F%AD%E8%80%81%E6%89%8B",
+    "published_date": "2026-11-11",
+    "summary": [
+      "河南駐馬店一名十六七歲青年在賣場10分鐘內三度偷女裝絲襪，塞入褲襠。",
+      "店主翻查閉路電視發現手法熟練，聯想到夏季失竊20多條絲襪，懷疑同一人所為。",
+      "店主報警求助，稱更希望涉事者父母介入教育，警方已取走影片調查。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "b4e8cb3e22fe475ee1abf909",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "陸客申請赴台被逼簽「兩岸互不隸屬」文件 國台辦批政治操弄",
+    "url": "https://www.stheadline.com/realtime-china/3636089/%E9%99%B8%E5%AE%A2%E7%94%B3%E8%AB%8B%E8%B5%B4%E5%8F%B0%E8%A2%AB%E9%80%BC%E7%B0%BD%E5%85%A9%E5%B2%B8%E4%BA%92%E4%B8%8D%E9%9A%B8%E5%B1%AC%E6%96%87%E4%BB%B6-%E5%9C%8B%E5%8F%B0%E8%BE%A6%E6%89%B9%E6%94%BF%E6%B2%BB%E6%93%8D%E5%BC%84",
+    "published_date": "2026-11-11",
+    "summary": [
+      "大陸網友在線申請入台許可時，因訂房單出現「中國台灣」字樣遭退件。",
+      "台灣移民署要求申請人親筆書寫「台灣與中國互不隸屬」等文字後再上傳。",
+      "國台辦發言人張晗批評民進黨當局此舉是別有用心的政治操弄。"
     ],
     "summary_version": 2,
     "category": "內地新聞"
