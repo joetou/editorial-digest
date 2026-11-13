@@ -1,5 +1,149 @@
 [
   {
+    "id": "0e4ba95d90bdf94cdc8b52cd",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "有片｜國泰高雄返港客機菲漢情緒失控強衝艙門 女乘客空服員合力制服 警持盾登機押走",
+    "url": "https://www.stheadline.com/breaking-news/3636590/%E6%9C%89%E7%89%87%E5%9C%8B%E6%B3%B0%E9%AB%98%E9%9B%84%E8%BF%94%E6%B8%AF%E5%AE%A2%E6%A9%9F%E8%8F%B2%E6%BC%A2%E6%83%85%E7%B7%92%E5%A4%B1%E6%8E%A7%E5%BC%B7%E8%A1%9D%E8%89%99%E9%96%80-%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%A9%BA%E6%9C%8D%E5%93%A1%E5%90%88%E5%8A%9B%E5%88%B6%E6%9C%8D-%E8%AD%A6%E6%8C%81%E7%9B%BE%E7%99%BB%E6%A9%9F%E6%8A%BC%E8%B5%B0",
+    "published_date": "2026-11-13",
+    "summary": [
+      "國泰CX423高雄返港航班上，28歲菲籍男乘客情緒失控衝向艙門。",
+      "退休醫護女乘客協助空服員合力制服男子，客機安全抵港。",
+      "警方登機以涉嫌違反《航空保安條例》拘捕該名男子，案件跟進中。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "de5ed70fe21ea260680946ef",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "海關粉嶺連破破兩宗私煙案  共檢110萬元貨拘5男",
+    "url": "https://www.stheadline.com/breaking-news/3636595/%E6%B5%B7%E9%97%9C%E7%B2%89%E5%B6%BA%E9%80%A3%E7%A0%B4%E7%A0%B4%E5%85%A9%E5%AE%97%E7%A7%81%E7%85%99%E6%A1%88%E5%85%B1%E6%AA%A2110%E8%90%AC%E5%85%83%E8%B2%A8%E6%8B%985%E7%94%B7",
+    "published_date": "2026-11-13",
+    "summary": [
+      "海關在粉嶺華明邨偵破兩宗私煙案，檢獲約25萬支懷疑私煙。",
+      "涉案私煙估計市值約110萬元，應課稅值約82萬元。",
+      "行動共拘捕5名30至55歲男子，已被落案起訴，案件仍在調查。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "2cff05bdf7c177ab8916824b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "警方全港打擊白牌車拘12人 包括7名內地漢",
+    "url": "https://www.stheadline.com/breaking-news/3636596/%E8%AD%A6%E6%96%B9%E5%85%A8%E6%B8%AF%E6%89%93%E6%93%8A%E7%99%BD%E7%89%8C%E8%BB%8A%E6%8B%9812%E4%BA%BA-%E5%8C%85%E6%8B%AC7%E5%90%8D%E5%85%A7%E5%9C%B0%E6%BC%A2",
+    "published_date": "2026-11-13",
+    "summary": [
+      "警方於上月27日至昨日展開全港打擊白牌車行動，共拘捕12名男子。",
+      "被捕者包括5名本地及7名內地男子，年齡27至58歲，扣查12輛私家車。",
+      "5名本地男子獲准保釋，7名內地男子已被起訴並還押候審。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "8aae5fa11887a7cb1f3d51ac",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "蝴蝶寶貝｜湖南4歲女皮膚一碰即爛 父母不生二胎月花逾萬護理",
+    "url": "https://www.stheadline.com/realtime-china/3636346/%E8%9D%B4%E8%9D%B6%E5%AF%B6%E8%B2%9D%E6%B9%96%E5%8D%974%E6%AD%B2%E5%A5%B3%E7%9A%AE%E8%86%9A%E4%B8%80%E7%A2%B0%E5%8D%B3%E7%88%9B-%E7%88%B6%E6%AF%8D%E4%B8%8D%E7%94%9F%E4%BA%8C%E8%83%8E%E6%9C%88%E8%8A%B1%E9%80%BE%E8%90%AC%E8%AD%B7%E7%90%86",
+    "published_date": "2026-11-13",
+    "summary": [
+      "湖南湘潭4歲女童晨晨確診罕見遺傳病EB，皮膚脆弱易起水泡潰爛。",
+      "父母每日花至少2小時換藥，月耗逾萬元護理費，決定不再生育。",
+      "晨晨因無法與同齡人玩耍感孤獨，全家盼她順利入幼稚園過正常生活。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "3f6d572fb1e36198183a2e0b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜美眾院外委會主席：黃仁勳已同意赴國會作證 料下周出席閉門簡報",
+    "url": "https://www.stheadline.com/realtime-world/3636555/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E7%BE%8E%E7%9C%BE%E9%99%A2%E5%A4%96%E5%A7%94%E6%9C%83%E4%B8%BB%E5%B8%AD%E9%BB%83%E4%BB%81%E5%8B%B3%E5%B7%B2%E5%90%8C%E6%84%8F%E8%B5%B4%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89-%E6%96%99%E4%B8%8B%E5%91%A8%E5%87%BA%E5%B8%AD%E9%96%89%E9%96%80%E7%B0%A1%E5%A0%B1",
+    "published_date": "2026-11-13",
+    "summary": [
+      "美眾院外委會主席馬斯特稱，黃仁勳已同意赴國會作證。",
+      "國會要求黃仁勳就與黃樂關係、防滲透及晶片出口作交代。",
+      "黃仁勳辭職後，國會擬收緊對華AI晶片出口並納入國防授權法。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "968f1f620376582877ac6bf9",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "華盛頓健身室爆槍擊釀1死4傷 槍手反鎖公寓吞槍自盡",
+    "url": "https://www.stheadline.com/realtime-world/3636557/%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%81%A5%E8%BA%AB%E5%AE%A4%E7%88%86%E6%A7%8D%E6%93%8A%E9%87%801%E6%AD%BB4%E5%82%B7-%E6%A7%8D%E6%89%8B%E5%8F%8D%E9%8E%96%E5%85%AC%E5%AF%93%E5%90%9E%E6%A7%8D%E8%87%AA%E7%9B%A1",
+    "published_date": "2026-11-13",
+    "summary": [
+      "美國華盛頓洛根環島一間健身室發生槍擊，造成1人死亡、4人受傷。",
+      "槍手行兇後逃回附近公寓反鎖自盡，警方破門後發現其倒臥屋內身亡。",
+      "警方正調查槍手與死傷者關係及犯案動機，事件引發當地民眾恐慌。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "a8319b1a693ae900a4eac9a4",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜新加坡查Megaspeed  黃樂涉提供不實信息遭永久禁止入境",
+    "url": "https://www.stheadline.com/realtime-world/3636592/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%9F%A5Megaspeed-%E9%BB%83%E6%A8%82%E6%B6%89%E6%8F%90%E4%BE%9B%E4%B8%8D%E5%AF%A6%E4%BF%A1%E6%81%AF%E9%81%AD%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%85%A5%E5%A2%83",
+    "published_date": "2026-11-13",
+    "summary": [
+      "新加坡警方與海關去年2月調查Megaspeed等企業，指其採購伺服器時涉虛假申報。",
+      "黃樂調查期間提供不實資訊淡化角色，遭警告並自2月26日起永久禁止入境新加坡。",
+      "新加坡稱證據不足證黃樂涉刑事罪行，Megaspeed稱已配合美方查核並檢視合規。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "cc34826e6ba3f7ab8feb8357",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳辭職｜Nvidia新舵手Colette Kress來頭猛  曾上「美最富有白手起家女性」榜單",
+    "url": "https://www.stheadline.com/realtime-world/3636594/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7Nvidia%E6%96%B0%E8%88%B5%E6%89%8BColette-Kress%E4%BE%86%E9%A0%AD%E7%8C%9B-%E6%9B%BE%E4%B8%8A%E7%BE%8E%E6%9C%80%E5%AF%8C%E6%9C%89%E7%99%BD%E6%89%8B%E8%B5%B7%E5%AE%B6%E5%A5%B3%E6%80%A7%E6%A6%9C%E5%96%AE",
+    "published_date": "2026-11-13",
+    "summary": [
+      "黃仁勳因婚外情風波辭去英偉達行政總裁、總裁及董事會成員職務。",
+      "英偉達宣布由首席財務官克雷斯接任臨時行政總裁，帶領公司度過危機。",
+      "克雷斯曾任職微軟及思科，持有英偉達股份市值約7.5億美元。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "bf7b79d6d922a6b94b4a3ff7",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜美司法部：黃樂間諜身份未定論 風波延燒白宮傳商盧特尼克去留",
+    "url": "https://www.stheadline.com/realtime-world/3636607/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E9%BB%83%E6%A8%82%E9%96%93%E8%AB%9C%E8%BA%AB%E4%BB%BD%E6%9C%AA%E5%AE%9A%E8%AB%96-%E9%A2%A8%E6%B3%A2%E5%BB%B6%E7%87%92%E7%99%BD%E5%AE%AE%E5%82%B3%E5%95%86%E7%9B%A7%E7%89%B9%E5%B0%BC%E5%85%8B%E5%8E%BB%E7%95%99",
+    "published_date": "2026-11-13",
+    "summary": [
+      "路透社報道黃仁勳除已曝光關係外，曾與英偉達另一名員工有親密關係，身份未公開。",
+      "美國司法部長布蘭奇稱，女商人黃樂是否為中國間諜仍在調查，尚未有結論。",
+      "白宮正討論商務部長盧特尼克去留，他被指對華AI晶片出口管制做得不夠。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "4aed6737a45e46bf2178f2a0",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -11,6 +155,54 @@
       "香港成人展MFE主辦方宣布取消原定本周五至日的展覽及周四預覽活動。",
       "入境處澄清相關人士並非遭拒絕入境，而是在獲悉活動取消後選擇離港。",
       "多名原定出席的日本AV女優透露須返回日本，主辦方將安排退款。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "d8314a7cb3740d7c7759007f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "康樂廣場血案｜遇襲41歲菲籍男留醫3日不治 警改列謀殺案 兩同鄉早前被捕",
+    "url": "https://www.stheadline.com/breaking-news/3636464/%E5%BA%B7%E6%A8%82%E5%BB%A3%E5%A0%B4%E8%A1%80%E6%A1%88%E9%81%87%E8%A5%B241%E6%AD%B2%E8%8F%B2%E7%B1%8D%E7%94%B7%E7%95%99%E9%86%AB3%E6%97%A5%E4%B8%8D%E6%B2%BB-%E8%AD%A6%E6%94%B9%E5%88%97%E8%AC%80%E6%AE%BA%E6%A1%88-%E5%85%A9%E5%90%8C%E9%84%89%E6%97%A9%E5%89%8D%E8%A2%AB%E6%8D%95",
+    "published_date": "2026-11-12",
+    "summary": [
+      "41歲菲律賓籍男子上周六晚在中環康樂廣場街頭暈倒，頭部受傷昏迷送院。",
+      "警方拘捕兩名44歲及52歲同鄉涉傷人，兩人已被暫控意圖造成身體嚴重傷害而傷人罪。",
+      "事主留醫3日後於周二不治，警方周四將案件改列謀殺案，重案組正調查。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "4a2d4108e54997c09a3a542d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "牛池灣彩輝邨25歲女子輕生 昏迷送院搶救",
+    "url": "https://www.stheadline.com/breaking-news/3636485/%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BD%A9%E8%BC%9D%E9%82%A825%E6%AD%B2%E5%A5%B3%E5%AD%90%E8%BC%95%E7%94%9F-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "published_date": "2026-11-12",
+    "summary": [
+      "牛池灣彩輝邨彩葉樓單位內，25歲女子被發現頭部裹膠袋並接連氮氣，昏迷送院。",
+      "家人傍晚6時許發現後報案，救護員將女子送往聯合醫院搶救，警方檢獲遺書。",
+      "據悉女子近日受工作問題困擾，案件列作企圖自殺跟進。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "30ec24a4c38481a11a5c2fdb",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "Customs YES暑期工作實習計劃連續6年舉辦 海關舉行本年度證書頒發禮",
+    "url": "https://www.stheadline.com/breaking-news/3636497/Customs-YES%E6%9A%91%E6%9C%9F%E5%B7%A5%E4%BD%9C%E5%AF%A6%E7%BF%92%E8%A8%88%E5%8A%83%E9%80%A3%E7%BA%8C6%E5%B9%B4%E8%88%89%E8%BE%A6-%E6%B5%B7%E9%97%9C%E8%88%89%E8%A1%8C%E6%9C%AC%E5%B9%B4%E5%BA%A6%E8%AD%89%E6%9B%B8%E9%A0%92%E7%99%BC%E7%A6%AE",
+    "published_date": "2026-11-12",
+    "summary": [
+      "香港海關連續六年舉辦Customs YES暑期實習計劃，今年提供150個本地及內地職位。",
+      "計劃吸引超過1200份申請，並將內地實習網絡拓展至四川，增加公共服務及慈善機構機會。",
+      "海關舉行證書頒發典禮，關長陳子達勉勵青年珍惜機會、裝備自己，日後回饋社會。"
     ],
     "summary_version": 2,
     "category": "港聞"
@@ -75,6 +267,70 @@
       "內地電商平台10月中起啟動雙11，AI工具導購成新趨勢，但整體銷售額僅增2.4%。",
       "京東AI購物助手「京東咚咚」吸引近8000萬用戶，是去年3倍多；淘寶天貓亦推AI功能。",
       "抖音約5%交易由AI聊天機械人促成，保健品相關佔比逾20%；阿里AI玩具銷售額破億元。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "76ed1f62631ab4beb8a9beec",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌︱婚外情女主角黃樂行蹤據報目前身在北京 外交部：不了解情況",
+    "url": "https://www.stheadline.com/realtime-china/3636258/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E5%A9%9A%E5%A4%96%E6%83%85%E5%A5%B3%E4%B8%BB%E8%A7%92%E9%BB%83%E6%A8%82%E8%A1%8C%E8%B9%A4%E6%93%9A%E5%A0%B1%E7%9B%AE%E5%89%8D%E8%BA%AB%E5%9C%A8%E5%8C%97%E4%BA%AC-%E5%A4%96%E4%BA%A4%E9%83%A8%E4%B8%8D%E4%BA%86%E8%A7%A3%E6%83%85%E6%B3%81",
+    "published_date": "2026-11-12",
+    "summary": [
+      "彭博社報道黃樂已返回內地，目前身在北京，內地部門知悉其行蹤。",
+      "外交部發言人毛寧回應彭博社提問時稱不了解情況。",
+      "黃樂為湖南籍中國公民，持香港永久居民身份，創辦新加坡Megaspeed。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "f3d6c448107e1f602640c877",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "網紅金毛犬「十七」被盜宰殺分屍 偷狗賊僅為¥120利益行兇",
+    "url": "https://www.stheadline.com/realtime-china/3636284/%E7%B6%B2%E7%B4%85%E9%87%91%E6%AF%9B%E7%8A%AC%E5%8D%81%E4%B8%83%E8%A2%AB%E7%9B%9C%E5%AE%B0%E6%AE%BA%E5%88%86%E5%B1%8D-%E5%81%B7%E7%8B%97%E8%B3%8A%E5%83%85%E7%82%BA120%E5%88%A9%E7%9B%8A%E8%A1%8C%E5%85%87",
+    "published_date": "2026-11-12",
+    "summary": [
+      "貴州遵義網紅金毛犬「十七」在自家院子被陌生人強行牽走。",
+      "狗主追蹤尋回愛犬時，牠已被砍成兩半裝入塑料袋，警方立案調查。",
+      "涉案男供稱花180元僱人宰殺，再以300元轉賣，實際僅獲利120元。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "c138240e64c93dc3223ff822",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "恐怖體罰｜貴州8歲留守女童漏帶課本  遭老師猛打20分鐘至抽搐骨折",
+    "url": "https://www.stheadline.com/realtime-china/3636364/%E6%81%90%E6%80%96%E9%AB%94%E7%BD%B0%E8%B2%B4%E5%B7%9E8%E6%AD%B2%E7%95%99%E5%AE%88%E5%A5%B3%E7%AB%A5%E6%BC%8F%E5%B8%B6%E8%AA%B2%E6%9C%AC-%E9%81%AD%E8%80%81%E5%B8%AB%E7%8C%9B%E6%89%9320%E5%88%86%E9%90%98%E8%87%B3%E6%8A%BD%E6%90%90%E9%AA%A8%E6%8A%98",
+    "published_date": "2026-11-12",
+    "summary": [
+      "貴州仁懷市第四小學一名8歲留守女童因漏帶中文課本，遭班主任用戒尺毆打約20分鐘。",
+      "女童四肢大面積瘀傷，右手掌骨撕脫性骨折，需留院治療，生活難以自理。",
+      "教體局及公安介入調查，初步確認體罰屬實，將依法追責並公開通報結果。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "39f1ffbce1e0bfb6e44fcfeb",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "ROKKA&ROLLA｜山姆¥399充絨300克羽絨褸斷貨 代購炒貴¥200",
+    "url": "https://www.stheadline.com/realtime-china/3636379/ROKKAROLLA%E5%B1%B1%E5%A7%86399%E5%85%85%E7%B5%A8300%E5%85%8B%E7%BE%BD%E7%B5%A8%E8%A4%B8%E6%96%B7%E8%B2%A8-%E4%BB%A3%E8%B3%BC%E7%82%92%E8%B2%B4200",
+    "published_date": "2026-11-12",
+    "summary": [
+      "山姆會員商店一款男裝長款羽絨褸售399元、充絨量300克，因性價比高迅速斷市。",
+      "該羽絨褸在武漢、南京等多間分店售罄，女裝門市及小程序均缺貨，男裝僅限門市發售。",
+      "二手平台湧現代購，女裝原價499元被加價200元至最高699元轉售，且不設退換。"
     ],
     "summary_version": 2,
     "category": "內地新聞"
@@ -155,6 +411,38 @@
       "西班牙多個城市發起14年來首次全國罷工，抗議住房危機，獲兩大工會及租客協會支持。",
       "全國平均月租達1176歐羅，幾乎佔青年平均月薪98.7%，房屋缺口約75萬套。",
       "罷工距國會大選不足三周，各行業參與程度不一，商界指多數產業參與率偏低。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "ef39e16284196f584e1c61ff",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "歐洲炸彈恐嚇持續｜意逾6千校收威脅電郵  發信網域來自台灣一大學",
+    "url": "https://www.stheadline.com/realtime-world/3636478/%E6%AD%90%E6%B4%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87%E6%8C%81%E7%BA%8C%E6%84%8F%E9%80%BE6%E5%8D%83%E6%A0%A1%E6%94%B6%E5%A8%81%E8%84%85%E9%9B%BB%E9%83%B5-%E7%99%BC%E4%BF%A1%E7%B6%B2%E5%9F%9F%E4%BE%86%E8%87%AA%E5%8F%B0%E7%81%A3%E4%B8%80%E5%A4%A7%E5%AD%B8",
+    "published_date": "2026-11-12",
+    "summary": [
+      "意大利兩日累計逾8,100間學校收到炸彈恐嚇電郵，逾300間一度疏散停課。",
+      "法國加來-弗雷坦火車站發現無人認領行李觸發警報，歐洲之星服務一度受阻。",
+      "發信網域被指來自台灣大葉大學，校方稱校友帳號疑遭盜用並已停權調查。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "dfd043a9f94e2cff22ecc7dc",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳辭職｜特朗普點名庫克接任NVIDIA CEO  形容「傳奇接替傳奇」",
+    "url": "https://www.stheadline.com/realtime-world/3636526/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%9E%E5%90%8D%E5%BA%AB%E5%85%8B%E6%8E%A5%E4%BB%BBNVIDIA-CEO-%E5%BD%A2%E5%AE%B9%E5%82%B3%E5%A5%87%E6%8E%A5%E6%9B%BF%E5%82%B3%E5%A5%87",
+    "published_date": "2026-11-12",
+    "summary": [
+      "NVIDIA董事會批准黃仁勳辭去總裁、行政總裁及董事職務，即時生效。",
+      "特朗普在Truth Social點名推薦蘋果執行董事長庫克接任，形容「傳奇接替傳奇」。",
+      "黃仁勳已同意感恩節前赴國會閉門作證，交代與Megaspeed高層黃樂的關係。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
