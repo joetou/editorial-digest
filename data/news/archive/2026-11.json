@@ -1,5 +1,165 @@
 [
   {
+    "id": "6e1c411d85356df442ee13bf",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "學警結業｜前柔道港將陳以琳督察出更 救人英雄陶軒麟榮膺「榮譽警棍」",
+    "url": "https://www.stheadline.com/breaking-news/3634861/%E5%AD%B8%E8%AD%A6%E7%B5%90%E6%A5%AD%E5%89%8D%E6%9F%94%E9%81%93%E6%B8%AF%E5%B0%87%E9%99%B3%E4%BB%A5%E7%90%B3%E7%9D%A3%E5%AF%9F%E5%87%BA%E6%9B%B4-%E6%95%91%E4%BA%BA%E8%8B%B1%E9%9B%84%E9%99%B6%E8%BB%92%E9%BA%9F%E6%A6%AE%E8%86%BA%E6%A6%AE%E8%AD%BD%E8%AD%A6%E6%A3%8D",
+    "published_date": "2026-11-14",
+    "summary": [
+      "香港警察學院舉行結業會操，13名見習督察及130名學警畢業。",
+      "曾救墮海市民的陶軒麟獲榮譽警棍，盼投身刑事調查工作。",
+      "前柔道港將陳以琳立志以柔道心法執法，守護香港。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "e154ee230a214c22eed288bc",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "警一周接獲40宗投資騙案涉款$5000萬 七旬翁誤信YouTube投資廣告痛失近1,800萬元",
+    "url": "https://www.stheadline.com/breaking-news/3636947/%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8E%A5%E7%8D%B240%E5%AE%97%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E6%B6%89%E6%AC%BE5000%E8%90%AC%E4%B8%83%E6%97%AC%E7%BF%81%E8%AA%A4%E4%BF%A1YouTube%E6%8A%95%E8%B3%87%E5%BB%A3%E5%91%8A%E7%97%9B%E5%A4%B1%E8%BF%911800%E8%90%AC%E5%85%83",
+    "published_date": "2026-11-14",
+    "summary": [
+      "警方一周接獲逾40宗投資騙案，總損失近5,000萬港元。",
+      "七旬翁誤信YouTube投資廣告，兩個月內被騙走近1,800萬元。",
+      "騙徒以虛擬貨幣投資及假平台行騙，事主提款被拒後始知受騙。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "d12adcfa3742c758e7a7531b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "雙11網購騙案激增 實惠萬寧顧客接連收假客服短訊 騙徒精準讀出訂單資料",
+    "url": "https://www.stheadline.com/breaking-news/3636965/%E9%9B%9911%E7%B6%B2%E8%B3%BC%E9%A8%99%E6%A1%88%E6%BF%80%E5%A2%9E-%E5%AF%A6%E6%83%A0%E8%90%AC%E5%AF%A7%E9%A1%A7%E5%AE%A2%E6%8E%A5%E9%80%A3%E6%94%B6%E5%81%87%E5%AE%A2%E6%9C%8D%E7%9F%AD%E8%A8%8A-%E9%A8%99%E5%BE%92%E7%B2%BE%E6%BA%96%E8%AE%80%E5%87%BA%E8%A8%82%E5%96%AE%E8%B3%87%E6%96%99",
+    "published_date": "2026-11-14",
+    "summary": [
+      "雙11網購旺季期間，本港接連出現假冒客服騙案，涉及實惠、萬寧及友和等商戶。",
+      "騙徒能準確讀出事主姓名、訂單號碼及送貨地址等資料，令市民防不勝防。",
+      "萬寧事主收4次可疑來電，獲官方確認非該公司電話；商戶呼籲市民提高警覺。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "e48fc2b229cc59158b6c81d4",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "疑天雨路滑失控 秀茂坪的士撼停泊旅巴釀2傷",
+    "url": "https://www.stheadline.com/breaking-news/3636966/%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E5%A4%B1%E6%8E%A7-%E7%A7%80%E8%8C%82%E5%9D%AA%E7%9A%84%E5%A3%AB%E6%92%BC%E5%81%9C%E6%B3%8A%E6%97%85%E5%B7%B4%E9%87%802%E5%82%B7",
+    "published_date": "2026-11-14",
+    "summary": [
+      "秀茂坪順利邨道凌晨有的士疑天雨路滑失控，撞向停泊路邊的旅遊巴。",
+      "64歲的士司機及35歲男乘客受傷，清醒送往基督教聯合醫院治理。",
+      "的士車頭嚴重損毀，旅遊巴車尾凹陷，警方正調查意外原因。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "c07d836a93b36ee8a9907368",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "油尖區單日發849張「牛肉乾」拘3人 首10個月抄逾13.8萬張庫房進帳逾$5,500萬",
+    "url": "https://www.stheadline.com/breaking-news/3636967/%E6%B2%B9%E5%B0%96%E5%8D%80%E5%96%AE%E6%97%A5%E7%99%BC849%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE%E6%8B%983%E4%BA%BA-%E9%A6%9610%E5%80%8B%E6%9C%88%E6%8A%84%E9%80%BE138%E8%90%AC%E5%BC%B5%E5%BA%AB%E6%88%BF%E9%80%B2%E5%B8%B3%E9%80%BE5500%E8%90%AC",
+    "published_date": "2026-11-14",
+    "summary": [
+      "油尖警區聯同西九龍交通部在區內展開「動天」行動，單日發出849張定額罰款通知書。",
+      "行動中即時拖走6輛嚴重阻塞交通的車輛，並拘捕2男1女涉無保險、無牌駕駛等罪名。",
+      "今年首10個月油尖警區共發出約13.8萬張告票，以每張400元計為庫房進帳逾5,500萬元。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "6696b5be24709d3b2f2d1257",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "珍惜生命｜天耀邨48歲男燒炭 胞姊登門揭發惜太遲",
+    "url": "https://www.stheadline.com/breaking-news/3636970/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%A4%A9%E8%80%80%E9%82%A848%E6%AD%B2%E7%94%B7%E7%87%92%E7%82%AD-%E8%83%9E%E5%A7%8A%E7%99%BB%E9%96%80%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "published_date": "2026-11-14",
+    "summary": [
+      "天水圍天耀邨耀隆樓單位內，48歲姓何男子被發現燒炭，當場不治。",
+      "胞姊昨晚11時許登門揭發並報警，警員在場未檢獲遺書。",
+      "案件暫列自殺處理，確切死因有待驗屍後確定。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "148789b51fc0055eb22ca43a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜盤點大公司CEO偷食下場 有人火速回鍋、有人即炒無補償",
+    "url": "https://www.stheadline.com/realtime-world/3636930/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E7%9B%A4%E9%BB%9E%E5%A4%A7%E5%85%AC%E5%8F%B8CEO%E5%81%B7%E9%A3%9F%E4%B8%8B%E5%A0%B4-%E6%9C%89%E4%BA%BA%E7%81%AB%E9%80%9F%E5%9B%9E%E9%8D%8B%E6%9C%89%E4%BA%BA%E5%8D%B3%E7%82%92%E7%84%A1%E8%A3%9C%E5%84%9F",
+    "published_date": "2026-11-14",
+    "summary": [
+      "黃仁勳因出軌醜聞辭去輝達行政總裁職務，事件引發傳媒盤點歷來大公司高層出軌下場。",
+      "雀巢弗雷克斯因與直屬女下屬發展地下情，上任一年即被開除，不獲離職補償。",
+      "麥當勞伊斯特布魯克因與員工不當關係被解僱，最終被逼退還全部現金及股票期權。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "48e04e015c9cc378491100f7",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳辭職｜Nvidia擬找舊將掌AI王國？傳董事會已接觸Arm行政總裁Rene Haas",
+    "url": "https://www.stheadline.com/realtime-world/3636972/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7Nvidia%E6%93%AC%E6%89%BE%E8%88%8A%E5%B0%87%E6%8E%8CAI%E7%8E%8B%E5%9C%8B%E5%82%B3%E8%91%A3%E4%BA%8B%E6%9C%83%E5%B7%B2%E6%8E%A5%E8%A7%B8Arm%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81Rene-Haas",
+    "published_date": "2026-11-14",
+    "summary": [
+      "輝達董事會已接觸安謀控股行政總裁哈斯，評估由他接掌公司的可能性。",
+      "哈斯曾任職輝達約七年，與黃仁勳及多名董事會成員關係深厚。",
+      "輝達暫由首席財務官克雷斯出任臨時行政總裁，安謀拒絕置評。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "290231afe7990d45290dce4c",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美國聯邦航空局下令全國航班停飛 據報22個區域空管中心通訊故障",
+    "url": "https://www.stheadline.com/realtime-world/3636973/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E8%88%AA%E7%A9%BA%E5%B1%80%E4%B8%8B%E4%BB%A4%E5%85%A8%E5%9C%8B%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B-%E6%93%9A%E5%A0%B122%E5%80%8B%E5%8D%80%E5%9F%9F%E7%A9%BA%E7%AE%A1%E4%B8%AD%E5%BF%83%E9%80%9A%E8%A8%8A%E6%95%85%E9%9A%9C",
+    "published_date": "2026-11-14",
+    "summary": [
+      "美國聯邦航空局因多個區域空管中心通訊故障，下令全美航班即時停飛。",
+      "運輸部長證實故障波及22個區域空管中心，技術人員正調查原因。",
+      "這是美國自2023年以來首次全國停飛，空管系統現代化仍需300億美元。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "21bdc6e0b0c633ceedb0112e",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "Microsoft大「死機」｜微軟稱服務已廣泛修復 惟暫無全面恢復時間表",
+    "url": "https://www.stheadline.com/realtime-world/3636978/Microsoft%E5%A4%A7%E6%AD%BB%E6%A9%9F%E5%BE%AE%E8%BB%9F%E7%A8%B1%E6%9C%8D%E5%8B%99%E5%B7%B2%E5%BB%A3%E6%B3%9B%E4%BF%AE%E5%BE%A9-%E6%83%9F%E6%9A%AB%E7%84%A1%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E6%99%82%E9%96%93%E8%A1%A8",
+    "published_date": "2026-11-14",
+    "summary": [
+      "微軟旗下Microsoft 365全球大規模故障踏入第二日，系統已實現廣泛復甦。",
+      "用戶登入及存取情況有所改善，但電郵傳送及數據處理仍需時間追趕。",
+      "微軟稱暫無全面恢復時間表，並澄清故障與AI代理失控或網絡攻擊無關。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "0e4ba95d90bdf94cdc8b52cd",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -48,6 +208,38 @@
     "category": "港聞"
   },
   {
+    "id": "7719c5cd480ea19b191c2888",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "入境處全港反黑工 四日內連拘15人包括僱主",
+    "url": "https://www.stheadline.com/breaking-news/3636909/%E5%85%A5%E5%A2%83%E8%99%95%E5%85%A8%E6%B8%AF%E5%8F%8D%E9%BB%91%E5%B7%A5-%E5%9B%9B%E6%97%A5%E5%85%A7%E9%80%A3%E6%8B%9815%E4%BA%BA%E5%8C%85%E6%8B%AC%E5%83%B1%E4%B8%BB",
+    "published_date": "2026-11-13",
+    "summary": [
+      "入境處11月9至12日在全港多區打擊非法勞工，搜查餐廳、裝修單位及按摩店等。",
+      "行動共拘捕12名疑非法勞工、1名43歲女僱主及2名逾期逗留女子，另兩女涉偽造身份證。",
+      "入境處稱僱主調查仍在進行，不排除更多人被捕，並呼籲市民舉報非法勞工。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "17bb7b678610cd7ae1983bb5",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "上海和平飯店驚現¥51萬天價賬單  15人涉造假被捕",
+    "url": "https://www.stheadline.com/realtime-china/3635633/%E4%B8%8A%E6%B5%B7%E5%92%8C%E5%B9%B3%E9%A3%AF%E5%BA%97%E9%A9%9A%E7%8F%BE51%E8%90%AC%E5%A4%A9%E5%83%B9%E8%B3%AC%E5%96%AE-15%E4%BA%BA%E6%B6%89%E9%80%A0%E5%81%87%E8%A2%AB%E6%8D%95",
+    "published_date": "2026-11-13",
+    "summary": [
+      "上海和平飯店網傳6人用餐51.7萬元天價賬單，飯店否認並指有人偽造。",
+      "上海警方通報賬單由外省網上酒類銷售公司偽造，圖博關注增銷量。",
+      "涉案15人被捕，其中4人被採刑事強制措施，其餘11人遭行政處罰。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
     "id": "8aae5fa11887a7cb1f3d51ac",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -62,6 +254,118 @@
     ],
     "summary_version": 2,
     "category": "內地新聞"
+  },
+  {
+    "id": "a0d7dbe31d7d3ed01ec794da",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "躺平賺錢｜河南癱漢瞓板車養鵝年入過萬  父母感歎「不再無用」",
+    "url": "https://www.stheadline.com/realtime-china/3636729/%E8%BA%BA%E5%B9%B3%E8%B3%BA%E9%8C%A2%E6%B2%B3%E5%8D%97%E7%99%B1%E6%BC%A2%E7%9E%93%E6%9D%BF%E8%BB%8A%E9%A4%8A%E9%B5%9D%E5%B9%B4%E5%85%A5%E9%81%8E%E8%90%AC-%E7%88%B6%E6%AF%8D%E6%84%9F%E6%AD%8E%E4%B8%8D%E5%86%8D%E7%84%A1%E7%94%A8",
+    "published_date": "2026-11-13",
+    "summary": [
+      "河南周口47歲男子戚志強自幼患類風濕關節炎，18歲起全身癱瘓，僅雙臂及眼睛可動。",
+      "他靠特製板車代步、用鏡子反射炒菜實現自理，2023年起躺板車養鵝創業。",
+      "其鵝場年產鵝蛋逾千枚，年收入突破1萬元並全數奉養雙親，獲評河南省殘疾人自強模範。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "d36eb7a92caf04752df1b57a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "《重生螳螂》︱成都設計師辭職做AI短劇  4000元成本變6億流量",
+    "url": "https://www.stheadline.com/realtime-china/3636746/%E9%87%8D%E7%94%9F%E8%9E%B3%E8%9E%82%E6%88%90%E9%83%BD%E8%A8%AD%E8%A8%88%E5%B8%AB%E8%BE%AD%E8%81%B7%E5%81%9AAI%E7%9F%AD%E5%8A%87-4000%E5%85%83%E6%88%90%E6%9C%AC%E8%AE%8A6%E5%84%84%E6%B5%81%E9%87%8F",
+    "published_date": "2026-11-13",
+    "summary": [
+      "成都40歲家居3D設計師白非空辭職，轉行製作AI生成微短劇。",
+      "他花約4000元人民幣、一個半月完成96集《重生螳螂》，全網播放逾6億。",
+      "大量觀眾留言催促推出第二季，他正朝此方向努力。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "ed313031b0037fd4649c8720",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "山東高中生困屋苑電梯2小時   保安查看當無事未上報被炒",
+    "url": "https://www.stheadline.com/realtime-china/3636756/%E5%B1%B1%E6%9D%B1%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%B0%E5%B1%8B%E8%8B%91%E9%9B%BB%E6%A2%AF2%E5%B0%8F%E6%99%82-%E4%BF%9D%E5%AE%89%E6%9F%A5%E7%9C%8B%E7%95%B6%E7%84%A1%E4%BA%8B%E6%9C%AA%E4%B8%8A%E5%A0%B1%E8%A2%AB%E7%82%92",
+    "published_date": "2026-11-13",
+    "summary": [
+      "山東菏澤一名高中生乘屋苑電梯時被困，升降機警報裝置失靈，家長求助物管。",
+      "值班保安曾到電梯口查看，未發現異常便離開，學生被困約2小時後才獲救。",
+      "物管指保安應急處置嚴重不當，已將他開除並向家長道歉，網民質疑找保安做替罪羊。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "468c03abddf4b0b1e7fcf5d5",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "母女僅買1份豆芽送7碗飯  「暖心」店東暗中送錢被揭是擺拍",
+    "url": "https://www.stheadline.com/realtime-china/3636771/%E6%AF%8D%E5%A5%B3%E5%83%85%E8%B2%B71%E4%BB%BD%E8%B1%86%E8%8A%BD%E9%80%817%E7%A2%97%E9%A3%AF-%E6%9A%96%E5%BF%83%E5%BA%97%E6%9D%B1%E6%9A%97%E4%B8%AD%E9%80%81%E9%8C%A2%E8%A2%AB%E6%8F%AD%E6%98%AF%E6%93%BA%E6%8B%8D",
+    "published_date": "2026-11-13",
+    "summary": [
+      "重慶梁平母女僅點6元豆芽吃7碗白飯，店東暗中塞300元影片熱傳。",
+      "官方通報指影片是店家為博流量擺拍，營運人李某已被立案調查。",
+      "網民批評店家消耗民眾善意，呼籲勿未經查證便輕率捐款。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "ff2d1f31bd5ca2bb476f96bb",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "廣西高校宿舍樓間驚現男子「走鋼絲」 校方：扁帶運動推廣已報備",
+    "url": "https://www.stheadline.com/realtime-china/3636868/%E5%BB%A3%E8%A5%BF%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E6%A8%93%E9%96%93%E9%A9%9A%E7%8F%BE%E7%94%B7%E5%AD%90%E8%B5%B0%E9%8B%BC%E7%B5%B2-%E6%A0%A1%E6%96%B9%E6%89%81%E5%B8%B6%E9%81%8B%E5%8B%95%E6%8E%A8%E5%BB%A3%E5%B7%B2%E5%A0%B1%E5%82%99",
+    "published_date": "2026-11-13",
+    "summary": [
+      "廣西百色學院宿舍樓間有人高空走扁帶，影片引學生圍觀及網民熱議。",
+      "校方稱活動為國家體育總局主辦的扁帶運動高校推廣項目，已報備。",
+      "涉事者為中國登山協會專業教練，正進行設備測試，過程安全可控。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "d00432cedd791f72b12490d7",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "上海女童基因編輯治療死亡案 研究員仇子龍遭開除禁研5年",
+    "url": "https://www.stheadline.com/realtime-china/3636870/%E4%B8%8A%E6%B5%B7%E5%A5%B3%E7%AB%A5%E5%9F%BA%E5%9B%A0%E7%B7%A8%E8%BC%AF%E6%B2%BB%E7%99%82%E6%AD%BB%E4%BA%A1%E6%A1%88-%E7%A0%94%E7%A9%B6%E5%93%A1%E4%BB%87%E5%AD%90%E9%BE%8D%E9%81%AD%E9%96%8B%E9%99%A4%E7%A6%81%E7%A0%945%E5%B9%B4",
+    "published_date": "2026-11-13",
+    "summary": [
+      "上海通報6歲女童接受基因編輯療法後死亡，研究團隊負責人仇子龍遭開除。",
+      "仇子龍被記入科研誠信嚴重失信庫，5年內禁止申報科研項目。",
+      "家屬出資533.7萬元資助研究，部分人員收受財物約106萬元已退還。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "0575b0582a49238c3f8c954b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "高雄學校營養午餐接連出現異物  三杯雞驚現「完整青蛙」",
+    "url": "https://www.stheadline.com/realtime-china/3636886/%E9%AB%98%E9%9B%84%E5%AD%B8%E6%A0%A1%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90%E6%8E%A5%E9%80%A3%E5%87%BA%E7%8F%BE%E7%95%B0%E7%89%A9-%E4%B8%89%E6%9D%AF%E9%9B%9E%E9%A9%9A%E7%8F%BE%E5%AE%8C%E6%95%B4%E9%9D%92%E8%9B%99",
+    "published_date": "2026-11-13",
+    "summary": [
+      "高雄高工學生午餐三杯雞發現約2厘米完整蛙類，疑混在九層塔未洗淨。",
+      "衛生局向涉事供應商罰款18萬元新台幣，學生經檢查身體狀況良好。",
+      "國光高中連日亦現塑膠片、菜蟲等異物，供應商耕域食品被罰48萬元並停供膳。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
   },
   {
     "id": "3f6d572fb1e36198183a2e0b",
@@ -139,6 +443,54 @@
       "路透社報道黃仁勳除已曝光關係外，曾與英偉達另一名員工有親密關係，身份未公開。",
       "美國司法部長布蘭奇稱，女商人黃樂是否為中國間諜仍在調查，尚未有結論。",
       "白宮正討論商務部長盧特尼克去留，他被指對華AI晶片出口管制做得不夠。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "92446540d9f4f3acde8617f3",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "奪命TikTok｜網紅為拍片放老虎出籠  咬死繁殖場19歲男工謊稱「被狗咬」",
+    "url": "https://www.stheadline.com/realtime-world/3636767/%E5%A5%AA%E5%91%BDTikTok%E7%B6%B2%E7%B4%85%E7%82%BA%E6%8B%8D%E7%89%87%E6%94%BE%E8%80%81%E8%99%8E%E5%87%BA%E7%B1%A0-%E5%92%AC%E6%AD%BB%E7%B9%81%E6%AE%96%E5%A0%B419%E6%AD%B2%E7%94%B7%E5%B7%A5%E8%AC%8A%E7%A8%B1%E8%A2%AB%E7%8B%97%E5%92%AC",
+    "published_date": "2026-11-13",
+    "summary": [
+      "巴基斯坦19歲青年塔爾哈在繁殖場配合網紅拍片時遭母老虎撲咬，送院不治。",
+      "YouTube擁1090萬粉絲的網紅哈桑要求放出老虎拍片，事後謊稱死者被狗咬。",
+      "警方拘捕哈桑及繁殖場負責人，老虎已移交野生動物管理局調查。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "f1ccce1f6e82bd4c251398ea",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "COP33｜消息稱中國決定不申辦 外交部發言人：不了解相關情況",
+    "url": "https://www.stheadline.com/realtime-world/3636892/COP33%E6%B6%88%E6%81%AF%E7%A8%B1%E4%B8%AD%E5%9C%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E7%94%B3%E8%BE%A6-%E5%A4%96%E4%BA%A4%E9%83%A8%E7%99%BC%E8%A8%80%E4%BA%BA%E4%B8%8D%E4%BA%86%E8%A7%A3%E7%9B%B8%E9%97%9C%E6%83%85%E6%B3%81",
+    "published_date": "2026-11-13",
+    "summary": [
+      "《衛報》報道北京經考慮後決定放棄申辦2028年COP33氣候大會。",
+      "中國外交部發言人回應稱不了解相關情況，並重申致力推動全球綠色轉型。",
+      "該屆輪到亞太主辦，韓國、烏茲別克、印尼及泰國正考慮申辦。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "142f488ec0d8748513afbec0",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "英國版吉賽兒案｜英婦放棄匿名權揭丈夫迷姦惡行 供陌生男性侵8次",
+    "url": "https://www.stheadline.com/realtime-world/3636898/%E8%8B%B1%E5%9C%8B%E7%89%88%E5%90%89%E8%B3%BD%E5%85%92%E6%A1%88%E8%8B%B1%E5%A9%A6%E6%94%BE%E6%A3%84%E5%8C%BF%E5%90%8D%E6%AC%8A%E6%8F%AD%E4%B8%88%E5%A4%AB%E8%BF%B7%E5%A7%A6%E6%83%A1%E8%A1%8C-%E4%BE%9B%E9%99%8C%E7%94%9F%E7%94%B7%E6%80%A7%E4%BE%B58%E6%AC%A1",
+    "published_date": "2026-11-13",
+    "summary": [
+      "英國女子勞拉放棄匿名權，公開遭丈夫丹尼爾落藥迷暈後供陌生男子性侵多達8次。",
+      "丹尼爾承認3項性侵及3項性侵未遂等罪，2022年判囚14年8個月，另加8年延伸假釋監控。",
+      "勞拉批評警方辦案嚴重延誤，床單事隔20個月才驗DNA，其餘涉案男子至今未落網。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
