@@ -1,5 +1,149 @@
 [
   {
+    "id": "aba268236569ac819cd64bce",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "北角毒品快餐車遇查斷正 警檢43克懷疑可卡因及K仔 兩男被捕",
+    "url": "https://www.stheadline.com/breaking-news/3638311/%E5%8C%97%E8%A7%92%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A%E9%81%87%E6%9F%A5%E6%96%B7%E6%AD%A3-%E8%AD%A6%E6%AA%A243%E5%85%8B%E6%87%B7%E7%96%91%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%8F%8AK%E4%BB%94-%E5%85%A9%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "published_date": "2026-11-18",
+    "summary": [
+      "警方在北角丹拿道一輛私家車上檢獲約43克懷疑可卡因及氯胺酮。",
+      "55歲呂姓司機及35歲覃姓男乘客涉嫌販運危險藥物被捕。",
+      "覃男企圖逃走被制服，另涉阻礙警務人員執行職務，兩人被扣留調查。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "a05309b0cdb8f334d9ca72cf",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "車Cam直擊｜輪椅漢迷路逆線闖啟德隧道 兩車急煞扭軚閃避",
+    "url": "https://www.stheadline.com/breaking-news/3638334/%E8%BB%8ACam%E7%9B%B4%E6%93%8A%E8%BC%AA%E6%A4%85%E6%BC%A2%E8%BF%B7%E8%B7%AF%E9%80%86%E7%B7%9A%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93-%E5%85%A9%E8%BB%8A%E6%80%A5%E7%85%9E%E6%89%AD%E8%BB%9A%E9%96%83%E9%81%BF",
+    "published_date": "2026-11-18",
+    "summary": [
+      "一名61歲梁姓男子坐輪椅逆線闖入啟德隧道，迎面兩輛的士急煞扭軚閃避。",
+      "警方接報到場，男子稱因迷路誤闖隧道，其後由人員帶離。",
+      "事件列作誤會，無人受傷亦無人被捕。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "201f54b1e760a3c4bd59b5a0",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳或復職？發聲明稱願重返英偉達任CEO 下台後首開腔",
+    "url": "https://www.stheadline.com/realtime-world/3638278/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%88%96%E5%BE%A9%E8%81%B7%E7%99%BC%E8%81%B2%E6%98%8E%E7%A8%B1%E9%A1%98%E9%87%8D%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%BBCEO-%E4%B8%8B%E5%8F%B0%E5%BE%8C%E9%A6%96%E9%96%8B%E8%85%94",
+    "published_date": "2026-11-18",
+    "summary": [
+      "黃仁勳卸任後首次發聲明，就個人不忠行為向家人及員工致歉。",
+      "他表示若董事會認為符合股東及公司利益，願重返英偉達出任行政總裁。",
+      "他稱收到員工、投資者、夥伴及客戶大量呼籲，要求他重掌帥印。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "22c59809c8776bba158a8ef1",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "蘋果「死機」 iCloud、Apple Pay等服務異常 數千用戶受影響",
+    "url": "https://www.stheadline.com/realtime-world/3638325/%E8%98%8B%E6%9E%9C%E6%AD%BB%E6%A9%9F-iCloudApple-Pay%E7%AD%89%E6%9C%8D%E5%8B%99%E7%95%B0%E5%B8%B8-%E6%95%B8%E5%8D%83%E7%94%A8%E6%88%B6%E5%8F%97%E5%BD%B1%E9%9F%BF",
+    "published_date": "2026-11-18",
+    "summary": [
+      "蘋果旗下iCloud、App Store及Apple Pay等多項核心網上服務突發大規模異常。",
+      "全球數以千計用戶反映無法登入或使用相關功能，畫面顯示伺服器連接錯誤。",
+      "蘋果官方尚未交代中斷原因及受影響地區，技術團隊正緊急排查搶修。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "50b52be903ff8fc368b49acb",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳辭職｜婚外情曝光前8個月 逾105億美元Nvidia股票轉入家族信託",
+    "url": "https://www.stheadline.com/realtime-world/3638326/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7%E5%A9%9A%E5%A4%96%E6%83%85%E6%9B%9D%E5%85%89%E5%89%8D8%E5%80%8B%E6%9C%88-%E9%80%BE105%E5%84%84%E7%BE%8E%E5%85%83Nvidia%E8%82%A1%E7%A5%A8%E8%BD%89%E5%85%A5%E5%AE%B6%E6%97%8F%E4%BF%A1%E8%A8%97",
+    "published_date": "2026-11-18",
+    "summary": [
+      "黃仁勳與妻子Lori在坦承婚外情前8個月，將逾105億美元英偉達股票轉入家族不可撤銷信託。",
+      "SEC文件顯示兩筆十年期GRAT於今年3月18日到期，合共轉出58,962,602股。",
+      "該轉移屬信託到期後股份轉移，非市場出售套現，文件未披露最終受益人。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "408466db75f53fa32464ca70",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "俄羅斯軍用運輸機西伯利亞墜毀　俄媒指機上17人全罹難",
+    "url": "https://www.stheadline.com/realtime-world/3638329/%E4%BF%84%E7%BE%85%E6%96%AF%E8%BB%8D%E7%94%A8%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E5%A2%9C%E6%AF%80%E4%BF%84%E5%AA%92%E6%8C%87%E6%A9%9F%E4%B8%8A17%E4%BA%BA%E5%85%A8%E7%BD%B9%E9%9B%A3",
+    "published_date": "2026-11-18",
+    "summary": [
+      "俄羅斯一架軍用安東諾夫An-12運輸機在西伯利亞克麥羅沃州亞古諾沃村附近墜毀。",
+      "俄媒報道機上17人全部罹難，早期對機上人數說法介乎13至17人。",
+      "飛機原由新西伯利亞飛往坎斯克，途中起火曾要求緊急降落，州長已到場指揮救援。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "8ecf277289c286a0fbb56ace",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳下台｜美媒揭特朗普買賣Nvidia股票逾百次 聽取出軌情報後套現百萬美元",
+    "url": "https://www.stheadline.com/realtime-world/3638331/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8B%E5%8F%B0%E7%BE%8E%E5%AA%92%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B2%B7%E8%B3%A3Nvidia%E8%82%A1%E7%A5%A8%E9%80%BE%E7%99%BE%E6%AC%A1-%E8%81%BD%E5%8F%96%E5%87%BA%E8%BB%8C%E6%83%85%E5%A0%B1%E5%BE%8C%E5%A5%97%E7%8F%BE%E7%99%BE%E8%90%AC%E7%BE%8E%E5%85%83",
+    "published_date": "2026-11-18",
+    "summary": [
+      "美媒分析特朗普財務申報，其帳戶買賣英偉達股票至少103次，總額2700萬至9750萬美元。",
+      "魯比奧向特朗普簡報黃仁勳與女商人關係後5天，特朗普帳戶套現最多100萬美元英偉達股票。",
+      "特朗普否認聽取簡報，白宮稱投資由獨立顧問管理，特朗普未介入買賣決策。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "93ad8d769d0b44de1ed6498f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "Nvidia業績｜黃仁勳辭職後首份成績表勝預期 季度收入1,160億美元",
+    "url": "https://www.stheadline.com/realtime-world/3638336/Nvidia%E6%A5%AD%E7%B8%BE%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7%E5%BE%8C%E9%A6%96%E4%BB%BD%E6%88%90%E7%B8%BE%E8%A1%A8%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%AD%A3%E5%BA%A6%E6%94%B6%E5%85%A51160%E5%84%84%E7%BE%8E%E5%85%83",
+    "published_date": "2026-11-18",
+    "summary": [
+      "英偉達公布黃仁勳辭職後首份季度業績，收入1,160億美元，勝市場預期。",
+      "數據中心業務收入1,080億美元，按年增110%，下季指引1,300億美元。",
+      "財務總監克雷斯暫代行政總裁，董事會成立國家安全及出口管制委員會。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "ad6d473cafc510c604ad0d52",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "伊朗局勢｜美軍空襲格什姆島導彈陣地 報復革命衞隊無人機襲擊巴林美軍雷達",
+    "url": "https://www.stheadline.com/realtime-world/3638337/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6%E5%B0%8E%E5%BD%88%E9%99%A3%E5%9C%B0-%E5%A0%B1%E5%BE%A9%E9%9D%A9%E5%91%BD%E8%A1%9E%E9%9A%8A%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E5%B7%B4%E6%9E%97%E7%BE%8E%E8%BB%8D%E9%9B%B7%E9%81%94",
+    "published_date": "2026-11-18",
+    "summary": [
+      "美軍周二晚空襲伊朗格什姆島，島上傳出5至6聲爆炸巨響。",
+      "伊朗革命衛隊早前以無人機打擊巴林美軍雷達，稱回應領空侵犯。",
+      "伊朗官員稱襲擊未損民居及基建，格什姆島局勢已受控。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "d6e2444142f584ed23beaa74",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -27,6 +171,22 @@
       "坪洲坪利路休憩處洗手間內發現一名64歲樊姓男子倒臥，身旁有燒過的炭盤。",
       "途人清晨約7時41分發現事主昏迷報警，救護員到場證實他已氣絕身亡。",
       "警方封鎖現場搜證，未檢獲遺書，案件列作自殺，死因待剖驗調查。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "9fb2fb40a956526d577af08b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "海心公園聽海浪事件｜警拘17歲少年 涉向16歲以下女童作猥褻行為",
+    "url": "https://www.stheadline.com/breaking-news/3638211/%E6%B5%B7%E5%BF%83%E5%85%AC%E5%9C%92%E8%81%BD%E6%B5%B7%E6%B5%AA%E4%BA%8B%E4%BB%B6%E8%AD%A6%E6%8B%9817%E6%AD%B2%E5%B0%91%E5%B9%B4-%E6%B6%89%E5%90%9116%E6%AD%B2%E4%BB%A5%E4%B8%8B%E5%A5%B3%E7%AB%A5%E4%BD%9C%E7%8C%A5%E8%A4%BB%E8%A1%8C%E7%82%BA",
+    "published_date": "2026-11-17",
+    "summary": [
+      "警方拘捕一名17歲少年，涉嫌向16歲以下兒童作出猥褻行為，正扣留調查。",
+      "事件涉及一名15歲女童，二人為情侶，片段於今年5月在土瓜灣海心公園被偷拍。",
+      "教育局表示極度關注，校方正嚴肅跟進，並會為有需要學生提供輔導支援。"
     ],
     "summary_version": 2,
     "category": "港聞"
