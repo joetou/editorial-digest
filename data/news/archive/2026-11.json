@@ -1,5 +1,293 @@
 [
   {
+    "id": "d6e2444142f584ed23beaa74",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "有片│尖沙咀私家車遇路障避查 倒車撞4的士逆線逃去 警列狂亂駕駛追緝男司機",
+    "url": "https://www.stheadline.com/breaking-news/3637903/%E6%9C%89%E7%89%87%E5%B0%96%E6%B2%99%E5%92%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E8%B7%AF%E9%9A%9C%E9%81%BF%E6%9F%A5-%E5%80%92%E8%BB%8A%E6%92%9E4%E7%9A%84%E5%A3%AB%E9%80%86%E7%B7%9A%E9%80%83%E5%8E%BB-%E8%AD%A6%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%BF%BD%E7%B7%9D%E7%94%B7%E5%8F%B8%E6%A9%9F",
+    "published_date": "2026-11-17",
+    "summary": [
+      "警方在尖沙咀彌敦道設路障截查一輛白色私家車，司機突然倒車逃走。",
+      "私家車倒車時先後撞向4輛的士，其後逆線駛入山林道逃去無蹤。",
+      "一名50歲的士司機報稱腰痛，清醒送院；警方追緝年約二十歲男司機。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "a87165c18cea9c85675fa6ce",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "珍惜生命│坪洲64歲男倒臥公廁旁遺炭盤 當場氣絕身亡",
+    "url": "https://www.stheadline.com/breaking-news/3637980/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%9D%AA%E6%B4%B264%E6%AD%B2%E7%94%B7%E5%80%92%E8%87%A5%E5%85%AC%E5%BB%81%E6%97%81%E9%81%BA%E7%82%AD%E7%9B%A4-%E7%95%B6%E5%A0%B4%E6%B0%A3%E7%B5%95%E8%BA%AB%E4%BA%A1",
+    "published_date": "2026-11-17",
+    "summary": [
+      "坪洲坪利路休憩處洗手間內發現一名64歲樊姓男子倒臥，身旁有燒過的炭盤。",
+      "途人清晨約7時41分發現事主昏迷報警，救護員到場證實他已氣絕身亡。",
+      "警方封鎖現場搜證，未檢獲遺書，案件列作自殺，死因待剖驗調查。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "68875399d376f085229a465d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "海南大學｜校運會獎品送活鱷魚禽畜  校方：借加餸勉勵新生努力學習",
+    "url": "https://www.stheadline.com/realtime-china/3637674/%E6%B5%B7%E5%8D%97%E5%A4%A7%E5%AD%B8%E6%A0%A1%E9%81%8B%E6%9C%83%E7%8D%8E%E5%93%81%E9%80%81%E6%B4%BB%E9%B1%B7%E9%AD%9A%E7%A6%BD%E7%95%9C-%E6%A0%A1%E6%96%B9%E5%80%9F%E5%8A%A0%E9%A4%B8%E5%8B%89%E5%8B%B5%E6%96%B0%E7%94%9F%E5%8A%AA%E5%8A%9B%E5%AD%B8%E7%BF%92",
+    "published_date": "2026-11-17",
+    "summary": [
+      "海南大學儋州校區運動會獎品包括活鱷魚、雞、鴨、豬及羊，引發全網關注。",
+      "校方稱獎品由校外實習基地贊助，鱷魚為人工孵化雜交尼羅鱷，每條約值千多元。",
+      "因鱷魚不能於宿舍飼養，獎品頒予院系，建議交食堂宰殺加餐供全系師生享用。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "5a487a534e408aa8713d84e6",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜「戰狼突擊隊」型爆護航 機械人沖咖啡迎八方客",
+    "url": "https://www.stheadline.com/realtime-china/3637819/%E6%B7%B1%E5%9C%B3APEC%E6%88%B0%E7%8B%BC%E7%AA%81%E6%93%8A%E9%9A%8A%E5%9E%8B%E7%88%86%E8%AD%B7%E8%88%AA-%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%B2%96%E5%92%96%E5%95%A1%E8%BF%8E%E5%85%AB%E6%96%B9%E5%AE%A2",
+    "published_date": "2026-11-17",
+    "summary": [
+      "深圳APEC工商領導人峰會今日在前海揭幕，逾2000名政商代表出席。",
+      "深圳特警「戰狼突擊隊」在機場巡邏爆紅，旅客爭相合照打卡。",
+      "會場設機械人沖咖啡、中醫理療及全市逾7000套AI翻譯設備。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "b219a4f7c23a19d77437b6bb",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "AI演員代言首個美瞳廣告 涉虛假宣傳罰款¥6.82萬",
+    "url": "https://www.stheadline.com/realtime-china/3637920/AI%E6%BC%94%E5%93%A1%E4%BB%A3%E8%A8%80%E9%A6%96%E5%80%8B%E7%BE%8E%E7%9E%B3%E5%BB%A3%E5%91%8A-%E6%B6%89%E8%99%9B%E5%81%87%E5%AE%A3%E5%82%B3%E7%BD%B0%E6%AC%BE682%E8%90%AC",
+    "published_date": "2026-11-17",
+    "summary": [
+      "廣州我的影視文化傳媒因AI虛擬代言人「方桃子」美瞳廣告涉虛假宣傳，被罰款6.82萬元人民幣。",
+      "監管部門指廣告虛構使用效果，且美瞳屬第三類醫療器械，公司未取得醫療廣告審查證明。",
+      "涉事堅果力品牌美瞳廣告已下架，公司稱暫停所有商務廣告合作，專注內容創作。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "290032a731992cc5e7c385c0",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中國觀察：黃仁勳捐助汶川學童舊聞「出土」",
+    "url": "https://www.stheadline.com/realtime-china/3637923/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E9%BB%83%E4%BB%81%E5%8B%B3%E6%8D%90%E5%8A%A9%E6%B1%B6%E5%B7%9D%E5%AD%B8%E7%AB%A5%E8%88%8A%E8%81%9E%E5%87%BA%E5%9C%9F",
+    "published_date": "2026-11-17",
+    "summary": [
+      "黃仁勳2008年汶川地震後三個月帶同女兒黃敏珊到北京，向災區兒童捐贈愛心電腦教室。",
+      "他出席捐贈儀式並以普通話與學生交流，介紹女兒、簽名及勉勵學生好好學習。",
+      "報道指輝達及員工地震後捐款超過400萬元人民幣，舊聞近日在內地社交平台熱傳。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "4cb6f3786d5949023608626b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC︱紅旗、騰勢齊擔任接待車隊工作  折射國產車實力",
+    "url": "https://www.stheadline.com/realtime-china/3637924/%E6%B7%B1%E5%9C%B3APEC%E7%B4%85%E6%97%97%E9%A8%B0%E5%8B%A2%E9%BD%8A%E6%93%94%E4%BB%BB%E6%8E%A5%E5%BE%85%E8%BB%8A%E9%9A%8A%E5%B7%A5%E4%BD%9C-%E6%8A%98%E5%B0%84%E5%9C%8B%E7%94%A2%E8%BB%8A%E5%AF%A6%E5%8A%9B",
+    "published_date": "2026-11-17",
+    "summary": [
+      "深圳APEC會議本月18至19日舉行，接待車隊由紅旗與騰勢國產高端車型聯手擔當。",
+      "車隊規模近700輛，紅旗負責元首及禮賓接待，騰勢服務嘉賓、代表團及傳媒。",
+      "分析指國產車大批投入外事接待，反映高端製造及新能源技術突破。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "94928391467ba8dfaa9e533a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC‧小知識︱最高級別峰會 命名「非正式」有段古",
+    "url": "https://www.stheadline.com/realtime-china/3637932/%E6%B7%B1%E5%9C%B3APEC%E5%B0%8F%E7%9F%A5%E8%AD%98%E6%9C%80%E9%AB%98%E7%B4%9A%E5%88%A5%E5%B3%B0%E6%9C%83-%E5%91%BD%E5%90%8D%E9%9D%9E%E6%AD%A3%E5%BC%8F%E6%9C%89%E6%AE%B5%E5%8F%A4",
+    "published_date": "2026-11-17",
+    "summary": [
+      "APEC領導人非正式會議是最高級別會議，1993年首次在西雅圖召開。",
+      "會議名稱源於當年各方接受以非正式討論為主要形式，其後延續成慣例。",
+      "會議議程靈活，宣言不具法律約束力，領導人不帶助手入場以強化坦誠對話。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "0bfc73875eaaef02dc4b3d91",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC︱中美俄元首周四會晤   深圳麒麟山莊戒備森嚴",
+    "url": "https://www.stheadline.com/realtime-china/3637934/%E6%B7%B1%E5%9C%B3APEC%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E5%91%A8%E5%9B%9B%E6%9C%83%E6%99%A4-%E6%B7%B1%E5%9C%B3%E9%BA%92%E9%BA%9F%E5%B1%B1%E8%8E%8A%E6%88%92%E5%82%99%E6%A3%AE%E5%9A%B4",
+    "published_date": "2026-11-17",
+    "summary": [
+      "中美俄三國元首將於周四在深圳麒麟山莊舉行三邊會晤。",
+      "麒麟山莊周邊已派駐大量警力，禁止外人隨意進入或拍照。",
+      "這將是中美俄領導人首次峰會，也是習近平與美國總統今年第三次會面。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "b4e2aacf5ddd8905fc6ce442",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "助養東北虎︱女子兩年付¥2000未被通知死訊  狠批虎園失責",
+    "url": "https://www.stheadline.com/realtime-china/3637967/%E5%8A%A9%E9%A4%8A%E6%9D%B1%E5%8C%97%E8%99%8E%E5%A5%B3%E5%AD%90%E5%85%A9%E5%B9%B4%E4%BB%982000%E6%9C%AA%E8%A2%AB%E9%80%9A%E7%9F%A5%E6%AD%BB%E8%A8%8A-%E7%8B%A0%E6%89%B9%E8%99%8E%E5%9C%92%E5%A4%B1%E8%B2%AC",
+    "published_date": "2026-11-17",
+    "summary": [
+      "黑龍江東北虎林園認養人李女士因未獲通知東北虎「小獨苗」死訊，入稟法院。",
+      "案件上周五獲民事立案，李女士要求園方解釋死因、公開道歉及返還認養費1元。",
+      "李女士要求園方披露認養費用途及資金流向，並提交剖檢與醫療記錄。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "d47d2fc0bb1b42472d2b63f9",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "富士山︱25歲中國男強登失聯  父懸¥50萬尋人見屍付¥10萬",
+    "url": "https://www.stheadline.com/realtime-world/3637918/%E5%AF%8C%E5%A3%AB%E5%B1%B125%E6%AD%B2%E4%B8%AD%E5%9C%8B%E7%94%B7%E5%BC%B7%E7%99%BB%E5%A4%B1%E8%81%AF-%E7%88%B6%E6%87%B850%E8%90%AC%E5%B0%8B%E4%BA%BA%E8%A6%8B%E5%B1%8D%E4%BB%9810%E8%90%AC",
+    "published_date": "2026-11-17",
+    "summary": [
+      "25歲中國籍男子陳杰本月8日在富士山封山期獨自登山後失聯，至今逾一周。",
+      "其父緊急赴日並聯同使館及警方搜救，家屬懸賞50萬元人民幣尋人，尋獲遺體酬10萬元。",
+      "日本警方已確認其進山痕跡，山區積雪嚴寒，搜救困難，使館籲勿在封山期登山。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "bec3b62799944d55dc60fb6a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳辭職｜美媒：黃涉助華企繞過晶片禁運 美公布新規限遠程調用",
+    "url": "https://www.stheadline.com/realtime-world/3637936/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7%E7%BE%8E%E5%AA%92%E9%BB%83%E6%B6%89%E5%8A%A9%E8%8F%AF%E4%BC%81%E7%B9%9E%E9%81%8E%E6%99%B6%E7%89%87%E7%A6%81%E9%81%8B-%E7%BE%8E%E5%85%AC%E5%B8%83%E6%96%B0%E8%A6%8F%E9%99%90%E9%81%A0%E7%A8%8B%E8%AA%BF%E7%94%A8",
+    "published_date": "2026-11-17",
+    "summary": [
+      "美國商務部推出臨時最終規則，收緊先進半導體及海外數據中心出口管制。",
+      "新規限制海外數據中心向中國內地及澳門企業提供大規模遠程算力。",
+      "新加坡、馬來西亞、印尼、泰國及巴西出口先進半導體須申請許可證。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "9b3a224b10e9c862cd589d64",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "英國遊客立陶宛古教堂偷耶穌像  炫耀甩手摔碎神像︱有片",
+    "url": "https://www.stheadline.com/realtime-world/3637941/%E8%8B%B1%E5%9C%8B%E9%81%8A%E5%AE%A2%E7%AB%8B%E9%99%B6%E5%AE%9B%E5%8F%A4%E6%95%99%E5%A0%82%E5%81%B7%E8%80%B6%E7%A9%8C%E5%83%8F-%E7%82%AB%E8%80%80%E7%94%A9%E6%89%8B%E6%91%94%E7%A2%8E%E7%A5%9E%E5%83%8F%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-17",
+    "summary": [
+      "英國遊客在立陶宛維爾紐斯一間古教堂拆下金色耶穌像企圖偷走。",
+      "他向同行友人展示時失手將雕像摔碎，兩人隨即逃離現場。",
+      "警方憑閉路電視鎖定並盤問一人，發出嫌疑人通知書並限制其離境。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "aa433a09c4ea43f933774fd8",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "巴西南部連環發生多宗槍擊案 釀至少8死5傷 警疑涉黑幫火併調查關連",
+    "url": "https://www.stheadline.com/realtime-world/3637942/%E5%B7%B4%E8%A5%BF%E5%8D%97%E9%83%A8%E9%80%A3%E7%92%B0%E7%99%BC%E7%94%9F%E5%A4%9A%E5%AE%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E9%87%80%E8%87%B3%E5%B0%918%E6%AD%BB5%E5%82%B7-%E8%AD%A6%E7%96%91%E6%B6%89%E9%BB%91%E5%B9%AB%E7%81%AB%E4%BD%B5%E8%AA%BF%E6%9F%A5%E9%97%9C%E9%80%A3",
+    "published_date": "2026-11-17",
+    "summary": [
+      "巴西南里奧格蘭德州阿雷格里港及周邊地區周日晚上至周一凌晨接連發生至少7宗槍擊案。",
+      "連串槍擊造成最少8人死亡、5人受傷，其中阿爾沃拉達市一間酒吧外4人當場死亡。",
+      "警方指多宗案件手法相似，槍手多乘車向街頭人群開槍，懷疑涉及黑幫火併及報復。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "b37cd617b9aad2460b6de09f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美再收緊合法移民 外籍員工申請綠卡設新限制 護士、科學家不獲豁免",
+    "url": "https://www.stheadline.com/realtime-world/3637946/%E7%BE%8E%E5%86%8D%E6%94%B6%E7%B7%8A%E5%90%88%E6%B3%95%E7%A7%BB%E6%B0%91-%E5%A4%96%E7%B1%8D%E5%93%A1%E5%B7%A5%E7%94%B3%E8%AB%8B%E7%B6%A0%E5%8D%A1%E8%A8%AD%E6%96%B0%E9%99%90%E5%88%B6-%E8%AD%B7%E5%A3%AB%E7%A7%91%E5%AD%B8%E5%AE%B6%E4%B8%8D%E7%8D%B2%E8%B1%81%E5%85%8D",
+    "published_date": "2026-11-17",
+    "summary": [
+      "美國勞工部提出草案，收緊永久勞工認證計劃，物理治療師、註冊護士及科學家不再獲豁免。",
+      "新規要求僱主更充分證明聘用外籍員工不損害美國勞工權益，並以電子廣告取代紙本招聘。",
+      "企業若兩年內曾裁撤同類職位美國員工，不得為外籍員工申請認證，草案須經60天公眾諮詢。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "460263cba57f8af16e1377c7",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "愛潑斯坦案︱美國法醫專家駁「自殺論」  指頸留指甲印疑從後遭勒斃",
+    "url": "https://www.stheadline.com/realtime-world/3637957/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BE%8E%E5%9C%8B%E6%B3%95%E9%86%AB%E5%B0%88%E5%AE%B6%E9%A7%81%E8%87%AA%E6%AE%BA%E8%AB%96-%E6%8C%87%E9%A0%B8%E7%95%99%E6%8C%87%E7%94%B2%E5%8D%B0%E7%96%91%E5%BE%9E%E5%BE%8C%E9%81%AD%E5%8B%92%E6%96%83",
+    "published_date": "2026-11-17",
+    "summary": [
+      "美國法醫專家弗里曼受訪稱，愛潑斯坦頸部傷勢符合從背後遭勒死，而非官方認定的自殺。",
+      "弗里曼指頸部勒痕上方留有指甲印，左肩嚴重出血及臉部疑遭擊中，推斷兇手以繩索勒斃後懸屍造假。",
+      "紐約市前首席法醫桑普森堅持維持上吊自殺裁定，弗里曼分析未經同行評審且未親驗遺體。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "febb09c17eeb8f941ede2c9d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "港男涉在新加坡樟宜機場偷耳機  3個月後過境被捕",
+    "url": "https://www.stheadline.com/realtime-world/3637958/%E6%B8%AF%E7%94%B7%E6%B6%89%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%A8%9F%E5%AE%9C%E6%A9%9F%E5%A0%B4%E5%81%B7%E8%80%B3%E6%A9%9F-3%E5%80%8B%E6%9C%88%E5%BE%8C%E9%81%8E%E5%A2%83%E8%A2%AB%E6%8D%95",
+    "published_date": "2026-11-17",
+    "summary": [
+      "38歲香港男子涉8月2日在新加坡樟宜機場偷走一盒約值2105港元耳機。",
+      "男子當日已離境，10月29日再過境樟宜機場時被警方預先部署拘捕。",
+      "他周二被控盜竊罪，罪成最高可判監7年及罰款。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "218889647df992323edbb7f0",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美限制留學生及記者停留期限 聯邦法官正式撤銷",
+    "url": "https://www.stheadline.com/realtime-world/3637974/%E7%BE%8E%E9%99%90%E5%88%B6%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E5%81%9C%E7%95%99%E6%9C%9F%E9%99%90-%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E6%AD%A3%E5%BC%8F%E6%92%A4%E9%8A%B7",
+    "published_date": "2026-11-17",
+    "summary": [
+      "美國麻省聯邦法官塞勒裁定，國土安全部限制留學生、交流訪客及外國記者停留期限的新規違法，正式撤銷。",
+      "新規原定留學生及交流訪客停留最長4年，記者簽證最長240天，中國籍記者僅90天。",
+      "法官指決策武斷、濫用裁量權，裁決被視為留學生及高校的重要勝利。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "fca3c2cf02ad400be0c6f7ee",
     "source_id": "singtao",
     "newspaper": "星島日報",
