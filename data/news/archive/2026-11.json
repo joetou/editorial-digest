@@ -1,5 +1,245 @@
 [
   {
+    "id": "b1c3708304d60eabb5f246f7",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "車Cam直擊｜窩打老道客貨車疑天雨路滑失控 「甩尾」撞石壆翻側 44歲女司機幸無傷",
+    "url": "https://www.stheadline.com/breaking-news/3638704/%E8%BB%8ACam%E7%9B%B4%E6%93%8A%E7%AA%A9%E6%89%93%E8%80%81%E9%81%93%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E5%A4%B1%E6%8E%A7-%E7%94%A9%E5%B0%BE%E6%92%9E%E7%9F%B3%E5%A3%86%E7%BF%BB%E5%81%B4-44%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%B9%B8%E7%84%A1%E5%82%B7",
+    "published_date": "2026-11-19",
+    "summary": [
+      "九龍塘窩打老道一輛輕型貨車疑天雨路滑失控，撞向路中分隔石壆後翻側。",
+      "尾隨私家車及貨車急煞停下，未有波及其他車輛或造成連環碰撞。",
+      "44歲蘇姓女司機並無受傷，毋須送院，警方下午4時06分接報。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "ea49cd74ffd4ac4105a0c28d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "香港大學站連續2日信號設備故障 港島綫行車時間一度調整",
+    "url": "https://www.stheadline.com/breaking-news/3638756/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%80%A3%E7%BA%8C2%E6%97%A5%E4%BF%A1%E8%99%9F%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E4%B8%80%E5%BA%A6%E8%AA%BF%E6%95%B4",
+    "published_date": "2026-11-19",
+    "summary": [
+      "香港大學站連續兩日早上信號設備故障，港島綫列車需慢駛。",
+      "今日故障約8時17分發生，行車時間額外5至8分鐘，8時42分修復。",
+      "昨日故障阻礙近2小時，繁忙時間北角站月台擠滿候車乘客。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "00cacc46121d7f2256143fe9",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC︱中美俄三方峰會今登場  為何選址深圳麒麟山莊？",
+    "url": "https://www.stheadline.com/realtime-china/3638509/%E6%B7%B1%E5%9C%B3APEC%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E6%96%B9%E5%B3%B0%E6%9C%83%E4%BB%8A%E7%99%BB%E5%A0%B4-%E7%82%BA%E4%BD%95%E9%81%B8%E5%9D%80%E6%B7%B1%E5%9C%B3%E9%BA%92%E9%BA%9F%E5%B1%B1%E8%8E%8A",
+    "published_date": "2026-11-19",
+    "summary": [
+      "中美俄元首三方會晤定於19日下午在深圳麒麟山莊舉行，歷時約1小時。",
+      "特朗普先在國際交流中心出席APEC會議，中午轉往麒麟山莊與習近平雙邊會晤。",
+      "普京下午加入三方會議，會後特朗普直接前往寶安機場返美；山莊已加強戒備。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "8d2f0c2c226759baf346c97a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中國觀察︱深圳APEC現英姿 外事女保鏢的故事",
+    "url": "https://www.stheadline.com/realtime-china/3638513/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E6%B7%B1%E5%9C%B3APEC%E7%8F%BE%E8%8B%B1%E5%A7%BF-%E5%A4%96%E4%BA%8B%E5%A5%B3%E4%BF%9D%E9%8F%A2%E7%9A%84%E6%95%85%E4%BA%8B",
+    "published_date": "2026-11-19",
+    "summary": [
+      "墨西哥總統辛鮑姆節儉訪華，不坐專機而中轉南航客機，飛21小時抵深圳出席APEC。",
+      "公安部特勤局女保鏢徐瑾貼身護衛辛鮑姆，其英姿引起熱議，被網民稱為「最美女保鏢」。",
+      "文章回顧「中國第一女保鏢」邊梅，曾護衛多國第一夫人，1995年轉業後淡出公眾視野。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "68749e43d771ae2262724ea5",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "趙本山真聲獻唱網劇主題曲《慌啥子嘛》走紅",
+    "url": "https://www.stheadline.com/realtime-china/3638759/%E8%B6%99%E6%9C%AC%E5%B1%B1%E7%9C%9F%E8%81%B2%E7%8D%BB%E5%94%B1%E7%B6%B2%E5%8A%87%E4%B8%BB%E9%A1%8C%E6%9B%B2%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E8%B5%B0%E7%B4%85",
+    "published_date": "2026-11-19",
+    "summary": [
+      "趙本山為網劇《走馬上任》獻唱推廣曲《慌啥子嘛》，上線3小時點讚破百萬。",
+      "歌曲抖音話題播放量破兩億次，網民深受觸動，直言聽到落淚。",
+      "趙本山主動購入AI翻唱版本版權並親自重錄，稱因孩子愛聽而唱。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "e141f2aa103e4bf909700f49",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC︱市民街頭歡呼迎特朗普車隊  隔空叫「請他吃豬腳飯」︱有片",
+    "url": "https://www.stheadline.com/realtime-china/3638767/%E6%B7%B1%E5%9C%B3APEC%E5%B8%82%E6%B0%91%E8%A1%97%E9%A0%AD%E6%AD%A1%E5%91%BC%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%BB%8A%E9%9A%8A-%E9%9A%94%E7%A9%BA%E5%8F%AB%E8%AB%8B%E4%BB%96%E5%90%83%E8%B1%AC%E8%85%B3%E9%A3%AF%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-19",
+    "summary": [
+      "特朗普抵深圳入住福田東海朗廷酒店，周邊實施交通管制。",
+      "市民在對面馬路圍觀歡呼，有人隔空叫「請他吃豬腳飯」。",
+      "特朗普乘車赴歡迎晚宴時搖下車窗舉拳向市民示意。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "524fbd5c84a0f6a9fa68c2fe",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜政要忙打卡普京讚最現代化都市",
+    "url": "https://www.stheadline.com/realtime-china/3638769/%E6%B7%B1%E5%9C%B3APEC%E6%94%BF%E8%A6%81%E5%BF%99%E6%89%93%E5%8D%A1%E6%99%AE%E4%BA%AC%E8%AE%9A%E6%9C%80%E7%8F%BE%E4%BB%A3%E5%8C%96%E9%83%BD%E5%B8%82",
+    "published_date": "2026-11-19",
+    "summary": [
+      "澳洲總理阿爾巴尼斯在深圳萬象城超市考察澳洲龍蝦等產品，並試吃和牛。",
+      "智利總統卡斯特到深圳百果園門店，獲機械人送上車厘子。",
+      "普京在APEC致辭讚深圳是最現代化、最具活力的大都市之一。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "f8b89742bde35173af841e4f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜中美俄元首同框象徵意義重大  惟引發美盟友不安｜拆局",
+    "url": "https://www.stheadline.com/realtime-china/3638778/%E6%B7%B1%E5%9C%B3APEC%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86%E8%B1%A1%E5%BE%B5%E6%84%8F%E7%BE%A9%E9%87%8D%E5%A4%A7-%E6%83%9F%E5%BC%95%E7%99%BC%E7%BE%8E%E7%9B%9F%E5%8F%8B%E4%B8%8D%E5%AE%89%E6%8B%86%E5%B1%80",
+    "published_date": "2026-11-19",
+    "summary": [
+      "習近平、特朗普與普京在深圳舉行首次中美俄三方元首會晤，圍繞世界和平及大國關係交換意見。",
+      "分析認為會晤象徵意義大於實質成果，或引發美國盟友對烏克蘭及安全承諾的憂慮。",
+      "習特年內第三次雙邊會晤預料聚焦延長貿易休戰、兩軍溝通及建立AI對話機制。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "50f3d15f3449aecc8d85ac00",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC│領導人非正式會議座位安排有玄機",
+    "url": "https://www.stheadline.com/realtime-china/3638783/%E6%B7%B1%E5%9C%B3APEC%E9%A0%98%E5%B0%8E%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E6%9C%83%E8%AD%B0%E5%BA%A7%E4%BD%8D%E5%AE%89%E6%8E%92%E6%9C%89%E7%8E%84%E6%A9%9F",
+    "published_date": "2026-11-19",
+    "summary": [
+      "APEC領導人非正式會議在深圳香蜜湖國際交流中心召開，21個成員經濟體領導人及代表出席。",
+      "座位按成員經濟體官方英文名稱字母順序排列，國家主席習近平以東道主身份坐在主位。",
+      "下屆主辦方越南國家主席蘇林坐在習近平右手邊，上屆主辦方南韓總統李在明坐在蘇林旁邊。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "a3d4495291dc7d1b34f85b04",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳下台｜Nvidia宣布提前加薪派股權穩軍心 重申無意讓黃回歸",
+    "url": "https://www.stheadline.com/realtime-world/3638754/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8B%E5%8F%B0Nvidia%E5%AE%A3%E5%B8%83%E6%8F%90%E5%89%8D%E5%8A%A0%E8%96%AA%E6%B4%BE%E8%82%A1%E6%AC%8A%E7%A9%A9%E8%BB%8D%E5%BF%83-%E9%87%8D%E7%94%B3%E7%84%A1%E6%84%8F%E8%AE%93%E9%BB%83%E5%9B%9E%E6%AD%B8",
+    "published_date": "2026-11-19",
+    "summary": [
+      "英偉達黃仁勳辭職後首次召開全體員工大會，臨時行政總裁克雷斯宣布加薪及股權獎勵提前至12月。",
+      "董事會主席瓊斯重申無意讓黃仁勳復職，稱其獨一無二，將另覓具領導才能的新人選。",
+      "主管強調產品路線圖及客戶關係不變，公司仍致力完成收購Hugging Face。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "3d1234203810eec6a9691876",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "南韓高考︱懸賞59萬元捉AI作弊 發災難短訊排查手機 鈕扣須貼紙防偷拍",
+    "url": "https://www.stheadline.com/realtime-world/3638760/%E5%8D%97%E9%9F%93%E9%AB%98%E8%80%83%E6%87%B8%E8%B3%9E59%E8%90%AC%E5%85%83%E6%8D%89AI%E4%BD%9C%E5%BC%8A-%E7%99%BC%E7%81%BD%E9%9B%A3%E7%9F%AD%E8%A8%8A%E6%8E%92%E6%9F%A5%E6%89%8B%E6%A9%9F-%E9%88%95%E6%89%A3%E9%A0%88%E8%B2%BC%E7%B4%99%E9%98%B2%E5%81%B7%E6%8B%8D",
+    "published_date": "2026-11-19",
+    "summary": [
+      "南韓高考今日舉行，總統李在明宣布懸賞至少1億韓圜，獎勵舉報高科技作弊。",
+      "當局增派逾8,400名監考人員，檢查眼鏡、以貼紙遮蓋鈕扣並屏蔽WiFi訊號。",
+      "考試期間不定時發送災難短訊排查未交手機，並擬對作弊者禁考10年。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "2ad3406caeb15d1dbe21eeaa",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳出軌｜美報告：去年6月已約談黃樂　Nvidia同期將Megaspeed列禁售名單",
+    "url": "https://www.stheadline.com/realtime-world/3638763/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E7%BE%8E%E5%A0%B1%E5%91%8A%E5%8E%BB%E5%B9%B46%E6%9C%88%E5%B7%B2%E7%B4%84%E8%AB%87%E9%BB%83%E6%A8%82Nvidia%E5%90%8C%E6%9C%9F%E5%B0%87Megaspeed%E5%88%97%E7%A6%81%E5%94%AE%E5%90%8D%E5%96%AE",
+    "published_date": "2026-11-19",
+    "summary": [
+      "美國商務部與司法部披露，早於2024年已就Megaspeed涉違反出口管制展開調查。",
+      "商務部人員去年6月聯同新加坡執法機關到Megaspeed實地查核，並約談時任行政總裁黃樂。",
+      "英偉達同月將Megaspeed列入禁售名單，司法部其後接手主導刑事調查。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "19b07bf1ba491dd797b57a5e",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "南韓高考｜一日內連考五科  股市延後開市全國停飛35分鐘",
+    "url": "https://www.stheadline.com/realtime-world/3638765/%E5%8D%97%E9%9F%93%E9%AB%98%E8%80%83%E4%B8%80%E6%97%A5%E5%85%A7%E9%80%A3%E8%80%83%E4%BA%94%E7%A7%91-%E8%82%A1%E5%B8%82%E5%BB%B6%E5%BE%8C%E9%96%8B%E5%B8%82%E5%85%A8%E5%9C%8B%E5%81%9C%E9%A3%9B35%E5%88%86%E9%90%98",
+    "published_date": "2026-11-19",
+    "summary": [
+      "南韓高考一日內連考國語、數學、英語、韓國史及探究共5科，考試長8小時。",
+      "為免交通擠塞，首爾公共機關上班及股市開市均延後1小時。",
+      "全國飛機於英語聽力試期間暫停起降35分鐘，影響130個航班。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "c07b78c46b804da29a3ecf64",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "畢馬威｜實驗指AI審計提問勝會計師  擬擴至20項審計工作",
+    "url": "https://www.stheadline.com/realtime-world/3638766/%E7%95%A2%E9%A6%AC%E5%A8%81%E5%AF%A6%E9%A9%97%E6%8C%87AI%E5%AF%A9%E8%A8%88%E6%8F%90%E5%95%8F%E5%8B%9D%E6%9C%83%E8%A8%88%E5%B8%AB-%E6%93%AC%E6%93%B4%E8%87%B320%E9%A0%85%E5%AF%A9%E8%A8%88%E5%B7%A5%E4%BD%9C",
+    "published_date": "2026-11-19",
+    "summary": [
+      "畢馬威對一間英國上市公司試行AI審計，以100多個AI代理審核財務報表。",
+      "實驗發現AI能提出更好問題並作更深入調查，但條例配對出錯時仍需人手介入。",
+      "畢馬威擬將項目擴展至最多20項大型審計，並期望日後向客戶提供AI審計服務。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "3841deabde41bcb3196561e6",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美中期選舉︱佩爾托拉阿拉斯加獲勝 參院民主黨奪56席獲16年來最大優勢",
+    "url": "https://www.stheadline.com/realtime-world/3638771/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E4%BD%A9%E7%88%BE%E6%89%98%E6%8B%89%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E7%8D%B2%E5%8B%9D-%E5%8F%83%E9%99%A2%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A5%AA56%E5%B8%AD%E7%8D%B216%E5%B9%B4%E4%BE%86%E6%9C%80%E5%A4%A7%E5%84%AA%E5%8B%A2",
+    "published_date": "2026-11-19",
+    "summary": [
+      "佩爾托拉在阿拉斯加州聯邦參議員選舉擊敗共和黨現任參議員沙利文。",
+      "民主黨在參議院取得56席對44席，是16年來最大優勢。",
+      "佩爾托拉得票率50.12%，點票歷時兩周完成。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "aba268236569ac819cd64bce",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -30,6 +270,54 @@
     ],
     "summary_version": 2,
     "category": "港聞"
+  },
+  {
+    "id": "97142fc2d01c9a05a442a277",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "《星島申訴王》揭二手名牌寄賣店結業 警接216人報案涉款天價$3800萬 重案組接手跟進",
+    "url": "https://www.stheadline.com/breaking-news/3638619/%E6%98%9F%E5%B3%B6%E7%94%B3%E8%A8%B4%E7%8E%8B%E6%8F%AD%E4%BA%8C%E6%89%8B%E5%90%8D%E7%89%8C%E5%AF%84%E8%B3%A3%E5%BA%97%E7%B5%90%E6%A5%AD-%E8%AD%A6%E6%8E%A5216%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%B6%89%E6%AC%BE%E5%A4%A9%E5%83%B93800%E8%90%AC-%E9%87%8D%E6%A1%88%E7%B5%84%E6%8E%A5%E6%89%8B%E8%B7%9F%E9%80%B2",
+    "published_date": "2026-11-18",
+    "summary": [
+      "警方截至今日接獲216人報案，涉款高達3,800萬港元，案件暫列欺詐。",
+      "灣仔及中區警區重案組接手跟進，全力追緝失聯日籍負責人國里英泰下落。",
+      "銅鑼灣Vootic有140人報案涉款約2,650萬元，金鐘樂星76人涉款約1,150萬元。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "f05c7f461c558e94067629e1",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "特首座駕涉灣仔交通意外 19歲少女違規過馬路被撞 輕傷拒送院",
+    "url": "https://www.stheadline.com/breaking-news/3638651/%E7%89%B9%E9%A6%96%E5%BA%A7%E9%A7%95%E6%B6%89%E7%81%A3%E4%BB%94%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-19%E6%AD%B2%E5%B0%91%E5%A5%B3%E9%81%95%E8%A6%8F%E9%81%8E%E9%A6%AC%E8%B7%AF%E8%A2%AB%E6%92%9E-%E8%BC%95%E5%82%B7%E6%8B%92%E9%80%81%E9%99%A2",
+    "published_date": "2026-11-18",
+    "summary": [
+      "特首李家超座駕傍晚在灣仔告士打道左轉分域街時，撞及一名19歲少女。",
+      "少女右腳受輕傷，拒絕送院；警方確認她違規橫過馬路，事件作備案處理。",
+      "事發時李家超不在車上，62歲司機在場協助調查，座駕倒後鏡損毀。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "b2ea237c0e14094573163888",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC︱習近平：中方提供2000萬美元資助開展亞太經合組織務實合作︱不斷更新",
+    "url": "https://www.stheadline.com/realtime-china/3638328/%E6%B7%B1%E5%9C%B3APEC%E7%BF%92%E8%BF%91%E5%B9%B3%E4%B8%AD%E6%96%B9%E6%8F%90%E4%BE%9B2000%E8%90%AC%E7%BE%8E%E5%85%83%E8%B3%87%E5%8A%A9%E9%96%8B%E5%B1%95%E4%BA%9E%E5%A4%AA%E7%B6%93%E5%90%88%E7%B5%84%E7%B9%94%E5%8B%99%E5%AF%A6%E5%90%88%E4%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0",
+    "published_date": "2026-11-18",
+    "summary": [
+      "習近平主持APEC領導人非正式會議，宣布中方提供2000萬美元資助務實合作。",
+      "中方將在深圳設立亞太共同體研究中心，並推進亞太自貿區建設。",
+      "習近平提出升級互聯互通、打造創新支柱及深化綠色低碳合作等重點。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
   },
   {
     "id": "201f54b1e760a3c4bd59b5a0",
