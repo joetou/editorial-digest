@@ -1,5 +1,501 @@
 [
   {
+    "id": "a6c63bee5c208578c9651af8",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "元朗警署對開斑馬線電單車未讓路直衝 女途人急停避過 網民轟危駕",
+    "url": "https://www.stheadline.com/breaking-news/3639497/%E5%85%83%E6%9C%97%E8%AD%A6%E7%BD%B2%E5%B0%8D%E9%96%8B%E6%96%91%E9%A6%AC%E7%B7%9A%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%9C%AA%E8%AE%93%E8%B7%AF%E7%9B%B4%E8%A1%9D-%E5%A5%B3%E9%80%94%E4%BA%BA%E6%80%A5%E5%81%9C%E9%81%BF%E9%81%8E-%E7%B6%B2%E6%B0%91%E8%BD%9F%E5%8D%B1%E9%A7%95",
+    "published_date": "2026-11-21",
+    "summary": [
+      "元朗警署對開斑馬線，一輛電單車無視正橫過馬路的女途人直衝而過，女途人及時停步避過。",
+      "車Cam片主停車禮讓女途人，網民一面倒批評鐵騎士危險駕駛，諷刺在警署附近亦夠膽衝。",
+      "根據道路交通規例，司機須讓斑馬線上的行人先行，違例定額罰款已調高至675元。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "edf9a997dc613485be0a0254",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中國觀察︱深圳APEC峰會 美俄元首等都住哪？",
+    "url": "https://www.stheadline.com/realtime-china/3639272/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E6%B7%B1%E5%9C%B3APEC%E5%B3%B0%E6%9C%83-%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E7%AD%89%E9%83%BD%E4%BD%8F%E5%93%AA",
+    "published_date": "2026-11-21",
+    "summary": [
+      "深圳APEC峰會期間，各經濟體領袖入住不同酒店，特朗普住東海朗廷，普京住前海康萊德。",
+      "日本首相高市早苗入住福田好日子皇冠假日酒店，並在返東京前於該酒店舉行記者會。",
+      "台灣代表施振榮入住四季酒店並宴請台企代表，有報道指加拿大總理卡尼亦住該酒店。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "3c3f72b04c2809e67ccac1e5",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "AI擺烏龍？｜消防水炮狂噴火焰圖案遭嘲   滑雪場揭真相｜有片",
+    "url": "https://www.stheadline.com/realtime-china/3639299/AI%E6%93%BA%E7%83%8F%E9%BE%8D%E6%B6%88%E9%98%B2%E6%B0%B4%E7%82%AE%E7%8B%82%E5%99%B4%E7%81%AB%E7%84%B0%E5%9C%96%E6%A1%88%E9%81%AD%E5%98%B2-%E6%BB%91%E9%9B%AA%E5%A0%B4%E6%8F%AD%E7%9C%9F%E7%9B%B8%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-21",
+    "summary": [
+      "河北張家口萬龍滑雪場消防水炮突然啟動，對準燒烤檔火焰圖案燈箱噴水，影片瘋傳。",
+      "雪場及消防部門澄清，水炮採用視覺加紅外熱源雙重檢測，實因炭爐明火高溫觸發。",
+      "事件中無人受傷，工作人員20分鐘內清理現場，雪場已調整炭爐擺放角度。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "1052e290a045268f1e782770",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜歡迎晚宴唱中文版《YMCA》　習近平特朗普同桌欣賞｜有片",
+    "url": "https://www.stheadline.com/realtime-china/3639505/%E6%B7%B1%E5%9C%B3APEC%E6%AD%A1%E8%BF%8E%E6%99%9A%E5%AE%B4%E5%94%B1%E4%B8%AD%E6%96%87%E7%89%88YMCA%E7%BF%92%E8%BF%91%E5%B9%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%A1%8C%E6%AC%A3%E8%B3%9E%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-21",
+    "summary": [
+      "深圳APEC歡迎晚宴安排年輕表演者演唱中文版《YMCA》，習近平與特朗普同桌觀看。",
+      "白宮顧問馬丁在社交平台發布片段，寫道與習主席觀看《YMCA》表演。",
+      "晚宴由習近平與彭麗媛設宴，特朗普抵達時樂隊奏起《America the Beautiful》。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "8725ce26fe056ddb5b9aa7d2",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC‧分析｜「深圳國際體系」初啟 如何落實尚待觀察",
+    "url": "https://www.stheadline.com/realtime-china/3639512/%E6%B7%B1%E5%9C%B3APEC%E5%88%86%E6%9E%90%E6%B7%B1%E5%9C%B3%E5%9C%8B%E9%9A%9B%E9%AB%94%E7%B3%BB%E5%88%9D%E5%95%9F-%E5%A6%82%E4%BD%95%E8%90%BD%E5%AF%A6%E5%B0%9A%E5%BE%85%E8%A7%80%E5%AF%9F",
+    "published_date": "2026-11-21",
+    "summary": [
+      "中美俄元首在深圳APEC期間會晤並發表4點《和平宣言》，學者認為是管控分歧新嘗試。",
+      "王文稱會晤非打造G3小集團，而是實踐「深圳國際體系」思路，為動盪世界注入確定性。",
+      "房寧指宣言主要體現原則共識，後續如何落實及各方回應仍有待觀察。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "aea087983f6adcdaa9036913",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "APEC晚宴清蒸石斑 順德名廚提前30天演練",
+    "url": "https://www.stheadline.com/realtime-china/3639518/APEC%E6%99%9A%E5%AE%B4%E6%B8%85%E8%92%B8%E7%9F%B3%E6%96%91-%E9%A0%86%E5%BE%B7%E5%90%8D%E5%BB%9A%E6%8F%90%E5%89%8D30%E5%A4%A9%E6%BC%94%E7%B7%B4",
+    "published_date": "2026-11-21",
+    "summary": [
+      "習近平在深圳設宴歡迎APEC來賓，晚宴以粵菜為主，並加入蘑菇牛扒等西式元素。",
+      "順德派出約40名廚師參與APEC餐飲，其中15人負責清蒸石斑魚，提前一個月進駐演練。",
+      "領隊稱要兼顧430名賓客同時用餐，團隊每日按晚宴規模反覆演練，凌晨3時起處理魚材。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "e363ab7450272263fd86923e",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜習近平深圳會晤星澳泰總理 特朗普：亞洲行太忙未晤金正恩",
+    "url": "https://www.stheadline.com/realtime-china/3639521/%E6%B7%B1%E5%9C%B3APEC%E7%BF%92%E8%BF%91%E5%B9%B3%E6%B7%B1%E5%9C%B3%E6%9C%83%E6%99%A4%E6%98%9F%E6%BE%B3%E6%B3%B0%E7%B8%BD%E7%90%86-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%9E%E6%B4%B2%E8%A1%8C%E5%A4%AA%E5%BF%99%E6%9C%AA%E6%99%A4%E9%87%91%E6%AD%A3%E6%81%A9",
+    "published_date": "2026-11-21",
+    "summary": [
+      "習近平在深圳麒麟山莊會見新加坡、澳洲、泰國等國領導人，並就雙邊關係提出意見。",
+      "習近平與澳洲總理會面時提出四點意見，並將2027年設為「中澳旅遊年」。",
+      "特朗普返美途中稱三方會晤值12分，並表示因亞洲行太忙未會見金正恩。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "1fa8397bc7b1323bb46814bf",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "馬斯克深圳視像會議談中美關係 突提「T字頭國家」恐引地緣摩擦惹聯想",
+    "url": "https://www.stheadline.com/realtime-world/3639500/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%B7%B1%E5%9C%B3%E8%A6%96%E5%83%8F%E6%9C%83%E8%AD%B0%E8%AB%87%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82-%E7%AA%81%E6%8F%90T%E5%AD%97%E9%A0%AD%E5%9C%8B%E5%AE%B6%E6%81%90%E5%BC%95%E5%9C%B0%E7%B7%A3%E6%91%A9%E6%93%A6%E6%83%B9%E8%81%AF%E6%83%B3",
+    "published_date": "2026-11-21",
+    "summary": [
+      "馬斯克在深圳以視像出席美國投資者大會，稱每次訪華都對當地發展感到震撼。",
+      "他形容深圳規模龐大，是先進科技中心，並自稱是「中國的粉絲」。",
+      "他提到未來數年或因「某個以T字開頭的國家」出現地緣政治摩擦，引起外界聯想台灣。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "7f2af64ca0c8484fec5d64c2",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "俄烏戰爭｜特朗普再稱普京是朋友　澤連斯基對記者苦笑聳肩",
+    "url": "https://www.stheadline.com/realtime-world/3639501/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E7%A8%B1%E6%99%AE%E4%BA%AC%E6%98%AF%E6%9C%8B%E5%8F%8B%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%B0%8D%E8%A8%98%E8%80%85%E8%8B%A6%E7%AC%91%E8%81%B3%E8%82%A9",
+    "published_date": "2026-11-21",
+    "summary": [
+      "特朗普在深圳APEC與普京會晤時稱對方為朋友，返美後重申私人關係非常好。",
+      "記者追問普京是否美國朋友時，特朗普稱無法代美國回答，只強調關係良好。",
+      "澤連斯基在柏林記者會被問及此事時僅苦笑聳肩，未作回答便隨其他領導人離場。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "675f9d9a8ebf40793dbee54d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "脫歐十年︱英歐允每年10萬青年互赴工作留學  惟學費仍未達共識",
+    "url": "https://www.stheadline.com/realtime-world/3639515/%E8%84%AB%E6%AD%90%E5%8D%81%E5%B9%B4%E8%8B%B1%E6%AD%90%E5%85%81%E6%AF%8F%E5%B9%B410%E8%90%AC%E9%9D%92%E5%B9%B4%E4%BA%92%E8%B5%B4%E5%B7%A5%E4%BD%9C%E7%95%99%E5%AD%B8-%E6%83%9F%E5%AD%B8%E8%B2%BB%E4%BB%8D%E6%9C%AA%E9%81%94%E5%85%B1%E8%AD%98",
+    "published_date": "2026-11-21",
+    "summary": [
+      "英歐在布魯塞爾舉行峰會，同意每年各讓最多10萬名18至31歲青年互赴工作、留學或旅遊，最長三年。",
+      "雙方亦就簡化食品貿易程序及連結碳排放交易制度達成協議，英方估計每年經濟收益最多51億英鎊。",
+      "歐盟要求英國降低歐盟學生學費，雙方仍有分歧，部分成員國揚言學費未解決前不批准整套安排。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "4a34ed2f6f10788e2acdc61c",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "特朗普籲輝達讓黃仁勳回任 稱習近平讚他是人才 黃同意赴美國會作證",
+    "url": "https://www.stheadline.com/realtime-world/3639517/%E7%89%B9%E6%9C%97%E6%99%AE%E7%B1%B2%E8%BC%9D%E9%81%94%E8%AE%93%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E4%BB%BB-%E7%A8%B1%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AE%9A%E4%BB%96%E6%98%AF%E4%BA%BA%E6%89%8D-%E9%BB%83%E5%90%8C%E6%84%8F%E8%B5%B4%E7%BE%8E%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89",
+    "published_date": "2026-11-21",
+    "summary": [
+      "特朗普呼籲輝達讓黃仁勳鄭重道歉後重返崗位，稱他是全球頂尖人才。",
+      "特朗普透露曾與習近平談及黃仁勳，對方亦稱讚黃是傑出人才。",
+      "黃仁勳已同意出席參議院公開聽證會作證，並接受眾議院閉門訪談。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "4c551f5fd6ca875cbf33d2c8",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "屯門雅都花園第3座疑爆食水管停水逾兩日 住戶不滿垃圾房旁取水",
+    "url": "https://www.stheadline.com/breaking-news/3639137/%E5%B1%AF%E9%96%80%E9%9B%85%E9%83%BD%E8%8A%B1%E5%9C%92%E7%AC%AC3%E5%BA%A7%E7%96%91%E7%88%86%E9%A3%9F%E6%B0%B4%E7%AE%A1%E5%81%9C%E6%B0%B4%E9%80%BE%E5%85%A9%E6%97%A5-%E4%BD%8F%E6%88%B6%E4%B8%8D%E6%BB%BF%E5%9E%83%E5%9C%BE%E6%88%BF%E6%97%81%E5%8F%96%E6%B0%B4",
+    "published_date": "2026-11-20",
+    "summary": [
+      "屯門雅都花園第3座疑因食水管爆裂，自本周二起停水，至今日仍未恢復。",
+      "居民不滿初期未獲應急安排，低層住戶一度須在垃圾房旁取水。",
+      "區議員介入後在2樓平台設臨時取水點，供應1至14樓居民應急。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "4e0eb3c29d050b368859cdaa",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "警隊進駐抖音三周年吸粉500萬 發布飛虎隊實訓片「一哥」周一鳴出鏡",
+    "url": "https://www.stheadline.com/breaking-news/3639149/%E8%AD%A6%E9%9A%8A%E9%80%B2%E9%A7%90%E6%8A%96%E9%9F%B3%E4%B8%89%E5%91%A8%E5%B9%B4%E5%90%B8%E7%B2%89500%E8%90%AC-%E7%99%BC%E5%B8%83%E9%A3%9B%E8%99%8E%E9%9A%8A%E5%AF%A6%E8%A8%93%E7%89%87%E4%B8%80%E5%93%A5%E5%91%A8%E4%B8%80%E9%B3%B4%E5%87%BA%E9%8F%A1",
+    "published_date": "2026-11-20",
+    "summary": [
+      "香港警察抖音帳號進駐三周年，累計粉絲人數突破500萬。",
+      "警方同步發布飛虎隊海陸空實訓宣傳片，警務處處長周一鳴出鏡演出。",
+      "帖文介紹飛虎隊「獵鷹行動」實訓，強調沒有彩排、只有實戰標準。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "5fdd665f617474cbfae981dd",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "馬鞍山富寶花園停食水鹹水 居民捱寒冒雨取水現百米人龍 女子水箱旁洗菜被罵",
+    "url": "https://www.stheadline.com/breaking-news/3639389/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%AF%8C%E5%AF%B6%E8%8A%B1%E5%9C%92%E5%81%9C%E9%A3%9F%E6%B0%B4%E9%B9%B9%E6%B0%B4-%E5%B1%85%E6%B0%91%E6%8D%B1%E5%AF%92%E5%86%92%E9%9B%A8%E5%8F%96%E6%B0%B4%E7%8F%BE%E7%99%BE%E7%B1%B3%E4%BA%BA%E9%BE%8D-%E5%A5%B3%E5%AD%90%E6%B0%B4%E7%AE%B1%E6%97%81%E6%B4%97%E8%8F%9C%E8%A2%AB%E7%BD%B5",
+    "published_date": "2026-11-20",
+    "summary": [
+      "馬鞍山富寶花園凌晨喉管爆裂，食水及鹹水供應暫停，逾4200戶受影響。",
+      "水務署派水車及水箱，逾百居民冒寒排隊取水，人龍一度長達200米。",
+      "有居民用水箱水洗菜被指罵「嘥水」，超市食水亦被搶購一空。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "728299a1504126ac2fb7f685",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "海關破酒店製毒工場及分銷中心檢160萬元大麻毒品 3男女被捕",
+    "url": "https://www.stheadline.com/breaking-news/3639417/%E6%B5%B7%E9%97%9C%E7%A0%B4%E9%85%92%E5%BA%97%E8%A3%BD%E6%AF%92%E5%B7%A5%E5%A0%B4%E5%8F%8A%E5%88%86%E9%8A%B7%E4%B8%AD%E5%BF%83%E6%AA%A2160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E6%AF%92%E5%93%81-3%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "published_date": "2026-11-20",
+    "summary": [
+      "海關在屯門住宅及荃灣酒店檢獲約160萬元大麻毒品，拘捕3人。",
+      "23歲男子及28歲女子被控販運危險藥物罪，33歲男子另被控製毒罪。",
+      "集團在酒店製毒後轉運市區住宅包裝分銷，並混入香味減低戒心。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "8b1be992b50395ac8a2d6a07",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "香港海關自主研發「ValidAP」獲國際肯定 奪「第六屆亞洲創新發明展覽會—香港」銀獎",
+    "url": "https://www.stheadline.com/breaking-news/3639432/%E9%A6%99%E6%B8%AF%E6%B5%B7%E9%97%9C%E8%87%AA%E4%B8%BB%E7%A0%94%E7%99%BCValidAP%E7%8D%B2%E5%9C%8B%E9%9A%9B%E8%82%AF%E5%AE%9A-%E5%A5%AA%E7%AC%AC%E5%85%AD%E5%B1%86%E4%BA%9E%E6%B4%B2%E5%89%B5%E6%96%B0%E7%99%BC%E6%98%8E%E5%B1%95%E8%A6%BD%E6%9C%83%E9%A6%99%E6%B8%AF%E9%8A%80%E7%8D%8E",
+    "published_date": "2026-11-20",
+    "summary": [
+      "香港海關自主研發的電子文件驗證平台「ValidAP」，在第六屆亞洲創新發明展覽會—香港奪得銀獎。",
+      "助理關長李建基在展位向評審介紹「ValidAP」運用密碼學及區塊鏈技術，可即時驗證電子文件。",
+      "海關稱獲獎印證「智慧海關」成果，將繼續深化與各地海關及創科機構合作。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "c98ca5713c448edff98e9bf0",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC︱特朗普晤習近平首稱不支持「台獨」  學者：外交磋商成果 料仍有起伏︱拆局",
+    "url": "https://www.stheadline.com/realtime-china/3639155/%E6%B7%B1%E5%9C%B3APEC%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3%E9%A6%96%E7%A8%B1%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E7%8D%A8-%E5%AD%B8%E8%80%85%E5%A4%96%E4%BA%A4%E7%A3%8B%E5%95%86%E6%88%90%E6%9E%9C-%E6%96%99%E4%BB%8D%E6%9C%89%E8%B5%B7%E4%BC%8F%E6%8B%86%E5%B1%80",
+    "published_date": "2026-11-20",
+    "summary": [
+      "習近平與特朗普在深圳會晤，習敦促美方在台灣問題上做正確的事。",
+      "新華社引述特朗普稱美國不支持「台獨」，為今年三次習特會首次。",
+      "內地學者認為這是外交磋商成果，但未來中美在台灣問題上仍有起伏。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "bf6f687bc19ce8e60155023d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中國觀察︱對特朗普高市的「超規格」待遇",
+    "url": "https://www.stheadline.com/realtime-china/3639157/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E5%B0%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E7%9A%84%E8%B6%85%E8%A6%8F%E6%A0%BC%E5%BE%85%E9%81%87",
+    "published_date": "2026-11-20",
+    "summary": [
+      "習近平親到機場迎接特朗普，打破46年慣例，並安排戰機飛越致敬。",
+      "《人民日報》頭版以較大篇幅及相片報道習特會，規格高於中俄、中韓會晤。",
+      "日本首相高市早苗由退休局級官員章啟月接機，規格為全場最低。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "8f0fc84d54931ca9fe62fc5d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "APEC︱外賓聚華強北「血拼」 日均客流量逾75萬人次",
+    "url": "https://www.stheadline.com/realtime-china/3639163/APEC%E5%A4%96%E8%B3%93%E8%81%9A%E8%8F%AF%E5%BC%B7%E5%8C%97%E8%A1%80%E6%8B%BC-%E6%97%A5%E5%9D%87%E5%AE%A2%E6%B5%81%E9%87%8F%E9%80%BE75%E8%90%AC%E4%BA%BA%E6%AC%A1",
+    "published_date": "2026-11-20",
+    "summary": [
+      "APEC峰會期間，深圳華強北日均客流量超過75萬人次，大批外籍政要及採購商到場。",
+      "墨西哥衞生部部長克舍諾比奇到華強北選購按摩儀及便攜智能設備，成為城中熱話。",
+      "外語地陪需求大增，日薪可達1200元人民幣，有採購商1分鐘內議價近兩成成交。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "89b0c5bbb29a6bb1f2393764",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "深圳APEC｜泰總理「返鄉下」開會  偕妻食砂鍋粥用廣東話大讚：好食｜有片",
+    "url": "https://www.stheadline.com/realtime-china/3639166/%E6%B7%B1%E5%9C%B3APEC%E6%B3%B0%E7%B8%BD%E7%90%86%E8%BF%94%E9%84%89%E4%B8%8B%E9%96%8B%E6%9C%83-%E5%81%95%E5%A6%BB%E9%A3%9F%E7%A0%82%E9%8D%8B%E7%B2%A5%E7%94%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%A4%A7%E8%AE%9A%E5%A5%BD%E9%A3%9F%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-20",
+    "summary": [
+      "泰國總理阿努廷在深圳出席APEC峰會後，與夫人到南山餐館品嚐潮汕砂鍋粥。",
+      "阿努廷以廣東話回應記者，大讚「好食，幾好啊」，夫人亦以英文稱讚。",
+      "他翌日夜遊南頭古城，再以廣東話稱「特別好」、「好開心」，並稱上次訪深圳已是30多年前。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "040936a3a8ba124c9e39a94f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "兩內地女遊港蹲地2秒即遭勸阻 傳罰500元惹雙標爭議｜有片",
+    "url": "https://www.stheadline.com/realtime-china/3639206/%E5%85%A9%E5%85%A7%E5%9C%B0%E5%A5%B3%E9%81%8A%E6%B8%AF%E8%B9%B2%E5%9C%B02%E7%A7%92%E5%8D%B3%E9%81%AD%E5%8B%B8%E9%98%BB-%E5%82%B3%E7%BD%B0500%E5%85%83%E6%83%B9%E9%9B%99%E6%A8%99%E7%88%AD%E8%AD%B0%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-20",
+    "summary": [
+      "兩名內地女旅客稱在港逛街逾1.5萬步後蹲下休息，僅2秒即遭職員勸阻。",
+      "片段稱違者罰款500港元，惟查實香港法例並無禁止在公眾地方蹲下。",
+      "事件在微博登上熱搜，內地網民質疑雙標，港人則指通道狹窄應維持秩序。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "b37c72f088a194f9cd36ec4d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "湖南漢為買iPhone 18 Pro送老婆  戒煙215天「慳錢貼出心型牆」｜有片",
+    "url": "https://www.stheadline.com/realtime-china/3639306/%E6%B9%96%E5%8D%97%E6%BC%A2%E7%82%BA%E8%B2%B7iPhone-18-Pro%E9%80%81%E8%80%81%E5%A9%86-%E6%88%92%E7%85%99215%E5%A4%A9%E6%85%B3%E9%8C%A2%E8%B2%BC%E5%87%BA%E5%BF%83%E5%9E%8B%E7%89%86%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-20",
+    "summary": [
+      "湖南婁底33歲楊先生為幫妻子換手機，決心戒煙並每日將30元煙錢貼牆儲起。",
+      "他堅持215天儲得逾6000元，用作首期網購價值10999元的iPhone 18 Pro送妻。",
+      "他稱戒煙後喉嚨乾癢及易喘毛病消失，健康與家庭生活質素均提升。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "57e164b817cfb2fe9d43a46d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "異食癖｜10歲女童胃內取出3公斤頭髮球 母揭2歲起夢中無意識吞髮",
+    "url": "https://www.stheadline.com/realtime-china/3639324/%E7%95%B0%E9%A3%9F%E7%99%9610%E6%AD%B2%E5%A5%B3%E7%AB%A5%E8%83%83%E5%85%A7%E5%8F%96%E5%87%BA3%E5%85%AC%E6%96%A4%E9%A0%AD%E9%AB%AE%E7%90%83-%E6%AF%8D%E6%8F%AD2%E6%AD%B2%E8%B5%B7%E5%A4%A2%E4%B8%AD%E7%84%A1%E6%84%8F%E8%AD%98%E5%90%9E%E9%AB%AE",
+    "published_date": "2026-11-20",
+    "summary": [
+      "河南駐馬店10歲女童因腹痛求醫，胃內發現毛髮與食物殘渣纏結成硬塊。",
+      "醫生開腹手術取出約20×15×5厘米、重3公斤的毛髮胃石，女童術後恢復良好。",
+      "女童母親稱女兒自兩三歲起睡夢中無意識吞髮，醫生提醒異食癖或與營養及心理有關。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "5e277bc535c8bbfa711fb14b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "日本淺草寺｜女遊客懸掛拉扯雷門大燈籠拍照捱轟 若損毀恐招巨額賠償｜有片",
+    "url": "https://www.stheadline.com/realtime-world/3639140/%E6%97%A5%E6%9C%AC%E6%B7%BA%E8%8D%89%E5%AF%BA%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%87%B8%E6%8E%9B%E6%8B%89%E6%89%AF%E9%9B%B7%E9%96%80%E5%A4%A7%E7%87%88%E7%B1%A0%E6%8B%8D%E7%85%A7%E6%8D%B1%E8%BD%9F%E8%8B%A5%E6%90%8D%E6%AF%80%E6%81%90%E6%8B%9B%E5%B7%A8%E9%A1%8D%E8%B3%A0%E5%84%9F%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-20",
+    "summary": [
+      "一名外國女遊客在東京淺草寺雷門大燈籠下攀住燈籠底部單腳站立拍照，放手後燈籠明顯晃動。",
+      "該燈籠高約3.9米、重700公斤，以和紙及竹材製作，反覆拉扯易致污損或結構受損。",
+      "日本網民怒轟行為不尊重宗教場所，憂慮修復費用高昂，甚至可能衍生巨額賠償。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "1926331d83c3f7d4356f3c21",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "泰國瀑布泡腳遭巨蜥咬住拖落水　德國女遊客左腳撕裂送院",
+    "url": "https://www.stheadline.com/realtime-world/3639141/%E6%B3%B0%E5%9C%8B%E7%80%91%E5%B8%83%E6%B3%A1%E8%85%B3%E9%81%AD%E5%B7%A8%E8%9C%A5%E5%92%AC%E4%BD%8F%E6%8B%96%E8%90%BD%E6%B0%B4%E5%BE%B7%E5%9C%8B%E5%A5%B3%E9%81%8A%E5%AE%A2%E5%B7%A6%E8%85%B3%E6%92%95%E8%A3%82%E9%80%81%E9%99%A2",
+    "published_date": "2026-11-20",
+    "summary": [
+      "泰國北碧府愛侶灣瀑布一名約60歲德國女遊客泡腳時遭巨蜥咬住左腳拖入水中。",
+      "女遊客左腳嚴重撕裂，經公園人員急救後送院，治療後已返回住宿地點。",
+      "園方捕獲巨蜥移往深林放生，並設捕捉籠、加強巡邏及計劃增設警告標誌。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "5c69c4cc59e19d529bfc71fd",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "俄烏戰爭｜普京：克里米亞大橋遇襲後不再討論能源停火 揚言更猛烈報復",
+    "url": "https://www.stheadline.com/realtime-world/3639143/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E6%99%AE%E4%BA%AC%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B%E9%81%87%E8%A5%B2%E5%BE%8C%E4%B8%8D%E5%86%8D%E8%A8%8E%E8%AB%96%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB-%E6%8F%9A%E8%A8%80%E6%9B%B4%E7%8C%9B%E7%83%88%E5%A0%B1%E5%BE%A9",
+    "published_date": "2026-11-20",
+    "summary": [
+      "普京稱克里米亞大橋再遭襲後，俄方不再討論海上停火及停止攻擊能源設施。",
+      "普京警告將作更痛楚報復，並承認大橋公路部分嚴重受損，強調會修復。",
+      "澤連斯基證實烏軍以無人機及海王星導彈打擊大橋，俄方稱部分結構需一至兩個月修復。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "a3cca63beba4754ce6ba957d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "北海道六花亭 | 日本知名手信品牌遭網攻 8000筆信用卡資料恐外洩",
+    "url": "https://www.stheadline.com/realtime-world/3639151/%E5%8C%97%E6%B5%B7%E9%81%93%E5%85%AD%E8%8A%B1%E4%BA%AD-%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E6%89%8B%E4%BF%A1%E5%93%81%E7%89%8C%E9%81%AD%E7%B6%B2%E6%94%BB-8000%E7%AD%86%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99%E6%81%90%E5%A4%96%E6%B4%A9",
+    "published_date": "2026-11-20",
+    "summary": [
+      "六花亭官網商店遭黑客入侵，信用卡付款程式被竄改，約8000筆顧客信用卡資料恐外洩。",
+      "外洩資料包括信用卡號碼、持卡人姓名、有效期限及安全碼，涉10月21日至11月18日交易。",
+      "公司已暫停官網商店營運並致歉，將尋求外部機構調查，呼籲顧客核對交易明細。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "2efc04737e295bb9778d3e6b",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "梵高《盛放的栗樹》近15億元拍賣成交破紀錄",
+    "url": "https://www.stheadline.com/realtime-world/3639153/%E6%A2%B5%E9%AB%98%E7%9B%9B%E6%94%BE%E7%9A%84%E6%A0%97%E6%A8%B9%E8%BF%9115%E5%84%84%E5%85%83%E6%8B%8D%E8%B3%A3%E6%88%90%E4%BA%A4%E7%A0%B4%E7%B4%80%E9%8C%84",
+    "published_date": "2026-11-20",
+    "summary": [
+      "梵高名畫《盛放的栗樹》在紐約蘇富比以連佣金1.904億美元成交，刷新其作品拍賣紀錄。",
+      "畫作拍賣前捲入納粹時期售畫爭議，猶太裔前藏家後人與現藏家開拍前達成和解。",
+      "該畫1890年創作，上月曾在香港展出，成交價打破2022年《有栢樹的果園》舊紀錄。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "e83b72e12f1fda29e9c89670",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "第三方供應商遭網攻 涉摩根大通、Visa及Mastercard客戶資料",
+    "url": "https://www.stheadline.com/realtime-world/3639158/%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BE%9B%E6%87%89%E5%95%86%E9%81%AD%E7%B6%B2%E6%94%BB-%E6%B6%89%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9AVisa%E5%8F%8AMastercard%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99",
+    "published_date": "2026-11-20",
+    "summary": [
+      "摩根大通、Visa及萬事達卡證實第三方供應商遭網攻，部分客戶姓名及電郵外洩。",
+      "三家公司強調付款及信用卡資料未外洩，自身系統亦未受影響。",
+      "俄羅斯勒索軟件集團n0n聲稱犯案，專家警告消費者慎防釣魚詐騙。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "c1392432794f3f9ca392819c",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "亞馬遜雨林與世隔絕族群 罕見現身索食物 官員一原因不敢頻繁接觸",
+    "url": "https://www.stheadline.com/realtime-world/3639165/%E4%BA%9E%E9%A6%AC%E9%81%9C%E9%9B%A8%E6%9E%97%E8%88%87%E4%B8%96%E9%9A%94%E7%B5%95%E6%97%8F%E7%BE%A4-%E7%BD%95%E8%A6%8B%E7%8F%BE%E8%BA%AB%E7%B4%A2%E9%A3%9F%E7%89%A9-%E5%AE%98%E5%93%A1%E4%B8%80%E5%8E%9F%E5%9B%A0%E4%B8%8D%E6%95%A2%E9%A0%BB%E7%B9%81%E6%8E%A5%E8%A7%B8",
+    "published_date": "2026-11-20",
+    "summary": [
+      "巴西亞馬遜雨林約20名阿瓦族人罕見接近政府駐點，索取薯類食物後返回森林。",
+      "生存國際公布影像，憂慮非法伐木、狩獵及牧場擴張威脅族人，籲巴西政府保護土地。",
+      "巴西原住民事務機構Funai啟動應變計劃，維持不接觸政策，憂族人缺乏傳染病免疫力。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "7a2cac7ae590b2743baad17d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美明星河馬離世 | 誤吞遊客拋落針織帽 9歲河馬Fiona搶救多日不治",
+    "url": "https://www.stheadline.com/realtime-world/3639172/%E7%BE%8E%E6%98%8E%E6%98%9F%E6%B2%B3%E9%A6%AC%E9%9B%A2%E4%B8%96-%E8%AA%A4%E5%90%9E%E9%81%8A%E5%AE%A2%E6%8B%8B%E8%90%BD%E9%87%9D%E7%B9%94%E5%B8%BD-9%E6%AD%B2%E6%B2%B3%E9%A6%ACFiona%E6%90%B6%E6%95%91%E5%A4%9A%E6%97%A5%E4%B8%8D%E6%B2%BB",
+    "published_date": "2026-11-20",
+    "summary": [
+      "美國辛辛那提動物園明星河馬菲奧娜誤吞遊客針織帽，引發併發症，經連日搶救後不治，終年9歲。",
+      "帽子被吊扇甩入欄舍，菲奧娜吞下後食慾下降；獸醫用藥及內視鏡檢查均未能取出異物。",
+      "菲奧娜2017年早產出生，體重僅29磅，經24小時照護成長為全球知名動物明星，粉絲紛紛哀悼。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
     "id": "b1c3708304d60eabb5f246f7",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -4859,230 +5355,6 @@
       "歐洲十多個航班同日接連收到炸彈恐嚇，多國軍方派戰機護航。",
       "愛爾蘭航空客機急降法國軍事基地，機上151名乘客及6名機組人員安全。",
       "各國警方搜查後均未發現爆炸物，證實所有威脅屬虛報惡作劇。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "7a2cac7ae590b2743baad17d",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "美明星河馬離世 | 誤吞遊客拋落針織帽 9歲河馬Fiona搶救多日不治",
-    "url": "https://www.stheadline.com/realtime-world/3639172/%E7%BE%8E%E6%98%8E%E6%98%9F%E6%B2%B3%E9%A6%AC%E9%9B%A2%E4%B8%96-%E8%AA%A4%E5%90%9E%E9%81%8A%E5%AE%A2%E6%8B%8B%E8%90%BD%E9%87%9D%E7%B9%94%E5%B8%BD-9%E6%AD%B2%E6%B2%B3%E9%A6%ACFiona%E6%90%B6%E6%95%91%E5%A4%9A%E6%97%A5%E4%B8%8D%E6%B2%BB",
-    "published_date": "2026-11-20",
-    "summary": [
-      "美國辛辛那提動物園明星河馬菲奧娜誤吞遊客針織帽，引發併發症，經連日搶救後不治，終年9歲。",
-      "帽子被吊扇甩入欄舍，菲奧娜吞下後食慾下降；獸醫用藥及內視鏡檢查均未能取出異物。",
-      "菲奧娜2017年早產出生，體重僅29磅，經24小時照護成長為全球知名動物明星，粉絲紛紛哀悼。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "89b0c5bbb29a6bb1f2393764",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "深圳APEC｜泰總理「返鄉下」開會  偕妻食砂鍋粥用廣東話大讚：好食｜有片",
-    "url": "https://www.stheadline.com/realtime-china/3639166/%E6%B7%B1%E5%9C%B3APEC%E6%B3%B0%E7%B8%BD%E7%90%86%E8%BF%94%E9%84%89%E4%B8%8B%E9%96%8B%E6%9C%83-%E5%81%95%E5%A6%BB%E9%A3%9F%E7%A0%82%E9%8D%8B%E7%B2%A5%E7%94%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%A4%A7%E8%AE%9A%E5%A5%BD%E9%A3%9F%E6%9C%89%E7%89%87",
-    "published_date": "2026-11-20",
-    "summary": [
-      "泰國總理阿努廷在深圳出席APEC峰會後，與夫人到南山餐館品嚐潮汕砂鍋粥。",
-      "阿努廷以廣東話回應記者，大讚「好食，幾好啊」，夫人亦以英文稱讚。",
-      "他翌日夜遊南頭古城，再以廣東話稱「特別好」、「好開心」，並稱上次訪深圳已是30多年前。"
-    ],
-    "summary_version": 2,
-    "category": "內地新聞"
-  },
-  {
-    "id": "4e0eb3c29d050b368859cdaa",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "警隊進駐抖音三周年吸粉500萬 發布飛虎隊實訓片「一哥」周一鳴出鏡",
-    "url": "https://www.stheadline.com/breaking-news/3639149/%E8%AD%A6%E9%9A%8A%E9%80%B2%E9%A7%90%E6%8A%96%E9%9F%B3%E4%B8%89%E5%91%A8%E5%B9%B4%E5%90%B8%E7%B2%89500%E8%90%AC-%E7%99%BC%E5%B8%83%E9%A3%9B%E8%99%8E%E9%9A%8A%E5%AF%A6%E8%A8%93%E7%89%87%E4%B8%80%E5%93%A5%E5%91%A8%E4%B8%80%E9%B3%B4%E5%87%BA%E9%8F%A1",
-    "published_date": "2026-11-20",
-    "summary": [
-      "香港警察抖音帳號進駐三周年，累計粉絲人數突破500萬。",
-      "警方同步發布飛虎隊海陸空實訓宣傳片，警務處處長周一鳴出鏡演出。",
-      "帖文介紹飛虎隊「獵鷹行動」實訓，強調沒有彩排、只有實戰標準。"
-    ],
-    "summary_version": 2,
-    "category": "港聞"
-  },
-  {
-    "id": "c1392432794f3f9ca392819c",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "亞馬遜雨林與世隔絕族群 罕見現身索食物 官員一原因不敢頻繁接觸",
-    "url": "https://www.stheadline.com/realtime-world/3639165/%E4%BA%9E%E9%A6%AC%E9%81%9C%E9%9B%A8%E6%9E%97%E8%88%87%E4%B8%96%E9%9A%94%E7%B5%95%E6%97%8F%E7%BE%A4-%E7%BD%95%E8%A6%8B%E7%8F%BE%E8%BA%AB%E7%B4%A2%E9%A3%9F%E7%89%A9-%E5%AE%98%E5%93%A1%E4%B8%80%E5%8E%9F%E5%9B%A0%E4%B8%8D%E6%95%A2%E9%A0%BB%E7%B9%81%E6%8E%A5%E8%A7%B8",
-    "published_date": "2026-11-20",
-    "summary": [
-      "巴西亞馬遜雨林約20名阿瓦族人罕見接近政府駐點，索取薯類食物後返回森林。",
-      "生存國際公布影像，憂慮非法伐木、狩獵及牧場擴張威脅族人，籲巴西政府保護土地。",
-      "巴西原住民事務機構Funai啟動應變計劃，維持不接觸政策，憂族人缺乏傳染病免疫力。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "8f0fc84d54931ca9fe62fc5d",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "APEC︱外賓聚華強北「血拼」 日均客流量逾75萬人次",
-    "url": "https://www.stheadline.com/realtime-china/3639163/APEC%E5%A4%96%E8%B3%93%E8%81%9A%E8%8F%AF%E5%BC%B7%E5%8C%97%E8%A1%80%E6%8B%BC-%E6%97%A5%E5%9D%87%E5%AE%A2%E6%B5%81%E9%87%8F%E9%80%BE75%E8%90%AC%E4%BA%BA%E6%AC%A1",
-    "published_date": "2026-11-20",
-    "summary": [
-      "APEC峰會期間，深圳華強北日均客流量超過75萬人次，大批外籍政要及採購商到場。",
-      "墨西哥衞生部部長克舍諾比奇到華強北選購按摩儀及便攜智能設備，成為城中熱話。",
-      "外語地陪需求大增，日薪可達1200元人民幣，有採購商1分鐘內議價近兩成成交。"
-    ],
-    "summary_version": 2,
-    "category": "內地新聞"
-  },
-  {
-    "id": "4c551f5fd6ca875cbf33d2c8",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "屯門雅都花園第3座疑爆食水管停水逾兩日 住戶不滿垃圾房旁取水",
-    "url": "https://www.stheadline.com/breaking-news/3639137/%E5%B1%AF%E9%96%80%E9%9B%85%E9%83%BD%E8%8A%B1%E5%9C%92%E7%AC%AC3%E5%BA%A7%E7%96%91%E7%88%86%E9%A3%9F%E6%B0%B4%E7%AE%A1%E5%81%9C%E6%B0%B4%E9%80%BE%E5%85%A9%E6%97%A5-%E4%BD%8F%E6%88%B6%E4%B8%8D%E6%BB%BF%E5%9E%83%E5%9C%BE%E6%88%BF%E6%97%81%E5%8F%96%E6%B0%B4",
-    "published_date": "2026-11-20",
-    "summary": [
-      "屯門雅都花園第3座疑因食水管爆裂，自本周二起停水，至今日仍未恢復。",
-      "居民不滿初期未獲應急安排，低層住戶一度須在垃圾房旁取水。",
-      "區議員介入後在2樓平台設臨時取水點，供應1至14樓居民應急。"
-    ],
-    "summary_version": 2,
-    "category": "港聞"
-  },
-  {
-    "id": "e83b72e12f1fda29e9c89670",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "第三方供應商遭網攻 涉摩根大通、Visa及Mastercard客戶資料",
-    "url": "https://www.stheadline.com/realtime-world/3639158/%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BE%9B%E6%87%89%E5%95%86%E9%81%AD%E7%B6%B2%E6%94%BB-%E6%B6%89%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9AVisa%E5%8F%8AMastercard%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99",
-    "published_date": "2026-11-20",
-    "summary": [
-      "摩根大通、Visa及萬事達卡證實第三方供應商遭網攻，部分客戶姓名及電郵外洩。",
-      "三家公司強調付款及信用卡資料未外洩，自身系統亦未受影響。",
-      "俄羅斯勒索軟件集團n0n聲稱犯案，專家警告消費者慎防釣魚詐騙。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "bf6f687bc19ce8e60155023d",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "中國觀察︱對特朗普高市的「超規格」待遇",
-    "url": "https://www.stheadline.com/realtime-china/3639157/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E5%B0%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E7%9A%84%E8%B6%85%E8%A6%8F%E6%A0%BC%E5%BE%85%E9%81%87",
-    "published_date": "2026-11-20",
-    "summary": [
-      "習近平親到機場迎接特朗普，打破46年慣例，並安排戰機飛越致敬。",
-      "《人民日報》頭版以較大篇幅及相片報道習特會，規格高於中俄、中韓會晤。",
-      "日本首相高市早苗由退休局級官員章啟月接機，規格為全場最低。"
-    ],
-    "summary_version": 2,
-    "category": "內地新聞"
-  },
-  {
-    "id": "2efc04737e295bb9778d3e6b",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "梵高《盛放的栗樹》近15億元拍賣成交破紀錄",
-    "url": "https://www.stheadline.com/realtime-world/3639153/%E6%A2%B5%E9%AB%98%E7%9B%9B%E6%94%BE%E7%9A%84%E6%A0%97%E6%A8%B9%E8%BF%9115%E5%84%84%E5%85%83%E6%8B%8D%E8%B3%A3%E6%88%90%E4%BA%A4%E7%A0%B4%E7%B4%80%E9%8C%84",
-    "published_date": "2026-11-20",
-    "summary": [
-      "梵高名畫《盛放的栗樹》在紐約蘇富比以連佣金1.904億美元成交，刷新其作品拍賣紀錄。",
-      "畫作拍賣前捲入納粹時期售畫爭議，猶太裔前藏家後人與現藏家開拍前達成和解。",
-      "該畫1890年創作，上月曾在香港展出，成交價打破2022年《有栢樹的果園》舊紀錄。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "c98ca5713c448edff98e9bf0",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "深圳APEC︱特朗普晤習近平首稱不支持「台獨」  學者：外交磋商成果 料仍有起伏︱拆局",
-    "url": "https://www.stheadline.com/realtime-china/3639155/%E6%B7%B1%E5%9C%B3APEC%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3%E9%A6%96%E7%A8%B1%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E7%8D%A8-%E5%AD%B8%E8%80%85%E5%A4%96%E4%BA%A4%E7%A3%8B%E5%95%86%E6%88%90%E6%9E%9C-%E6%96%99%E4%BB%8D%E6%9C%89%E8%B5%B7%E4%BC%8F%E6%8B%86%E5%B1%80",
-    "published_date": "2026-11-20",
-    "summary": [
-      "習近平與特朗普在深圳會晤，習敦促美方在台灣問題上做正確的事。",
-      "新華社引述特朗普稱美國不支持「台獨」，為今年三次習特會首次。",
-      "內地學者認為這是外交磋商成果，但未來中美在台灣問題上仍有起伏。"
-    ],
-    "summary_version": 2,
-    "category": "內地新聞"
-  },
-  {
-    "id": "a3cca63beba4754ce6ba957d",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "北海道六花亭 | 日本知名手信品牌遭網攻 8000筆信用卡資料恐外洩",
-    "url": "https://www.stheadline.com/realtime-world/3639151/%E5%8C%97%E6%B5%B7%E9%81%93%E5%85%AD%E8%8A%B1%E4%BA%AD-%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E6%89%8B%E4%BF%A1%E5%93%81%E7%89%8C%E9%81%AD%E7%B6%B2%E6%94%BB-8000%E7%AD%86%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99%E6%81%90%E5%A4%96%E6%B4%A9",
-    "published_date": "2026-11-20",
-    "summary": [
-      "六花亭官網商店遭黑客入侵，信用卡付款程式被竄改，約8000筆顧客信用卡資料恐外洩。",
-      "外洩資料包括信用卡號碼、持卡人姓名、有效期限及安全碼，涉10月21日至11月18日交易。",
-      "公司已暫停官網商店營運並致歉，將尋求外部機構調查，呼籲顧客核對交易明細。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "5c69c4cc59e19d529bfc71fd",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "俄烏戰爭｜普京：克里米亞大橋遇襲後不再討論能源停火 揚言更猛烈報復",
-    "url": "https://www.stheadline.com/realtime-world/3639143/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E6%99%AE%E4%BA%AC%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B%E9%81%87%E8%A5%B2%E5%BE%8C%E4%B8%8D%E5%86%8D%E8%A8%8E%E8%AB%96%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB-%E6%8F%9A%E8%A8%80%E6%9B%B4%E7%8C%9B%E7%83%88%E5%A0%B1%E5%BE%A9",
-    "published_date": "2026-11-20",
-    "summary": [
-      "普京稱克里米亞大橋再遭襲後，俄方不再討論海上停火及停止攻擊能源設施。",
-      "普京警告將作更痛楚報復，並承認大橋公路部分嚴重受損，強調會修復。",
-      "澤連斯基證實烏軍以無人機及海王星導彈打擊大橋，俄方稱部分結構需一至兩個月修復。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "1926331d83c3f7d4356f3c21",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "泰國瀑布泡腳遭巨蜥咬住拖落水　德國女遊客左腳撕裂送院",
-    "url": "https://www.stheadline.com/realtime-world/3639141/%E6%B3%B0%E5%9C%8B%E7%80%91%E5%B8%83%E6%B3%A1%E8%85%B3%E9%81%AD%E5%B7%A8%E8%9C%A5%E5%92%AC%E4%BD%8F%E6%8B%96%E8%90%BD%E6%B0%B4%E5%BE%B7%E5%9C%8B%E5%A5%B3%E9%81%8A%E5%AE%A2%E5%B7%A6%E8%85%B3%E6%92%95%E8%A3%82%E9%80%81%E9%99%A2",
-    "published_date": "2026-11-20",
-    "summary": [
-      "泰國北碧府愛侶灣瀑布一名約60歲德國女遊客泡腳時遭巨蜥咬住左腳拖入水中。",
-      "女遊客左腳嚴重撕裂，經公園人員急救後送院，治療後已返回住宿地點。",
-      "園方捕獲巨蜥移往深林放生，並設捕捉籠、加強巡邏及計劃增設警告標誌。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "5e277bc535c8bbfa711fb14b",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "日本淺草寺｜女遊客懸掛拉扯雷門大燈籠拍照捱轟 若損毀恐招巨額賠償｜有片",
-    "url": "https://www.stheadline.com/realtime-world/3639140/%E6%97%A5%E6%9C%AC%E6%B7%BA%E8%8D%89%E5%AF%BA%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%87%B8%E6%8E%9B%E6%8B%89%E6%89%AF%E9%9B%B7%E9%96%80%E5%A4%A7%E7%87%88%E7%B1%A0%E6%8B%8D%E7%85%A7%E6%8D%B1%E8%BD%9F%E8%8B%A5%E6%90%8D%E6%AF%80%E6%81%90%E6%8B%9B%E5%B7%A8%E9%A1%8D%E8%B3%A0%E5%84%9F%E6%9C%89%E7%89%87",
-    "published_date": "2026-11-20",
-    "summary": [
-      "一名外國女遊客在東京淺草寺雷門大燈籠下攀住燈籠底部單腳站立拍照，放手後燈籠明顯晃動。",
-      "該燈籠高約3.9米、重700公斤，以和紙及竹材製作，反覆拉扯易致污損或結構受損。",
-      "日本網民怒轟行為不尊重宗教場所，憂慮修復費用高昂，甚至可能衍生巨額賠償。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
