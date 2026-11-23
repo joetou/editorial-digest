@@ -1,83 +1,83 @@
 {
   "schema_version": 1,
-  "last_run_at": "2026-11-21T23:15:50.163Z",
-  "last_success_at": "2026-11-21T23:15:50.163Z",
+  "last_run_at": "2026-11-23T00:53:29.115Z",
+  "last_success_at": "2026-11-23T00:53:29.115Z",
   "model": "deepseek-flash",
-  "requests": 20,
-  "saved": 4,
-  "news_saved": 14,
+  "requests": 25,
+  "saved": 3,
+  "news_saved": 19,
   "status": [
-    {
-      "source_id": "mingpao",
-      "state": "restricted",
-      "message": "無法核實 robots.txt（HTTP 403）",
-      "updated_at": "2026-11-21T23:15:27.021Z"
-    },
     {
       "source_id": "hkej",
       "state": "restricted",
       "message": "來源 robots.txt 禁止自動抓取，需授權 feed",
-      "updated_at": "2026-11-21T23:15:27.467Z"
+      "updated_at": "2026-11-23T00:53:01.528Z"
+    },
+    {
+      "source_id": "mingpao",
+      "state": "restricted",
+      "message": "無法核實 robots.txt（HTTP 403）",
+      "updated_at": "2026-11-23T00:53:01.731Z"
     },
     {
       "source_id": "oriental",
       "state": "ok",
       "message": "新增 1 篇，檢查 1 篇",
-      "updated_at": "2026-11-21T23:15:29.033Z"
+      "updated_at": "2026-11-23T00:53:04.363Z"
     },
     {
       "source_id": "scmp",
       "state": "restricted",
       "message": "來源拒絕自動存取（HTTP 403），需授權來源",
-      "updated_at": "2026-11-21T23:15:30.754Z"
+      "updated_at": "2026-11-23T00:53:05.402Z"
     },
     {
       "source_id": "takung",
       "state": "ok",
-      "message": "新增 1 篇，檢查 4 篇",
-      "updated_at": "2026-11-21T23:15:37.276Z"
+      "message": "新增 0 篇，檢查 3 篇",
+      "updated_at": "2026-11-23T00:53:13.359Z"
     },
     {
       "source_id": "singtao",
       "state": "ok",
-      "message": "新增 2 篇，檢查 4 篇",
-      "updated_at": "2026-11-21T23:15:41.968Z"
+      "message": "新增 1 篇，檢查 4 篇",
+      "updated_at": "2026-11-23T00:53:17.801Z"
     },
     {
       "source_id": "hket",
       "state": "restricted",
       "message": "無法核實 robots.txt（HTTP 403）",
-      "updated_at": "2026-11-21T23:15:42.168Z"
-    },
-    {
-      "source_id": "wenwei",
-      "state": "waiting",
-      "message": "未找到近期可用社評",
-      "updated_at": "2026-11-21T23:15:43.772Z"
+      "updated_at": "2026-11-23T00:53:17.998Z"
     },
     {
       "source_id": "hk01",
-      "state": "ok",
-      "message": "新增 0 篇，檢查 1 篇",
-      "updated_at": "2026-11-21T23:15:44.894Z"
+      "state": "waiting",
+      "message": "未找到近期可用社評",
+      "updated_at": "2026-11-23T00:53:20.317Z"
     },
     {
-      "source_id": "macaodaily",
-      "state": "waiting",
-      "message": "2026-11-22 電子版尚未提供（HTTP 404）；2026-11-21 電子版尚未提供（HTTP 404）；2026-11-20 電子版尚未提供（HTTP 404）；2026-11-19 電子版尚未提供（HTTP 404）",
-      "updated_at": "2026-11-21T23:15:46.724Z"
+      "source_id": "wenwei",
+      "state": "ok",
+      "message": "新增 1 篇，檢查 1 篇",
+      "updated_at": "2026-11-23T00:53:23.681Z"
     },
     {
       "source_id": "shimin",
       "state": "attention",
       "message": "無法確認為該報社評",
-      "updated_at": "2026-11-21T23:15:47.054Z"
+      "updated_at": "2026-11-23T00:53:26.163Z"
+    },
+    {
+      "source_id": "macaodaily",
+      "state": "waiting",
+      "message": "2026-11-23 電子版尚未提供（HTTP 404）；2026-11-22 電子版尚未提供（HTTP 404）；2026-11-21 電子版尚未提供（HTTP 404）；2026-11-20 電子版尚未提供（HTTP 404）",
+      "updated_at": "2026-11-23T00:53:26.215Z"
     },
     {
       "source_id": "houkong",
       "state": "attention",
       "message": "無法確認為該報社評",
-      "updated_at": "2026-11-21T23:15:50.135Z"
+      "updated_at": "2026-11-23T00:53:29.092Z"
     }
   ]
 }
