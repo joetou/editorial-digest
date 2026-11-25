@@ -144,22 +144,6 @@
     "category": "內地新聞"
   },
   {
-    "id": "124974e5fbb279e5a177bbe7",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "神舟二十四號｜載人飛行任務航天員乘組與中外媒體記者見面",
-    "url": "https://www.stheadline.com/realtime-china/3640526/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%A1%8C%E4%BB%BB%E5%8B%99%E8%88%AA%E5%A4%A9%E5%93%A1%E4%B9%98%E7%B5%84%E8%88%87%E4%B8%AD%E5%A4%96%E5%AA%92%E9%AB%94%E8%A8%98%E8%80%85%E8%A6%8B%E9%9D%A2",
-    "published_date": "2026-11-24",
-    "summary": [
-      "神舟二十四號乘組由湯洪波、武毅及巴基斯坦載荷專家穆罕默德·齊尚·阿里組成。",
-      "湯洪波任指令長，將成首位三次到訪天宮的航天員，另兩人首次飛行。",
-      "這是中國載人航天工程首個包含外籍航天員的飛行乘組。"
-    ],
-    "summary_version": 2,
-    "category": "內地新聞"
-  },
-  {
     "id": "199c3ece8d49a2f6dc35d866",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -208,38 +192,6 @@
     "category": "國際新聞"
   },
   {
-    "id": "f3494c35079dfcda14780d36",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "黃仁勳回歸Nvidia｜王者姿態重返加州總部 員工鼓掌歡呼迎接  黃：感謝給我第二次機會｜有片",
-    "url": "https://www.stheadline.com/realtime-world/3640480/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8Nvidia%E7%8E%8B%E8%80%85%E5%A7%BF%E6%85%8B%E9%87%8D%E8%BF%94%E5%8A%A0%E5%B7%9E%E7%B8%BD%E9%83%A8-%E5%93%A1%E5%B7%A5%E9%BC%93%E6%8E%8C%E6%AD%A1%E5%91%BC%E8%BF%8E%E6%8E%A5-%E9%BB%83%E6%84%9F%E8%AC%9D%E7%B5%A6%E6%88%91%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%A9%9F%E6%9C%83%E6%9C%89%E7%89%87",
-    "published_date": "2026-11-24",
-    "summary": [
-      "黃仁勳獲董事會宣布復任行政總裁等職務後，即日重返加州聖克拉拉總部。",
-      "員工在大堂鼓掌歡呼並高喊其名字，黃仁勳致謝並承諾做得更好。",
-      "黃仁勳稱這是第一天上班，為近日風波向同事致歉，董事會稱滿意其坦誠。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "4e0e20257c94b7ff814da260",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "黃仁勳回歸Nvidia｜特朗普：介入復職為防中國延攬 無同習近平提黃樂",
-    "url": "https://www.stheadline.com/realtime-world/3640487/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8Nvidia%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8B%E5%85%A5%E5%BE%A9%E8%81%B7%E7%82%BA%E9%98%B2%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%94%AC-%E7%84%A1%E5%90%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E6%8F%90%E9%BB%83%E6%A8%82",
-    "published_date": "2026-11-24",
-    "summary": [
-      "特朗普承認曾直接及間接游說英偉達董事會，促成黃仁勳復任行政總裁。",
-      "特朗普稱黃仁勳是國寶級人才，擔心他離開公司後會被中國招攬。",
-      "特朗普指與習近平會面時對方讚揚黃仁勳晶片能力，但未提及黃樂。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
     "id": "96495d38a71f8e5cc088382f",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -267,38 +219,6 @@
       "美國商務部將新加坡Megaspeed及東南亞關係企業共7家公司列入實體清單。",
       "美方指這些公司涉嫌把輝達先進AI晶片及算力轉供中國客戶，違反出口管制。",
       "新規即時生效，向這7家公司出口受管制產品須申請許可，審查原則為推定拒絕。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "9a6623af15c917be939f1c74",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "黃仁勳回歸Nvidia｜12月3日赴美參院作證 加州檢方強調繼續調查",
-    "url": "https://www.stheadline.com/realtime-world/3640539/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8Nvidia12%E6%9C%883%E6%97%A5%E8%B5%B4%E7%BE%8E%E5%8F%83%E9%99%A2%E4%BD%9C%E8%AD%89-%E5%8A%A0%E5%B7%9E%E6%AA%A2%E6%96%B9%E5%BC%B7%E8%AA%BF%E7%B9%BC%E7%BA%8C%E8%AA%BF%E6%9F%A5",
-    "published_date": "2026-11-24",
-    "summary": [
-      "美國參議院銀行委員會宣布，黃仁勳將於12月3日出席公開聽證會作證。",
-      "加州檢察長邦塔強調，黃仁勳復職不影響調查，將繼續追查輝達有否誤導投資者。",
-      "黃仁勳12月1日先接受聯邦眾議院三個委員會的閉門詢問。"
-    ],
-    "summary_version": 2,
-    "category": "國際新聞"
-  },
-  {
-    "id": "c11dc69a11466287dc826e17",
-    "source_id": "singtao",
-    "newspaper": "星島日報",
-    "region": "香港",
-    "title": "黃仁勳回歸Nvidia｜特朗普賀重掌輝達 狂發「高舉紅胸圍」AI迷因圖",
-    "url": "https://www.stheadline.com/realtime-world/3640550/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8Nvidia%E7%89%B9%E6%9C%97%E6%99%AE%E8%B3%80%E9%87%8D%E6%8E%8C%E8%BC%9D%E9%81%94-%E7%8B%82%E7%99%BC%E9%AB%98%E8%88%89%E7%B4%85%E8%83%B8%E5%9C%8DAI%E8%BF%B7%E5%9B%A0%E5%9C%96",
-    "published_date": "2026-11-24",
-    "summary": [
-      "輝達董事會一致通過黃仁勳復職，恢復總裁、執行長及董事職務，即時生效。",
-      "特朗普在社交平台發AI迷因圖慶祝，圖中黃仁勳浴血高舉紅色胸罩。",
-      "特朗普承認曾向輝達董事會施壓，稱性醜聞對黃仁勳有淨正面效應。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
@@ -6174,5 +6094,213 @@
     ],
     "summary_version": 2,
     "category": "國際新聞"
+  },
+  {
+    "id": "93c36ba4143a4f4d1c3aba64",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "南韓指多架俄軍機逼近鬱陵島領空   地方政府誤稱北韓惹混亂",
+    "url": "https://www.stheadline.com/realtime-world/3640908/%E5%8D%97%E9%9F%93%E6%8C%87%E5%A4%9A%E6%9E%B6%E4%BF%84%E8%BB%8D%E6%A9%9F%E9%80%BC%E8%BF%91%E9%AC%B1%E9%99%B5%E5%B3%B6%E9%A0%98%E7%A9%BA-%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E8%AA%A4%E7%A8%B1%E5%8C%97%E9%9F%93%E6%83%B9%E6%B7%B7%E4%BA%82",
+    "published_date": "2026-11-25",
+    "summary": [
+      "南韓軍方指多架俄軍機清晨進入東部海域防空識別區，逼近鬱陵島領空，韓軍派F-15K戰機升空應對。",
+      "軍方首次就俄軍機可能入侵發布疏散警報，惟慶尚北道地方政府誤稱涉事軍機為北韓軍機，引發混亂。",
+      "南韓國防部召見俄駐韓軍事武官抗議，外交部表示遺憾，今次是俄軍機本月內第三次闖入防空識別區。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "abbddf427f746da45617fe88",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "津巴布韋劫案｜華資廠遭持AK-47匪徒洗劫 2中國員工中槍",
+    "url": "https://www.stheadline.com/realtime-china/3640905/%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%8B%E5%8A%AB%E6%A1%88%E8%8F%AF%E8%B3%87%E5%BB%A0%E9%81%AD%E6%8C%81AK-47%E5%8C%AA%E5%BE%92%E6%B4%97%E5%8A%AB-2%E4%B8%AD%E5%9C%8B%E5%93%A1%E5%B7%A5%E4%B8%AD%E6%A7%8D",
+    "published_date": "2026-11-25",
+    "summary": [
+      "津巴布韋首都哈拉雷一間華資工廠遭十多名持AK-47等槍械劫匪闖入。",
+      "劫匪偽裝員工敲門，廠方人員開門後遭控制，雙方駁火，兩名中國員工腹部中槍。",
+      "兩名傷者送院救治無生命危險，使館介入；另通報十月劫案八名疑犯落網。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "fa51ef15d92725706113fc3a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "濱崎真緒乘航班回港遇「機艙老鼠」  發文稱失手錶及首飾盒  已報警處理",
+    "url": "https://www.stheadline.com/breaking-news/3640901/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E4%B9%98%E8%88%AA%E7%8F%AD%E5%9B%9E%E6%B8%AF%E9%81%87%E6%A9%9F%E8%89%99%E8%80%81%E9%BC%A0-%E7%99%BC%E6%96%87%E7%A8%B1%E5%A4%B1%E6%89%8B%E9%8C%B6%E5%8F%8A%E9%A6%96%E9%A3%BE%E7%9B%92-%E5%B7%B2%E5%A0%B1%E8%AD%A6%E8%99%95%E7%90%86",
+    "published_date": "2026-11-25",
+    "summary": [
+      "濱崎真緒乘UO625回港後發現行李架手背包內首飾盒及手錶被盜。",
+      "她已到荃灣警署報案，經理人指失竊財物總值約15萬港元。",
+      "失物包括4隻鑽石戒指、3隻Chrome Hearts戒指及頸鏈等。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "614a12c9b8837ac79af84d4d",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中歐關係｜歐盟12月起限制混動汽車進口 中國配額約為19萬輛",
+    "url": "https://www.stheadline.com/realtime-china/3640900/%E4%B8%AD%E6%AD%90%E9%97%9C%E4%BF%82%E6%AD%90%E7%9B%9F12%E6%9C%88%E8%B5%B7%E9%99%90%E5%88%B6%E6%B7%B7%E5%8B%95%E6%B1%BD%E8%BB%8A%E9%80%B2%E5%8F%A3-%E4%B8%AD%E5%9C%8B%E9%85%8D%E9%A1%8D%E7%B4%84%E7%82%BA19%E8%90%AC%E8%BC%9B",
+    "published_date": "2026-11-25",
+    "summary": [
+      "歐盟宣布12月1日起對混動汽車採取臨時保障措施，中國進口上限約19萬輛。",
+      "商務部稱中歐此前已達成合法合規安排，希望歐方遵守共識並維護中方權益。",
+      "中方重申保護主義沒有出路，將密切關注歐方後續調查進展。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "e10afbb2e37113b008a1c650",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "有片｜深水埗青山道的士失事釀5車撞 鐵騎士被撞至人仰車翻 2人受傷送院",
+    "url": "https://www.stheadline.com/breaking-news/3640866/%E6%9C%89%E7%89%87%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%9D%92%E5%B1%B1%E9%81%93%E7%9A%84%E5%A3%AB%E5%A4%B1%E4%BA%8B%E9%87%805%E8%BB%8A%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E8%A2%AB%E6%92%9E%E8%87%B3%E4%BA%BA%E4%BB%B0%E8%BB%8A%E7%BF%BB-2%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "published_date": "2026-11-25",
+    "summary": [
+      "深水埗青山道晚上約10時20分發生5車連環相撞，的士先撞電單車再撞兩私家車。",
+      "25歲姓鄧鐵騎士腳部受傷，67歲姓譚的士司機報稱不適，兩人清醒送明愛醫院。",
+      "車Cam片段顯示鐵騎士被撞至人仰車翻，警方正調查意外原因。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "ba921d5ce2ace8f455d92dd9",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "世紀熱浪︱今夏酷暑奪英國逾5千命 全歐30國熱死逾5萬人",
+    "url": "https://www.stheadline.com/realtime-world/3640904/%E4%B8%96%E7%B4%80%E7%86%B1%E6%B5%AA%E4%BB%8A%E5%A4%8F%E9%85%B7%E6%9A%91%E5%A5%AA%E8%8B%B1%E5%9C%8B%E9%80%BE5%E5%8D%83%E5%91%BD-%E5%85%A8%E6%AD%9030%E5%9C%8B%E7%86%B1%E6%AD%BB%E9%80%BE5%E8%90%AC%E4%BA%BA",
+    "published_date": "2026-11-25",
+    "summary": [
+      "英國今夏七輪熱浪持續41天，估計5,258人死於高溫，創2016年有紀錄以來新高。",
+      "最致命一輪熱浪在6月21日至28日，八天內造成2,401人死亡，5月及6月已逾3,000人喪生。",
+      "歐洲30國城市地區今夏逾5萬人死於高溫，創2000年以來最高紀錄。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "b98828210738e4d0c230ac8a",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中美關係｜商務部暫緩關鍵礦產出口禁令  延長至27年1月27日",
+    "url": "https://www.stheadline.com/realtime-china/3640899/%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E5%95%86%E5%8B%99%E9%83%A8%E6%9A%AB%E7%B7%A9%E9%97%9C%E9%8D%B5%E7%A4%A6%E7%94%A2%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4-%E5%BB%B6%E9%95%B7%E8%87%B327%E5%B9%B41%E6%9C%8827%E6%97%A5",
+    "published_date": "2026-11-25",
+    "summary": [
+      "中國商務部宣布延長暫停對美出口鎵、鍺、銻及超硬材料等戰略物資的限制，期限至2027年1月27日。",
+      "原定本月底屆滿的管制豁免將再延長兩個月，中方稱此為階段性政策優化，旨在統籌安全與發展。",
+      "特朗普稱中國將再添購250架波音飛機，但未透露機型、交貨時間或航空公司，波音及中方未回應。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "8569a54e1a44111e99ce14c0",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美媒：美國擬向中國歐盟等貿易夥伴加徵關稅  最快本周公布 最終稅率未定",
+    "url": "https://www.stheadline.com/realtime-world/3640875/%E7%BE%8E%E5%AA%92%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%90%91%E4%B8%AD%E5%9C%8B%E6%AD%90%E7%9B%9F%E7%AD%89%E8%B2%BF%E6%98%93%E5%A4%A5%E4%BC%B4%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E6%9C%80%E5%BF%AB%E6%9C%AC%E5%91%A8%E5%85%AC%E5%B8%83-%E6%9C%80%E7%B5%82%E7%A8%85%E7%8E%87%E6%9C%AA%E5%AE%9A",
+    "published_date": "2026-11-25",
+    "summary": [
+      "美國擬向中國、歐盟等貿易夥伴加徵關稅，貿易代表署最快本周公布調查結果。",
+      "新措施針對工業補貼及產能過剩，涵蓋中國、日本、南韓、印度、越南及歐盟等。",
+      "最終稅率及實施日期未定，中國若貿易休戰延長，關稅上限料維持20%。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "f5f83ac3f46d460fc133d01f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "武術比賽︱女生出場即滑跪兼「蜈蚣彈」失敗  奪學界亞軍惹議｜有片",
+    "url": "https://www.stheadline.com/realtime-china/3640625/%E6%AD%A6%E8%A1%93%E6%AF%94%E8%B3%BD%E5%A5%B3%E7%94%9F%E5%87%BA%E5%A0%B4%E5%8D%B3%E6%BB%91%E8%B7%AA%E5%85%BC%E8%9C%88%E8%9A%A3%E5%BD%88%E5%A4%B1%E6%95%97-%E5%A5%AA%E5%AD%B8%E7%95%8C%E4%BA%9E%E8%BB%8D%E6%83%B9%E8%AD%B0%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-25",
+    "summary": [
+      "內蒙古中學生武術錦標賽中，零基礎女生張佳妮南棍比賽開場滑跪摔倒、蜈蚣彈失敗，仍奪全區亞軍。",
+      "其教練稱她賽前僅利用晚自習練習一個月，網民質疑評分放水，憂成升學捷徑灰色通道。",
+      "主辦方及校方未公開評分標準與扣分紀錄，亦未回應輿論質疑。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "c6d7b55f91951ca5cb121621",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "普京稱烏克蘭無視特朗普要求續襲俄煉油廠 揚言必定報復",
+    "url": "https://www.stheadline.com/realtime-world/3640871/%E6%99%AE%E4%BA%AC%E7%A8%B1%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E8%A6%96%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E7%BA%8C%E8%A5%B2%E4%BF%84%E7%85%89%E6%B2%B9%E5%BB%A0-%E6%8F%9A%E8%A8%80%E5%BF%85%E5%AE%9A%E5%A0%B1%E5%BE%A9",
+    "published_date": "2026-11-25",
+    "summary": [
+      "普京指烏克蘭無視特朗普呼籲，持續襲擊俄煉油廠，揚言報復無可避免。",
+      "烏外長瑟比加反駁稱普京下令結束戰爭即可停止襲擊，促勿再抱怨。",
+      "業界估算烏無人機襲擊令俄煉油廠原油加工量自10月底減45%。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "9925431816a50e5430830dac",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "沙特利雅得最高大廈遭胡塞襲擊 至少11人受傷 一周內第二次",
+    "url": "https://www.stheadline.com/realtime-world/3640868/%E6%B2%99%E7%89%B9%E5%88%A9%E9%9B%85%E5%BE%97%E6%9C%80%E9%AB%98%E5%A4%A7%E5%BB%88%E9%81%AD%E8%83%A1%E5%A1%9E%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%9111%E4%BA%BA%E5%8F%97%E5%82%B7-%E4%B8%80%E5%91%A8%E5%85%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1",
+    "published_date": "2026-11-25",
+    "summary": [
+      "也門胡塞武裝周二再度襲擊利雅得公共投資基金大樓，造成至少11人受傷。",
+      "該大廈一周內第二次遇襲，外牆中段損毀，情況與11月19日首次襲擊相似。",
+      "連串襲擊致飛往利雅得大部分國際航班取消，沙特被迫押後或取消多項國際活動。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "7bff3a81a23c29964241a444",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "英王儲威廉夫婦鄉郊莊園遇竊 英警當場拘捕兩男子 事發時屋內無人",
+    "url": "https://www.stheadline.com/realtime-world/3640864/%E8%8B%B1%E7%8E%8B%E5%84%B2%E5%A8%81%E5%BB%89%E5%A4%AB%E5%A9%A6%E9%84%89%E9%83%8A%E8%8E%8A%E5%9C%92%E9%81%87%E7%AB%8A-%E8%8B%B1%E8%AD%A6%E7%95%B6%E5%A0%B4%E6%8B%98%E6%8D%95%E5%85%A9%E7%94%B7%E5%AD%90-%E4%BA%8B%E7%99%BC%E6%99%82%E5%B1%8B%E5%85%A7%E7%84%A1%E4%BA%BA",
+    "published_date": "2026-11-25",
+    "summary": [
+      "英國王儲威廉夫婦鄉間住所安默大宅周一晚遭爆竊，警方接報後搜索。",
+      "警方出動警犬、無人機及直升機，當場拘捕兩名涉爆竊及擅闖男子。",
+      "事發時屋內無人，威廉發言人表示不就保安事宜評論。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "22d9f4c17356a2798cb69dbf",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "海關機場一日破兩宗旅客販毒案 檢400萬元大麻花拘4男 揭用零食包裝藏毒",
+    "url": "https://www.stheadline.com/breaking-news/3640793/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E4%B8%80%E6%97%A5%E7%A0%B4%E5%85%A9%E5%AE%97%E6%97%85%E5%AE%A2%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2400%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%984%E7%94%B7-%E6%8F%AD%E7%94%A8%E9%9B%B6%E9%A3%9F%E5%8C%85%E8%A3%9D%E8%97%8F%E6%AF%92",
+    "published_date": "2026-11-24",
+    "summary": [
+      "海關在香港國際機場偵破兩宗航空入境旅客販毒案，共檢獲約19公斤懷疑大麻花。",
+      "涉案大麻花市值約400萬港元，海關共拘捕4名中國籍入境男子。",
+      "首宗案件有人利用零食包裝掩飾藏毒，海關另在相關男子身上發現未完稅香煙。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
   }
 ]
