@@ -1,5 +1,213 @@
 [
   {
+    "id": "63cc4f11657d981608a85070",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "屯門快餐店現巨鼠 食環署巡查發兩改善通知並檢控兩食肆",
+    "url": "https://www.stheadline.com/breaking-news/3641621/%E5%B1%AF%E9%96%80%E5%BF%AB%E9%A4%90%E5%BA%97%E7%8F%BE%E5%B7%A8%E9%BC%A0-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%B7%A1%E6%9F%A5%E7%99%BC%E5%85%A9%E6%94%B9%E5%96%84%E9%80%9A%E7%9F%A5%E4%B8%A6%E6%AA%A2%E6%8E%A7%E5%85%A9%E9%A3%9F%E8%82%86",
+    "published_date": "2026-11-27",
+    "summary": [
+      "屯門華都商場快餐店影片顯示巨鼠爬行，女食客受驚大叫，引起網民關注。",
+      "食環署巡查涉事及鄰近食肆，發出兩張改善清潔及維修通知，限14天內完成。",
+      "署方另向兩間涉違規食肆持牌人提出檢控，並敦促商場管理公司加強防鼠。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "b90a2f6d3c5e6df097132ea2",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "牛池灣海港花園連環爆竊 兩單位共失值32萬金器珠寶",
+    "url": "https://www.stheadline.com/breaking-news/3641631/%E7%89%9B%E6%B1%A0%E7%81%A3%E6%B5%B7%E6%B8%AF%E8%8A%B1%E5%9C%92%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E5%85%A9%E5%96%AE%E4%BD%8D%E5%85%B1%E5%A4%B1%E5%80%BC32%E8%90%AC%E9%87%91%E5%99%A8%E7%8F%A0%E5%AF%B6",
+    "published_date": "2026-11-27",
+    "summary": [
+      "牛池灣海港花園兩單位連環遭爆竊，窗戶被撬，共失約32萬元金器珠寶。",
+      "64歲女住戶先於周三晚報案失約8萬元金器，50歲女住戶翌日報案失約24萬元。",
+      "警方合併兩案列作連環爆竊跟進，暫未有人被捕，屋苑正進行大維修搭棚架。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "0313a640beff306cd9923dac",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "特區護照缺頁風波｜由慶生之旅變被捕夜 一文掌握全發展 尚留三疑團未解",
+    "url": "https://www.stheadline.com/breaking-news/3641636/%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E7%BC%BA%E9%A0%81%E9%A2%A8%E6%B3%A2%E7%94%B1%E6%85%B6%E7%94%9F%E4%B9%8B%E6%97%85%E8%AE%8A%E8%A2%AB%E6%8D%95%E5%A4%9C-%E4%B8%80%E6%96%87%E6%8E%8C%E6%8F%A1%E5%85%A8%E7%99%BC%E5%B1%95-%E5%B0%9A%E7%95%99%E4%B8%89%E7%96%91%E5%9C%98%E6%9C%AA%E8%A7%A3",
+    "published_date": "2026-11-27",
+    "summary": [
+      "27歲港女與34歲男友赴日本慶生，女方特區護照被揭缺第15至18頁，遭拒入境。",
+      "女事主網上稱護照出廠漏頁，入境處化驗發現人為撕頁痕跡，遂拘捕涉案情侶。",
+      "兩人涉非法改動旅行證件等3罪，罪成最高囚14年罰款15萬元，案情仍有三疑團。"
+    ],
+    "summary_version": 2,
+    "category": "港聞"
+  },
+  {
+    "id": "bf3ea5ffd67871a56784ed3c",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "安踏︱上海分店掛巨型麵包羽絨服真假難辨  網民：保暖實用優先",
+    "url": "https://www.stheadline.com/realtime-china/3641377/%E5%AE%89%E8%B8%8F%E4%B8%8A%E6%B5%B7%E5%88%86%E5%BA%97%E6%8E%9B%E5%B7%A8%E5%9E%8B%E9%BA%B5%E5%8C%85%E7%BE%BD%E7%B5%A8%E6%9C%8D%E7%9C%9F%E5%81%87%E9%9B%A3%E8%BE%A8-%E7%B6%B2%E6%B0%91%E4%BF%9D%E6%9A%96%E5%AF%A6%E7%94%A8%E5%84%AA%E5%85%88",
+    "published_date": "2026-11-27",
+    "summary": [
+      "安踏在上海泰安路將麵包店Trifle限時改裝為「安踏加芯麵包坊」快閃空間。",
+      "店內懸掛外觀如金黃麵包的巨型羽絨服，並以冷藏櫃陳列多彩麵包羽絨系列。",
+      "網民反應兩極，有人讚設計新穎，亦有人認為羽絨服應以保暖實用為先。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "ba44addcbed6448b77d1ba72",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "立陶宛總理：台灣代表處若拒改名　保留單方面撤銷法律地位權利",
+    "url": "https://www.stheadline.com/realtime-world/3641628/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%B8%BD%E7%90%86%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E8%99%95%E8%8B%A5%E6%8B%92%E6%94%B9%E5%90%8D%E4%BF%9D%E7%95%99%E5%96%AE%E6%96%B9%E9%9D%A2%E6%92%A4%E9%8A%B7%E6%B3%95%E5%BE%8B%E5%9C%B0%E4%BD%8D%E6%AC%8A%E5%88%A9",
+    "published_date": "2026-11-27",
+    "summary": [
+      "立陶宛總理辛克維丘斯表示，若台灣駐立陶宛代表處拒絕更名，政府保留單方面撤銷其法律地位的權利。",
+      "他強調立方不希望走到這一步，但相關法律選項仍可使用；台方重申名稱經雙方協議，無意更改。",
+      "立陶宛現屆政府將對華外交關係正常化列入施政綱領，盼外長在接任歐盟輪任主席國前達成目標。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "4fb65f5eebf2eb51f2b118ae",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "伊朗19歲未婚懷孕少女疑遭「榮譽處決」 父母逼吞30粒藥丸再以枕頭焗斃",
+    "url": "https://www.stheadline.com/realtime-world/3641630/%E4%BC%8A%E6%9C%9719%E6%AD%B2%E6%9C%AA%E5%A9%9A%E6%87%B7%E5%AD%95%E5%B0%91%E5%A5%B3%E7%96%91%E9%81%AD%E6%A6%AE%E8%AD%BD%E8%99%95%E6%B1%BA-%E7%88%B6%E6%AF%8D%E9%80%BC%E5%90%9E30%E7%B2%92%E8%97%A5%E4%B8%B8%E5%86%8D%E4%BB%A5%E6%9E%95%E9%A0%AD%E7%84%97%E6%96%83",
+    "published_date": "2026-11-27",
+    "summary": [
+      "伊朗19歲少女法塔希未婚懷孕，疑遭父母強迫吞30粒藥丸後以枕頭焗斃。",
+      "警方拘捕其父母，兩人向救護人員直認殺害親女，人權組織指屬榮譽處決。",
+      "伊朗一周內第三宗年輕女性遇害案，國內反婦女暴力立法停滯逾十年。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "1ded5758de2def9501a744dc",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "黃仁勳舊居曝光｜水晶燈三角琴配泳池酒窖　訪客憶妻子待客親切",
+    "url": "https://www.stheadline.com/realtime-world/3641639/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%88%8A%E5%B1%85%E6%9B%9D%E5%85%89%E6%B0%B4%E6%99%B6%E7%87%88%E4%B8%89%E8%A7%92%E7%90%B4%E9%85%8D%E6%B3%B3%E6%B1%A0%E9%85%92%E7%AA%96%E8%A8%AA%E5%AE%A2%E6%86%B6%E5%A6%BB%E5%AD%90%E5%BE%85%E5%AE%A2%E8%A6%AA%E5%88%87",
+    "published_date": "2026-11-27",
+    "summary": [
+      "黃仁勳一處昔日居所內部面貌近日隨2019年舊片段曝光，引起關注。",
+      "片段見水晶吊燈、三角琴、泳池及酒窖，車庫至少兩輛跑車包括法拉利。",
+      "龍心基金會創辦人王正儀稱到訪時獲洛莉親切款待，讚其優雅大方。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "03cef3ea3245d25ffea9288e",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "中國雨林保護現「海南樣板」  極瀕危長臂猿從不足10隻增至44隻",
+    "url": "https://www.stheadline.com/realtime-china/3641371/%E4%B8%AD%E5%9C%8B%E9%9B%A8%E6%9E%97%E4%BF%9D%E8%AD%B7%E7%8F%BE%E6%B5%B7%E5%8D%97%E6%A8%A3%E6%9D%BF-%E6%A5%B5%E7%80%95%E5%8D%B1%E9%95%B7%E8%87%82%E7%8C%BF%E5%BE%9E%E4%B8%8D%E8%B6%B310%E9%9A%BB%E5%A2%9E%E8%87%B344%E9%9A%BB",
+    "published_date": "2026-11-26",
+    "summary": [
+      "2026熱帶雨林生態夥伴大會在海口舉辦，20多國代表探討雨林保護等議題。",
+      "海南長臂猿種群由不足10隻增至44隻，是全球唯一持續增長的長臂猿。",
+      "香港嘉道理保育機構參與種樹苗及架繩橋，緩解長臂猿棲息地碎片化。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "9b8c6f60973a34ee3c003e18",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "霸王泊車｜山西2私家車違泊地盤拒駛走  工人怒掘深溝困車變「孤島」",
+    "url": "https://www.stheadline.com/realtime-china/3641379/%E9%9C%B8%E7%8E%8B%E6%B3%8A%E8%BB%8A%E5%B1%B1%E8%A5%BF2%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%95%E6%B3%8A%E5%9C%B0%E7%9B%A4%E6%8B%92%E9%A7%9B%E8%B5%B0-%E5%B7%A5%E4%BA%BA%E6%80%92%E6%8E%98%E6%B7%B1%E6%BA%9D%E5%9B%B0%E8%BB%8A%E8%AE%8A%E5%AD%A4%E5%B3%B6",
+    "published_date": "2026-11-26",
+    "summary": [
+      "山西太原兩名車主違泊施工地盤並拒絕移車，工人遂沿車四周掘出深溝困車。",
+      "兩車被深溝包圍如孤島，影片在網上流傳後引發網民兩極討論。",
+      "經警方及社區介入調解，地盤已填平溝渠，兩名車主其後將車駛走。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "958f4c7ab7865ab626cd0c69",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "AI反圍標｜內地至少4省翻查工程標書  專家指多年後仍會露餡",
+    "url": "https://www.stheadline.com/realtime-china/3641400/AI%E5%8F%8D%E5%9C%8D%E6%A8%99%E5%85%A7%E5%9C%B0%E8%87%B3%E5%B0%914%E7%9C%81%E7%BF%BB%E6%9F%A5%E5%B7%A5%E7%A8%8B%E6%A8%99%E6%9B%B8-%E5%B0%88%E5%AE%B6%E6%8C%87%E5%A4%9A%E5%B9%B4%E5%BE%8C%E4%BB%8D%E6%9C%83%E9%9C%B2%E9%A4%A1",
+    "published_date": "2026-11-26",
+    "summary": [
+      "浙江江山亮化工程26家投標企業評分經AI比對現異常，查出國資中心前負責人馮疆涉賄，判囚兩年半。",
+      "合肥公共資源交易大模型截至今年6月監測逾20萬份標書，助警方破獲324宗串通投標案。",
+      "湖南武岡國企將逾600萬元工程拆成兩項以規避公開招標，被監督模型識破，董事長等3人被查。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "87f8a5b034c2b7de1a583744",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "貼地神課｜南開大學「過日子課」爆紅  校工教煮餸修電器一位難求",
+    "url": "https://www.stheadline.com/realtime-china/3641416/%E8%B2%BC%E5%9C%B0%E7%A5%9E%E8%AA%B2%E5%8D%97%E9%96%8B%E5%A4%A7%E5%AD%B8%E9%81%8E%E6%97%A5%E5%AD%90%E8%AA%B2%E7%88%86%E7%B4%85-%E6%A0%A1%E5%B7%A5%E6%95%99%E7%85%AE%E9%A4%B8%E4%BF%AE%E9%9B%BB%E5%99%A8%E4%B8%80%E4%BD%8D%E9%9B%A3%E6%B1%82",
+    "published_date": "2026-11-26",
+    "summary": [
+      "南開大學開設《校園勞育與生活素養提升實踐》通識選修課，被學生稱為「過日子課」。",
+      "課程由飯堂廚師、後勤維修員及咖啡師等前線員工任教，教授煮餸、維修電器及急救等技能。",
+      "選課名額開放後迅速爆滿，學生形容每周上課有全新體驗，體會勞動的專業性。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "b3e42f473df3b9d4d948809c",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "偷龍轉鳳｜浙江女開逾20帳戶購¥10萬名牌衫   換吊牌退A貨涉詐騙被捕",
+    "url": "https://www.stheadline.com/realtime-china/3641483/%E5%81%B7%E9%BE%8D%E8%BD%89%E9%B3%B3%E6%B5%99%E6%B1%9F%E5%A5%B3%E9%96%8B%E9%80%BE20%E5%B8%B3%E6%88%B6%E8%B3%BC10%E8%90%AC%E5%90%8D%E7%89%8C%E8%A1%AB-%E6%8F%9B%E5%90%8A%E7%89%8C%E9%80%80A%E8%B2%A8%E6%B6%89%E8%A9%90%E9%A8%99%E8%A2%AB%E6%8D%95",
+    "published_date": "2026-11-26",
+    "summary": [
+      "浙江女子自2023年起用逾20個帳戶網購名牌服飾，拆正貨吊牌縫到仿製品退回。",
+      "涉案金額達10萬元人民幣，湖州警方跨省拘捕她並檢獲52件正貨衣物。",
+      "疑犯供稱衣物全留作自用，已向涉事公司全額賠償，現涉詐騙被刑事拘留。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
+    "id": "3e6bc369559585ec9c4aee25",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "「86頁PDF」舉報風波｜武大證婚外情及學術造假屬捏造  但男女主角涉挪用經費免職",
+    "url": "https://www.stheadline.com/realtime-china/3641507/86%E9%A0%81PDF%E8%88%89%E5%A0%B1%E9%A2%A8%E6%B3%A2%E6%AD%A6%E5%A4%A7%E8%AD%89%E5%A9%9A%E5%A4%96%E6%83%85%E5%8F%8A%E5%AD%B8%E8%A1%93%E9%80%A0%E5%81%87%E5%B1%AC%E6%8D%8F%E9%80%A0-%E4%BD%86%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%B6%89%E6%8C%AA%E7%94%A8%E7%B6%93%E8%B2%BB%E5%85%8D%E8%81%B7",
+    "published_date": "2026-11-26",
+    "summary": [
+      "武大通報曾某與付某未介入婚姻及學術不端，相關指控屬捏造。",
+      "兩人任職武大期間違規使用科研經費，同遭黨內嚴重警告並免職。",
+      "曾某被免物理化學研究所副所長，付某被免安徽大學副校長等職務。"
+    ],
+    "summary_version": 2,
+    "category": "內地新聞"
+  },
+  {
     "id": "b1bb5909964771970f76111d",
     "source_id": "singtao",
     "newspaper": "星島日報",
@@ -59,6 +267,70 @@
       "《紐時》調查報道追溯黃樂出身湖南軍工小鎮，曾任職央視，其後轉戰投資及AI算力業務。",
       "黃樂與丈夫康偉參與長三角AI計算中心，配備英偉達晶片，並透過東南亞資料中心規避出口管制。",
       "美方情報指黃樂曾與國安部官員聯繫，中國外交部否認間諜論；黃仁勳辭任後11天復職。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "2cc11e0a739092cf2137cd05",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "車Cam直擊｜波蘭男電動滑板車闖路軌  與高速列車僅差數cm擦身過｜有片",
+    "url": "https://www.stheadline.com/realtime-world/3641469/%E8%BB%8ACam%E7%9B%B4%E6%93%8A%E6%B3%A2%E8%98%AD%E7%94%B7%E9%9B%BB%E5%8B%95%E6%BB%91%E6%9D%BF%E8%BB%8A%E9%97%96%E8%B7%AF%E8%BB%8C-%E8%88%87%E9%AB%98%E9%80%9F%E5%88%97%E8%BB%8A%E5%83%85%E5%B7%AE%E6%95%B8cm%E6%93%A6%E8%BA%AB%E9%81%8E%E6%9C%89%E7%89%87",
+    "published_date": "2026-11-26",
+    "summary": [
+      "波蘭一名男子踩電動滑板車無視停車標誌闖入平交道，與高速列車僅差數厘米擦身而過。",
+      "鐵路營運商Polregio公開車載鏡頭片段，直斥男子罔顧安全，形容他能避過撞擊簡直是奇蹟。",
+      "該公司指今年初至公開影片期間，波蘭已有33人在平交道事故中喪生，另有27人重傷。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "dc3b7054fd5973a967e65ad4",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "曼谷石油設施爆炸釀9傷   威力巨大數公里外有感",
+    "url": "https://www.stheadline.com/realtime-world/3641473/%E6%9B%BC%E8%B0%B7%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD%E7%88%86%E7%82%B8%E9%87%809%E5%82%B7-%E5%A8%81%E5%8A%9B%E5%B7%A8%E5%A4%A7%E6%95%B8%E5%85%AC%E9%87%8C%E5%A4%96%E6%9C%89%E6%84%9F",
+    "published_date": "2026-11-26",
+    "summary": [
+      "曼谷邦納區邦卓石油庫發生爆炸，造成9人受傷，其中4人傷勢危急。",
+      "爆炸威力巨大，數公里外亦感震動，附近學校學生及居民被疏散。",
+      "火勢於下午3時15分被撲滅，公司關閉所有生產設備，事故原因仍在調查。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "7ce6b2ad02a37f0c47d752b8",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "USAID｜曝光248份內部文件  揭拜登政府夥Meta設「綠色通道」審爭議帖文",
+    "url": "https://www.stheadline.com/realtime-world/3641488/USAID%E6%9B%9D%E5%85%89248%E4%BB%BD%E5%85%A7%E9%83%A8%E6%96%87%E4%BB%B6-%E6%8F%AD%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%A4%A5Meta%E8%A8%AD%E7%B6%A0%E8%89%B2%E9%80%9A%E9%81%93%E5%AF%A9%E7%88%AD%E8%AD%B0%E5%B8%96%E6%96%87",
+    "published_date": "2026-11-26",
+    "summary": [
+      "美國公開約248份USAID內部文件，涉拜登時期與Meta等平台就虛假資訊的往來。",
+      "文件顯示USAID曾提供合作名單，讓平台加快處理被標記內容，並要求移除部分帖文。",
+      "文件亦涉與GDI合作評估媒體風險，共和黨參議員要求司法部調查。"
+    ],
+    "summary_version": 2,
+    "category": "國際新聞"
+  },
+  {
+    "id": "c90f1377f704a84aae6c757f",
+    "source_id": "singtao",
+    "newspaper": "星島日報",
+    "region": "香港",
+    "title": "美國油價｜民眾感恩節「捱貴油」  5日假期多付10億美元",
+    "url": "https://www.stheadline.com/realtime-world/3641505/%E7%BE%8E%E5%9C%8B%E6%B2%B9%E5%83%B9%E6%B0%91%E7%9C%BE%E6%84%9F%E6%81%A9%E7%AF%80%E6%8D%B1%E8%B2%B4%E6%B2%B9-5%E6%97%A5%E5%81%87%E6%9C%9F%E5%A4%9A%E4%BB%9810%E5%84%84%E7%BE%8E%E5%85%83",
+    "published_date": "2026-11-26",
+    "summary": [
+      "美國感恩節五天假期，全美平均油價升至每加侖3.61美元，較去年同期大升近兩成。",
+      "中東伊朗軍事衝突持續，霍爾木茲海峽受阻，車主假期額外支付近10億美元汽油費。",
+      "智庫數據顯示，開戰以來消費者與企業累計多付1,428億美元燃油成本，每家庭逾1,000美元。"
     ],
     "summary_version": 2,
     "category": "國際新聞"
